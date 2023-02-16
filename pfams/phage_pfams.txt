@@ -1,0 +1,314 @@
+PF00589	Phage integrase family	pfam	family	IPR002104		
+PF00959	Phage lysozyme	pfam	domain	IPR002196				
+PF01818	Bacteriophage translational regulator	pfam	domain	IPR002702		
+PF02061	Lambda Phage CIII	pfam	family	IPR013056		
+PF02899	Phage integrase, N-terminal SAM-like domain	pfam	domain	IPR004107		
+PF02914	Bacteriophage Mu transposase	pfam	domain	IPR004189		
+PF02924	Bacteriophage lambda head decoration protein D	pfam	domain	IPR004195		
+PF02925	Bacteriophage scaffolding protein D	pfam	domain	IPR004196		
+PF03197	Bacteriophage FRD2 protein	pfam	family	IPR004885		
+PF03245	Bacteriophage Rz lysis protein	pfam	domain	IPR004929		
+PF03335	Phage tail fibre repeat	pfam	repeat	IPR005003		
+PF03374	Phage antirepressor protein KilAC domain	pfam	family	IPR005039		
+PF03406	Phage tail fibre repeat	pfam	repeat	IPR005068		
+PF03863	Phage maturation protein	pfam	family	IPR005563				
+PF03903	Phage T4 tail fibre	pfam	family	IPR005601		
+PF03906	Phage T7 tail fibre protein	pfam	family	IPR005604		
+PF04020	Mycobacterial 4 TMS phage holin, superfamily IV	pfam	family	IPR007165		
+PF04233	Phage Mu protein F like protein	pfam	family	IPR006528		
+PF04466	Phage terminase large subunit	pfam	domain	IPR035412		
+PF04492	Bacteriophage replication protein O	pfam	family	IPR006497		
+PF04531	Bacteriophage holin	pfam	family	IPR006485		
+PF04550	Phage holin family 2	pfam	family	IPR007633		
+PF04630	Phage tail tube protein	pfam	family	IPR006724		
+PF04688	SPP1 phage holin	pfam	family	IPR006479		
+PF04717	Type VI secretion system/phage-baseplate injector OB domain	pfam	domain	IPR006531		
+PF04761	Lactococcus bacteriophage putative transcription regulator	pfam	family	IPR006848		
+PF04860	Phage portal protein	pfam	family	IPR006944		
+PF04883	Bacteriophage HK97-gp10, putative tail-component	pfam	family	IPR010064		
+PF04971	Bacteriophage P21 holin S	pfam	family	IPR007054		
+PF04984	Phage tail sheath protein subtilisin-like domain	pfam	domain	IPR035089		
+PF04985	Phage tail tube protein FII	pfam	family	IPR006498			
+PF05069	Phage virion morphogenesis family	pfam	family	IPR006522		
+PF05100	Phage minor tail protein L	pfam	family	IPR006487		
+PF05105	Bacteriophage holin family	pfam	family	IPR006480		
+PF05106	Phage holin family (Lysis protein S)	pfam	family	IPR006481		
+PF05119	Phage terminase, small subunit	pfam	family	IPR006448				
+PF05133	Phage portal protein, SPP1 Gp6-like	pfam	family	IPR021145		
+PF05135	Phage gp6-like head-tail connector protein	pfam	domain	IPR021146		
+PF05136	Phage portal protein, lambda family	pfam	family	IPR006429		
+PF05144	Phage replication protein CRI	pfam	domain	IPR022686		
+PF05155	Phage X family	pfam	family	IPR022688		
+PF05268	Phage tail fibre adhesin Gp38	pfam	family	IPR007932		
+PF05269	Bacteriophage CII protein	pfam	family	IPR007933			
+PF05352	Phage Connector (GP10)	pfam	family	IPR008016		
+PF05354	Phage Head-Tail Attachment	pfam	domain	IPR008018		
+PF05357	Phage Coat Protein A	pfam	domain	IPR008021		
+PF05367	Phage endonuclease I	pfam	domain	IPR008029		
+PF05382	Bacteriophage peptidoglycan hydrolase	pfam	family	IPR008044		
+PF05396	Phage T7 capsid assembly protein	pfam	family	IPR008768		
+PF05449	Putative 3TM holin, Phage_holin_3	pfam	domain	IPR008473		
+PF05489	Phage Tail Protein X	pfam	domain	IPR008861		
+PF05521	Phage head-tail joining protein	pfam	family	IPR008767		
+PF05666	Fels-1 Prophage Protein-like	pfam	family	IPR008617		
+PF05709	Phage tail protein	pfam	family	IPR008841		
+PF05766	Bacteriophage Lambda NinG protein	pfam	family	IPR008713		
+PF05798	Bacteriophage FRD3 protein	pfam	family	IPR008765		
+PF05840	Bacteriophage replication gene A protein (GPA)	pfam	family	IPR008766		
+PF05876	Phage terminase large subunit gpA, ATPase domain	pfam	domain	IPR046453		
+PF05926	Phage head completion protein (GPL)	pfam	family	IPR009225		
+PF05929	Phage capsid scaffolding protein (GPO) serine peptidase	pfam	family	IPR009228		
+PF05930	Prophage CP4-57 regulatory protein (AlpA)	pfam	family	IPR010260		
+PF05939	Phage minor tail protein	pfam	family	IPR010265		
+PF05944	Phage small terminase subunit	pfam	family	IPR010270		
+PF05954	Phage tail baseplate hub (GPD)	pfam	family			
+PF05973	Phage derived protein Gp49-like (DUF891)	pfam	domain	IPR009241		
+PF06019	Phage GP30.8 protein	pfam	family	IPR009258		
+PF06141	Phage minor tail protein U	pfam	family	IPR009312		
+PF06152	Phage minor capsid protein 2	pfam	family	IPR009319		
+PF06194	Phage Conserved Open Reading Frame 51	pfam	family	IPR009338		
+PF06199	Phage tail tube protein	pfam	family	IPR011855		
+PF06222	Phage tail assembly chaperone	pfam	family	IPR010411		
+PF06252	Bacteriophage Mu, GemA protein	pfam	family	IPR009363		
+PF06301	Bacteriophage lambda Kil protein	pfam	family	IPR010444		
+PF06322	Phage NinH protein	pfam	family	IPR010454		
+PF06323	Phage antitermination protein Q	pfam	family	IPR010455		
+PF06488	Phage tail tube protein	pfam	domain	IPR046764		
+PF06528	Phage P2 GpE	pfam	family	IPR009493		
+PF06530	Phage antitermination protein Q	pfam	family	IPR010534		
+PF06543	Lactococcus bacteriophage repressor	pfam	family	IPR009498		
+PF06591	T4-like phage nuclear disruption protein (Ndd)	pfam	family	IPR009514		
+PF06605	Prophage endopeptidase tail	pfam	family	IPR010572		
+PF06667	Phage shock protein B	pfam	family	IPR009554			
+PF06720	Bacteriophage phi-29 early protein GP16.7	pfam	family	IPR009595		
+PF06763	Prophage minor tail protein Z (GPZ)	pfam	family	IPR010633		
+PF06791	Prophage tail length tape measure protein	pfam	family	IPR009628		
+PF06805	Bacteriophage lambda tail assembly protein I	pfam	domain	IPR010654		
+PF06810	Phage minor structural protein GP20	pfam	family	IPR009636		
+PF06820	Putative prophage tail fibre C-terminus	pfam	family	IPR009640		
+PF06854	Bacteriophage Gp15 protein	pfam	family	IPR009660		
+PF06890	Bacteriophage Mu Gp45 spike protein	pfam	domain	IPR014462		
+PF06891	P2 phage tail completion protein R (GpR)	pfam	family	IPR009678		
+PF06892	Phage regulatory protein CII (CP76)	pfam	family	IPR009679		
+PF06894	Bacteriophage lambda tail assembly chaperone, TAC, protein G	pfam	family	IPR010027		
+PF06896	Phage tail assembly chaperone proteins, TAC	pfam	family	IPR009681		
+PF06919	Phage Gp30.7 protein	pfam	family	IPR009690		
+PF06946	Bacteriophage A118-like holin, Hol118	pfam	family	IPR009708		
+PF06995	Phage P2 GpU	pfam	family	IPR009734		
+PF07022	Bacteriophage CI repressor helix-turn-helix domain	pfam	domain	IPR010744		
+PF07030	Bacteriophage Mu, Gp36	pfam	family	IPR009752		
+PF07066	Lactococcus phage M3 protein	pfam	family	IPR009773		
+PF07141	Putative bacteriophage terminase small subunit	pfam	family	IPR010789		
+PF07230	Bacteriophage T4-like portal protein (Gp20)	pfam	family	IPR010823		
+PF07352	Bacteriophage Mu Gam like protein	pfam	family	IPR009951		
+PF07409	Phage protein GP46	pfam	family	IPR010877		
+PF07410	Streptococcus thermophilus bacteriophage Gp111 protein	pfam	family	IPR010878		
+PF07455	Phage polarity suppression protein (Psu)	pfam	family	IPR010006		
+PF07459	CTX phage RstB protein	pfam	family	IPR010008		
+PF07471	Phage DNA packaging protein Nu1	pfam	family	IPR010906		
+PF07484	Phage Tail Collar Domain	pfam	domain	IPR011083		
+PF07874	Prophage protein (DUF1660)	pfam	family	IPR012455		
+PF07880	Bacteriophage T4 gp9/10-like protein	pfam	family	IPR008987		
+PF08010	Bacteriophage protein GP30.3	pfam	family	IPR012596		
+PF08199	Bacteriophage E2-like protein	pfam	family	IPR013184		
+PF08200	Bacteriophage 1.1 Protein	pfam	family	IPR013232		
+PF08400	Prophage tail fibre N-terminal	pfam	family	IPR013609		
+PF08748	Phage tail assembly chaperone	pfam	domain	IPR014859		
+PF08809	Phage related hypothetical protein (DUF1799)	pfam	domain	IPR014915		
+PF08813	Phage tail tube protein, TTP	pfam	family	IPR014918		
+PF08873	Bacteriophage Mu, Gp37	pfam	domain	IPR014972		
+PF08890	Phage XkdN-like tail assembly chaperone protein, TAC	pfam	family	IPR014986		
+PF08931	Receptor-binding protein of phage tail base-plate Siphoviridae, head	pfam	domain	IPR015027		
+PF08948	Bacteriophage PRD1, P5, spike N-terminal	pfam	domain	IPR015043		
+PF08949	Bacteriophage PRD1, spike protein P5, C-terminal	pfam	domain	IPR015044		
+PF09003	Bacteriophage lambda integrase, Arm DNA-binding domain	pfam	domain	IPR015094		
+PF09063	Phage PP7 coat protein	pfam	domain	IPR015148		
+PF09089	Phage short tail fibre protein gp12, middle domain	pfam	repeat	IPR015173		
+PF09158	Bacteriophage T4 MotA, C-terminal	pfam	domain	IPR015241		
+PF09198	Bacteriophage T4 beta-glucosyltransferase	pfam	domain	IPR015281		
+PF09214	Bacteriophage Prd1, adsorption protein P2	pfam	family	IPR015297		
+PF09215	Bacteriophage T4, Gp8	pfam	domain	IPR015298		
+PF09251	Salmonella phage P22 tail-spike	pfam	repeat	IPR015331		
+PF09306	Bacteriophage, scaffolding protein	pfam	domain	IPR015385		
+PF09355	Phage protein Gp19/Gp15/Gp42	pfam	domain	IPR018963		
+PF09356	Phage conserved hypothetical protein BR0599	pfam	family	IPR018964		
+PF09393	Phage tail tube protein	pfam	domain	IPR018989		
+PF09524	Conserved phage C-terminus (Phg_2220_C)	pfam	domain	IPR011741		
+PF09550	Phage tail assembly chaperone protein, TAC	pfam	family	IPR019056		
+PF09583	Phage shock protein G (Phageshock_PspG)	pfam	family	IPR014318		
+PF09584	Phage shock protein PspD (Phageshock_PspD)	pfam	family	IPR014321		
+PF09669	Phage regulatory protein Rha (Phage_pRha)	pfam	family	IPR014054		
+PF09675	Chlamydia-phage Chp2 scaffold (Chlamy_scaf)	pfam	family	IPR014131		
+PF09681	N-terminal phage replisome organiser (Phage_rep_org_N)	pfam	family	IPR010056		
+PF09682	Bacteriophage holin of superfamily 6 (Holin_LLH)	pfam	family	IPR010026		
+PF09684	Phage tail protein (Tail_P2_I)	pfam	family	IPR006521		
+PF09693	Phage uncharacterised protein (Phage_XkdX)	pfam	family	IPR010022		
+PF09718	Lambda phage tail tape-measure protein (Tape_meas_lam_C)	pfam	domain	IPR006431		
+PF10076	Bacteriophage Mu-like, Gp48	pfam	family	IPR018755		
+PF10109	Phage tail assembly chaperone proteins, E, or 41 or 14	pfam	family	IPR019289		
+PF10122	Mu-like prophage protein Com	pfam	family	IPR019294		
+PF10123	Mu-like prophage I protein	pfam	family	IPR012106		
+PF10124	Mu-like prophage major head subunit gpT	pfam	family	IPR018774		
+PF10145	Phage-related minor tail protein	pfam	family	IPR010090		
+PF10618	Phage tail tube protein	pfam	family	IPR019596		
+PF10653	Protein gp45 of Bacteriophage A118	pfam	family	IPR018915		
+PF10666	Phage tail assembly chaperone protein Gp14 ()A118	pfam	family	IPR018923		
+PF10668	Phage terminase small subunit	pfam	domain	IPR018925		
+PF10669	Protein gp23 (Bacteriophage A118)	pfam	family	IPR018926		
+PF10743	Regulatory phage protein cox	pfam	family	IPR019679		
+PF10746	Phage holin T7 family, holin superfamily II	pfam	family	IPR019682		
+PF10765	Bacteriophage P22, NinX	pfam	family	IPR019701		
+PF10772	Bacteriophage HP1, Orf24	pfam	family	IPR019708		
+PF10789	Phage RNA polymerase binding, RpbA	pfam	family	IPR019725		
+PF10876	Phage tail assembly chaperone protein, TAC	pfam	family	IPR020351		
+PF10893	Bacteriophage 186, Fil	pfam	family	IPR021221		
+PF10899	Putative abortive phage resistance protein AbiGi, antitoxin	pfam	family	IPR021223		
+PF10911	Bacteriophage T7-like gene 6.5	pfam	family	IPR020121		
+PF10922	Bacteriophage T7-like, gene 1.2	pfam	family	IPR020147		
+PF10963	Phage tail assembly chaperone	pfam	family	IPR024406		
+PF11031	Bacteriophage T holin	pfam	family	IPR020982		
+PF11043	Bacteriophage P22, anti-RecBCD protein 2	pfam	family	IPR020500		
+PF11087	PRD1 phage membrane DNA delivery	pfam	family	IPR020085		
+PF11090	Bacteriophage T7, probable scaffold protein Gp13	pfam	family	IPR020335		
+PF11125	Bacteriophage MS2, lysis protein	pfam	family	IPR022599		
+PF11134	Phage stabilisation protein	pfam	family	IPR021098		
+PF11247	Bacteriophage T7, gene 5.5	pfam	family	IPR022611		
+PF11417	Loader and inhibitor of phage G40P	pfam	family	IPR024424		
+PF11602	ATPase P4 of dsRNA bacteriophage phi-12	pfam	family	IPR020973		
+PF11634	Nuclease inhibitor from bacteriophage T4	pfam	family	IPR024373		
+PF11653	Bacteriophage T7 virion assembly protein	pfam	family	IPR024281		
+PF11681	Bacteriophage KPP10, Structural protein ORF10	pfam	family	IPR021695		
+PF11836	Phage tail tube protein, GTA-gp10	pfam	family	IPR021791		
+PF11985	Bacteriophage Mu, Gp27	pfam	family	IPR021874		
+PF12025	Phage protein C	pfam	family	IPR016407		
+PF12195	Beta barrel domain of bacteriophage endosialidase	pfam	repeat	IPR024427		
+PF12217	Catalytic beta propeller domain of bacteriophage endosialidase	pfam	repeat	IPR024428		
+PF12218	N terminal extension of bacteriophage endosialidase	pfam	repeat	IPR024429		
+PF12219	Catalytic domain of bacteriophage endosialidase	pfam	repeat	IPR024430		
+PF12236	Bacteriophage head to tail connecting protein	pfam	family	IPR020991		
+PF12283	Bacteriophage protein K	pfam	family	IPR020962		
+PF12322	T4 bacteriophage base plate protein	pfam	family	IPR024364		
+PF12363	Phage tail assembly chaperone protein, TAC	pfam	family	IPR024410		
+PF12375	Phage protein	pfam	family	IPR021077		
+PF12461	Spiroplasma phage ORF1-like family	pfam	family	IPR022160		
+PF12472	Phage related protein	pfam	family	IPR021096		
+PF12482	Phage integrase protein	pfam	family	IPR022169		
+PF12571	Phage tail-collar fibre protein	pfam	family	IPR022225		
+PF12691	Bacteriophage minor capsid protein	pfam	family	IPR024411		
+PF12699	phiKZ-like phage internal head proteins	pfam	family	IPR024413		
+PF12789	Phage tail repeat like	pfam	repeat			
+PF12834	Phage integrase, N-terminal	pfam	domain	IPR024457		
+PF13102	Phage integrase SAM-like domain	pfam	domain	IPR025269		
+PF13283	Bacteriophage N adsorption protein A C-term	pfam	family	IPR025137		
+PF13495	Phage integrase, N-terminal SAM-like domain	pfam	domain	IPR004107		
+PF13550	Putative phage tail protein	pfam	domain	IPR032876		
+PF13554	Bacteriophage related domain of unknown function	pfam	family	IPR025395		
+PF13856	ATP-binding sugar transporter from pro-phage	pfam	domain	IPR025601		
+PF13876	Phage protein (N4 Gp49/phage Sf6 gene 66) family	pfam	family	IPR025915		
+PF14253	Bacteriophage abortive infection AbiH	pfam	family	IPR025935		
+PF14395	Phage phiEco32-like COOH.NH2 ligase-type 2	pfam	family	IPR025681		
+PF14550	Putative phage serine protease XkdF	pfam	family	IPR027924		
+PF14659	Phage integrase, N-terminal SAM-like domain	pfam	domain	IPR004107		
+PF15187	Oesophageal cancer-related gene 4	pfam	family	IPR028173		
+PF15284	Phage-encoded virulence factor	pfam	family	IPR029335		
+PF15859	Deleted in esophageal cancer 1 family	pfam	family	IPR031718		
+PF15969	Intracellular sensor of Lambda phage, Abi component	pfam	family	IPR031894		
+PF16079	Phage holin family Hol44, in holin superfamily V	pfam	family	IPR032111		
+PF16080	Bacteriophage holin family HP1	pfam	family	IPR032118		
+PF16081	Mycobacterial 2 TMS Phage Holin (M2 Hol) Family	pfam	family	IPR032121		
+PF16082	Bacteriophage holin family, superfamily II-like	pfam	family	IPR032124		
+PF16083	LydA holin phage, holin superfamily III	pfam	family	IPR032126		
+PF16085	Bacteriophage holin Hol, superfamily III	pfam	family	IPR032128		
+PF16452	Bacteriophage CI repressor C-terminal domain	pfam	domain	IPR032499		
+PF16459	Phage tail assembly chaperone, TAC	pfam	family	IPR024410		
+PF16460	Phage tail tube, TTP, lambda-like	pfam	family	IPR032495		
+PF16461	Lambda phage tail tube protein, TTP	pfam	family	IPR032494		
+PF16462	Phage tail assembly chaperone protein, TAC	pfam	family	IPR024410		
+PF16463	Phage tail tube protein family	pfam	family	IPR032493		
+PF16510	Phage P22-like portal protein	pfam	family	IPR032427		
+PF16532	Sf6-type phage tail needle knob or tip of some Caudovirales	pfam	domain	IPR032395		
+PF16710	N-terminal N1 domain of Vibrio phage CTXphi pIII	pfam	domain	IPR032014		
+PF16754	Bacterial toxin homologue of phage lysozyme, C-term	pfam	domain	IPR031922		
+PF16773	Lactococcus phage single-stranded DNA binding protein	pfam	domain	IPR031900		
+PF16778	Phage tail assembly chaperone protein	pfam	domain	IPR031893		
+PF16790	Bacteriophage clamp loader A subunit	pfam	domain	IPR031868		
+PF16792	Phage tail base-plate attachment protein of Caudovirales ORF16	pfam	domain	IPR031861		
+PF16793	RepB DNA-primase from phage plasmid	pfam	domain	IPR039459		
+PF16795	Archaeal phage integrase	pfam	domain	IPR031857		
+PF16805	Phage late-transcription coactivator	pfam	domain	IPR031836		
+PF16872	Putative phage abortive infection protein	pfam	family	IPR031709		
+PF16873	Putative abortive phage resistance protein AbiGii toxin	pfam	domain	IPR031707		
+PF16928	DNA/protein translocase of phage P22 injectosome	pfam	family	IPR031619		
+PF16931	Putative phage holin	pfam	family	IPR032637		
+PF16938	Putative phage holin Dp-1	pfam	family	IPR031612		
+PF16945	Putative lactococcus lactis phage r1t holin	pfam	family	IPR020109		
+PF17356	Phage-like element PBSX protein XtrA	pfam	family	IPR035530		
+PF17388	Mycobacteriophage tail assembly protein	pfam	family	IPR020132		
+PF17427	Phage Single-stranded DNA-binding protein	pfam	family	IPR035408		
+PF17468	Phage gene product 52	pfam	family	IPR035344		
+PF17470	Phage gene product 45.2	pfam	family	IPR035342		
+PF17481	Phage tail sheath protein beta-sandwich domain	pfam	domain	IPR035326		
+PF17482	Phage tail sheath C-terminal domain	pfam	domain	IPR020287		
+PF17527	Phage ALC protein	pfam	family	IPR020367		
+PF17570	Bacteriophage T7-like, protein 6.7	pfam	family	IPR020134		
+PF17594	Phage Tail fiber assembly helper gene product 57	pfam	family	IPR020159		
+PF17891	Mu-like prophage FluMu N-terminal domain	pfam	domain	IPR041227		
+PF18013	Phage tail lysozyme	pfam	domain	IPR041219		
+PF18066	Phage ABA sandwich domain	pfam	domain	IPR041270		
+PF18352	Phage protein Gp138 N-terminal domain	pfam	domain	IPR041599		
+PF18644	Phage integrase SAM-like domain	pfam	domain	IPR041308		
+PF18715	Phage spike trimer	pfam	repeat	IPR040629		
+PF18781	Phage spike trimer	pfam	repeat	IPR041303		
+PF18809	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease1	pfam	domain	IPR041092		
+PF18810	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease2	pfam	domain	IPR041110		
+PF18812	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease3	pfam	domain	IPR041301		
+PF18813	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease4	pfam	domain	IPR041420		
+PF18814	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease5	pfam	domain	IPR040998		
+PF18819	Phage MuF-C-terminal domain	pfam	domain	IPR041131		
+PF18894	Putative phage metallopeptidase	pfam	domain	IPR043998		
+PF18906	Phage tail tube protein	pfam	family	IPR044000		
+PF18994	Prophage endopeptidase tail N-terminal domain	pfam	domain	IPR044051		
+PF19199	Phage major coat protein, Gp8	pfam	family	IPR008020			
+PF20287	SH3 fold domain associated with phage DNA polymerases	pfam	domain	IPR046907		
+PF20577	Phage ORF5 protein	pfam	domain	IPR046781		
+PF20608	Phage tail tube protein C-terminal domain	pfam	domain	IPR046763	
+PF00716	Assemblin (Peptidase family S21)	Peptidase_S21	Pfam	Link	Link
+PF03420	Prohead core protein serine protease	Peptidase_S77	Pfam	Link	Link
+PF04586	Caudovirus prohead serine protease	Peptidase_S78	Pfam	Link	Link
+PF09979	Uncharacterized protein conserved in bacteria (DUF2213)	DUF2213	Pfam	Link	Link
+PF14550	Putative phage serine protease XkdF	Peptidase_S78_2	Pfam	Link	Link
+PF20034	Peptidase S80 family
+PF05565	Siphovirus Gp157	family	
+PF05895	Siphovirus protein of unknown function (DUF859)	family	
+PF08931	Receptor-binding protein of phage tail base-plate Siphoviridae, head	domain	
+PF14409	Ribosomally synthesized peptide in Herpetosiphon	family	
+PF14594	Siphovirus ReqiPepy6 Gp37-like protein	family
+PF13884	Chaperone of endosialidase
+PF05102
+PF07332
+PF10960
+PF11351
+PF13272
+PF16936
+CL0504
+PF03237
+PF17289
+CL0348 b'Phage_tail'
+PF10960
+PF11351
+PF13272
+PF03237	Terminase large subunit, T4likevirus-type, N-terminal	domain
+PF03354	Terminase large subunit, ATPase domain	domain
+PF03592	Terminase small subunit	family
+PF04466	Phage terminase large subunit	domain
+PF05119	Phage terminase, small subunit	family
+PF05876	Phage terminase large subunit gpA, ATPase domain
+PF05944	Phage small terminase subunit	family
+PF06056	Putative ATPase subunit of terminase (gpP-like)	family
+PF07141	Putative bacteriophage terminase small subunit	family
+PF10668	Phage terminase small subunit	domain	
+PF11053	Terminase DNA packaging enzyme	family
+PF17288	Terminase RNAseH like domain	domain
+PF17289	Terminase RNaseH-like domain	domain
+PF20441	Terminase large subunit, endonuclease domain	domain
+PF20454	Terminase large subunit gpA, endonuclease domain	domain

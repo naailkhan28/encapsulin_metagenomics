@@ -1,0 +1,51 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+PF00210	Ferritin-like domain	pfam	domain	IPR008331		
+PF00268	Ribonucleotide reductase, small chain	pfam	domain	IPR000358		
+PF01786	Alternative oxidase	pfam	family	IPR002680		
+PF02332	Methane/Phenol/Toluene Hydroxylase	pfam	domain	IPR003430		
+PF02915	Rubrerythrin	pfam	domain	IPR003251		
+PF03232	Ubiquinone biosynthesis protein COQ7	pfam	domain			
+PF03405	Fatty acid desaturase	pfam	domain	IPR005067		
+PF03713	Domain of unknown function (DUF305)	pfam	domain	IPR005183		
+PF04305	Protein of unknown function (DUF455)	pfam	family	IPR007402		
+PF05067	Manganese containing catalase	pfam	domain	IPR007760		
+PF05138	Phenylacetic acid catabolic protein	pfam	domain	IPR007814		
+PF05974	Domain of unknown function (DUF892)	pfam	domain	IPR010287		
+PF06175	tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)	pfam	domain	IPR010386		
+PF07875	Coat F domain	pfam	domain	IPR012851		
+PF09537	Domain of unknown function (DUF2383)	pfam	domain	IPR019052		
+PF09968	Uncharacterized protein domain (DUF2202)	pfam	domain	IPR019243		
+PF11266	Long-chain fatty aldehyde decarbonylase	pfam	domain	IPR022612		
+PF11553	Protein of unknown function (DUF3231)	pfam	family	IPR021617		
+PF11583	P-aminobenzoate N-oxygenase AurF	pfam	domain	IPR025859		
+PF12902	Ferritin-like	pfam	domain	IPR026820		
+PF13628	Domain of unknown function (DUF4142)	pfam	domain	IPR025419		
+PF13668	Ferritin-like domain	pfam	domain			
+PF13794	tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)-like	pfam	domain			
+PF14530	Domain of unknown function (DUF4439)	pfam	domain	IPR029447		
+PF18536	Domain of unknown function (DUF5623)	pfam	domain	IPR040531		
+PF19825	Domain of unknown function (DUF6306)	pfam	domain	IPR046273		
+PF20402	Domain of unknown function (DUF6692)	pfam	domain	IPR046514
+PF00116	Cytochrome C oxidase subunit II, periplasmic domain	pfam	domain	IPR002429		
+PF00127	Copper binding proteins, plastocyanin/azurin family	pfam	domain	IPR000923		
+PF00394	Multicopper oxidase	pfam	domain	IPR001117		
+PF00812	Ephrin	pfam	domain	IPR001799		
+PF02298	Plastocyanin-like domain	pfam	domain	IPR003245		
+PF06481	COX Aromatic Rich Motif	pfam	conserved_site	IPR010514		
+PF06525	Sulfocyanin (SoxE) domain	pfam	domain			
+PF07731	Multicopper oxidase	pfam	domain	IPR011706		
+PF07732	Multicopper oxidase	pfam	domain	IPR011707		
+PF08526	Protein-arginine deiminase (PAD) N-terminal domain	pfam	domain	IPR013732		
+PF08985	DP-EP family	pfam	domain	IPR015078		
+PF12306	Inclusion body protein	pfam	family	IPR021087		
+PF13473	Cupredoxin-like domain	pfam	domain	IPR028096		
+PF14699	N-terminal domain from the human glycogen debranching enzyme	pfam	family	IPR029436		
+PF16986	Heavy-metal resistance protein CzcE	pfam	domain	IPR031560		
+PF04261
+PF01814
+PF07731
+PF07732
+PF13447
+PF01593
+CL0044
+PF02578

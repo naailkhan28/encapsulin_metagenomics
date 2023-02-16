@@ -1,0 +1,157 @@
+Encapsulin MGYP,Cargo Description,Cargo Search Method
+MGYP000005098346,DyP Peroxidase,family1_clp_consensus
+MGYP001553646702,DyP Peroxidase,all_cargo_clp_consensus
+MGYP001551909951,DyP Peroxidase,all_cargo_clp_consensus
+MGYP000907569931,DyP Peroxidase,family1_clp_consensus
+MGYP003143336405,DyP Peroxidase,family1_clp_consensus
+MGYP003333389062,DyP Peroxidase,family1_clp_consensus
+MGYP003365071608,DyP Peroxidase,all_cargo_clp_consensus
+MGYP000014413890,DyP Peroxidase,Manually curated (Pfam)
+MGYP000421531091,DyP Peroxidase,Manually curated (Pfam)
+MGYP000520525852,DyP Peroxidase,Manually curated (Pfam)
+MGYP000126911704,DyP Peroxidase,Manually curated (Pfam)
+MGYP001556476986,DyP Peroxidase,Manually curated (Pfam)
+MGYP001383146917,Alternative oxidase,Manually curated (Pfam)
+MGYP003110546203,Amine oxidoreductase,Manually curated (Pfam)
+MGYP003583420273,Ferritin,all_cargo_clp_consensus
+MGYP003288119359,Ferritin,all_cargo_clp_consensus
+MGYP003667212087,Ferritin,all_cargo_clp_consensus
+MGYP000968200211,Ferritin,all_cargo_clp_consensus
+MGYP001627794273,Ferritin,all_cargo_clp_consensus
+MGYP001627778738,Ferritin,all_cargo_clp_consensus
+MGYP001627852876,Ferritin,all_cargo_clp_consensus
+MGYP001201249070,Ferritin,family1_clp_consensus
+MGYP001394323177,Ferritin,Manually curated (Pfam)
+MGYP003325516961,Ferritin,Manually curated (Pfam)
+MGYP003624910605,Ferritin,Manually curated (Pfam)
+MGYP001661260214,Ferritin,Manually curated (Pfam)
+MGYP001468603712,Ferritin,Manually curated (Pfam)
+MGYP001495822029,Ferritin,Manually curated (Pfam)
+MGYP001508311700,Ferritin,Manually curated (Pfam)
+MGYP003110657904,Ferritin,Manually curated (Pfam)
+MGYP003302485682,Ferritin,Manually curated (Pfam)
+MGYP003636907381,Ferritin,Manually curated (Pfam)
+MGYP000469965527,Ubiquinone biosynthesis protein COQ7,all_cargo_clp_consensus
+MGYP000906978198,Ubiquinone biosynthesis protein COQ7,Manually curated (Pfam)
+MGYP000937350499,Ubiquinone biosynthesis protein COQ7,Manually curated (Pfam)
+MGYP003365220014,Rubrerythrin,all_cargo_clp_consensus
+MGYP001772615312,Rubrerythrin,fusion
+MGYP001772626497,Rubrerythrin,fusion
+MGYP001626330305,Rubrerythrin,fusion
+MGYP001772614567,Rubrerythrin,fusion
+MGYP001772654563,Rubrerythrin,fusion
+MGYP001626204566,Rubrerythrin,fusion
+MGYP001772554294,Rubrerythrin,fusion
+MGYP001626178968,Rubrerythrin,fusion
+MGYP001626144185,Rubrerythrin,fusion
+MGYP001770631041,Rubrerythrin,fusion
+MGYP001772539121,Rubrerythrin,fusion
+MGYP001626153899,Rubrerythrin,Manually curated (Pfam)
+MGYP003370124888,Rubrerythrin,Manually curated (Pfam)
+MGYP003370219555,Rubrerythrin,Manually curated (Pfam)
+MGYP003371163271,Rubrerythrin,Manually curated (Pfam)
+MGYP000256924453,Manganese containing catalase,Manually curated (Pfam)
+MGYP000369174624,Manganese containing catalase,Manually curated (Pfam)
+MGYP001622861810,Manganese containing catalase,Manually curated (Pfam)
+MGYP001441299494,Manganese containing catalase,Manually curated (Pfam)
+MGYP001809623593,Cysteine Desulfurase,HMM Search
+MGYP003384526964,Cysteine Desulfurase,HMM Search
+MGYP000305901162,Cysteine Desulfurase,HMM Search
+MGYP000692187788,Cysteine Desulfurase,HMM Search
+MGYP000099485684,Cysteine Desulfurase,HMM Search
+MGYP000102431369,Cysteine Desulfurase,HMM Search
+MGYP003276588014,Cysteine Desulfurase,HMM Search
+MGYP001235099818,Cysteine Desulfurase,HMM Search
+MGYP003584596180,Cysteine Desulfurase,HMM Search
+MGYP001806476706,Cysteine Desulfurase,HMM Search
+MGYP003362069973,Cysteine Desulfurase,HMM Search
+MGYP001245027200,Cysteine Desulfurase,HMM Search
+MGYP003670114767,Cysteine Desulfurase,HMM Search
+MGYP001414737684,Cysteine Desulfurase,HMM Search
+MGYP000488071151,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP000284114529,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001553392266,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001553392266,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001627025497,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001627112497,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001806590860,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001806634088,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001809675765,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP003108509317,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001118532716,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP003365015307,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP003392391534,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP003584596180,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP003703364957,Cysteine Desulfurase,family2_ntd_consensus_motif
+MGYP001805856174,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP001806181312,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP001806805357,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003111298200,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003636931262,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003638149797,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003131404975,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP001365287079,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003111233400,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP001178754852,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP003598712058,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP000274412832,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000383995054,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000448240885,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000451269290,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000589872918,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000630911641,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000634505699,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000764163578,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001166782316,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001175774113,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001189200863,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001191932810,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001305861203,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001328062919,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001372087536,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001502388070,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001784225213,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001772895215,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001522116553,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP000631152961,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001770665372,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP001809836267,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP003626152403,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP003332684113,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP003333955921,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP003340515683,Polyprenyl Transferase,Manually curated (Pfam)
+MGYP002732142711,Polyprenyl Transferase,HMM Search
+MGYP000303765274,Polyprenyl Transferase,HMM Search
+MGYP000702098687,Xylulose Kinase,Manually curated (Pfam)
+MGYP003110882604,Saccharide BGC (Redox),DeepBGC
+MGYP003662477660,Saccharide BGC (Redox),DeepBGC
+MGYP003626701920,Saccharide BGC (Redox),DeepBGC
+MGYP001595624303,Saccharide BGC (Redox),DeepBGC
+MGYP003144635947,Saccharide BGC (Redox),DeepBGC
+MGYP001437231829,Saccharide BGC (Redox),DeepBGC
+MGYP003111298200,Saccharide BGC (Redox),DeepBGC
+MGYP003131024615,Saccharide BGC (Redox),DeepBGC
+MGYP003113059926,Saccharide BGC (Redox),DeepBGC
+MGYP003131404975,Saccharide BGC (Redox),DeepBGC
+MGYP003131986813,Saccharide BGC (Redox),DeepBGC
+MGYP001216717877,Saccharide BGC (Redox),DeepBGC
+MGYP001178754852,Saccharide BGC (Redox),DeepBGC
+MGYP003109322860,Saccharide BGC (Redox),DeepBGC
+MGYP003110546203,Saccharide BGC (Redox),DeepBGC
+MGYP001412933479,Saccharide BGC,DeepBGC
+MGYP003636931262,Saccharide BGC,DeepBGC
+MGYP003341041167,Saccharide BGC,DeepBGC
+MGYP003134444350,Saccharide BGC,DeepBGC
+MGYP003332394819,Saccharide BGC,DeepBGC
+MGYP003662771788,Saccharide BGC,DeepBGC
+MGYP003131556693,Saccharide BGC,DeepBGC
+MGYP003626144734,Saccharide BGC,DeepBGC
+MGYP001581572508,Saccharide BGC,DeepBGC
+MGYP001238560740,Saccharide BGC,DeepBGC
+MGYP003662629166,Saccharide BGC,DeepBGC
+MGYP003111233400,Saccharide BGC,DeepBGC
+MGYP003331015935,Saccharide BGC,DeepBGC
+MGYP003638549746,Saccharide BGC,DeepBGC
+MGYP003625121643,DeoC,Manually curated (Pfam)
+MGYP000377540521,DeoC,Manually curated (Pfam)
+MGYP001770687550,OsmC,Manually curated (Pfam)
