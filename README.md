@@ -337,6 +337,13 @@ Download biome metadata and create dataframe:
 
 Explore biome data and plots in file `notebooks/biomes_EDA.ipynb`
 
+### Extract ESM-IF Representations
+
+Install ESM-IF as per instructions [here](https://github.com/facebookresearch/esm/tree/main/examples/inverse_folding).
+
+    mkdir structures/representations
+    python scripts/38_get_esm_if_representations.py
+
 ## Phylogenetic Analysis
 
 ### Prepare Input Data
