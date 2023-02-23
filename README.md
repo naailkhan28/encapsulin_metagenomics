@@ -328,6 +328,29 @@ You'll also need to add the following to the end of the `chain_id_mapping.txt` f
 
     perl ../DALI/DaliLite.v5/bin/dali.pl --matrix --query DALI/chain_id_mapping.txt --dat1 DALI/data --clean
 
+Be patient - this takes 5+ days!!
+
+### Process DALI output data and explore
+
+See notebook `notebooks/DALI_data_analysis.ipynb` for details and processing steps. To make output DataFrame:
+
+    python scripts/40_write_DALI_dataframe.py
+
+Let's also write sequence files containing the sequences of each cluster:
+
+    mkdir seqs/DALI_structure_clusters
+    python 41_make_structure_cluster_files.py
+
+And we can also cluster these sets of sequences at 80% identity to get a reduced list of structures in each cluster:
+
+    sh scripts/42_cluster_seqs_from_structure_clusters.sh
+
+Lastly, let's create a set of folders and put the reduced structure sets in each one so we can download them and interpret them:
+
+    python scripts/43_move_reduced_structure_clusters.py
+
+Check `structures/clusters` - there'll be a folder for each cluster with a set of reduced structures in each one for download and manual inspection.
+
 ## Analyzing Biome Distribution Data
 
 Download biome metadata and create dataframe:
