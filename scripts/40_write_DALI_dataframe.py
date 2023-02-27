@@ -3,13 +3,15 @@
 
 import pandas as pd
 import numpy as np
-from scipy.cluster.hierarchy import linkage, dendrogram
+from scipy.cluster import hierarchy
 from Bio import SeqIO
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
 from Bio import PDB
 from glob import glob
 import warnings
 from collections import defaultdict
+import matplotlib as mpl
+from matplotlib.pyplot import cm
 
 #We need to skip the first column and the first row of the input file since this is where the labels are
 print("Loading DALI matrix and labels")
@@ -26,8 +28,10 @@ similar_submatrix = similarity_matrix[130:, 130:]
 
 #Carry out hierarchical clustering with complete linkage
 print("Clustering data")
-Z = linkage(similar_submatrix, "complete")
-tree = dendrogram(Z, p=5, truncate_mode="none", color_threshold=150)
+Z = hierarchy.linkage(similar_submatrix, "complete")
+cmap = cm.tab20b(np.linspace(0, 1, 16))
+hierarchy.set_link_color_palette([mpl.colors.rgb2hex(rgb[:3]) for rgb in cmap])
+tree = hierarchy.dendrogram(Z, p=5, truncate_mode="none", color_threshold=150)
 
 
 #Get a dictionary mapping each structure to a cluster using the dendrogram
@@ -128,4 +132,4 @@ def get_longest_unconfident_stretch(mgyp):
     return(max(lengths) if lengths else 0)
 
 cluster_df["Longest Disordered Region (pLDDT)"] = cluster_df["MGYP"].apply(get_longest_unconfident_stretch)
-outfile = cluster_df.to_csv("metadata/DALI_cluster_table.csv", index=False)
+outfile = cluster_df.to_csv("metadata/DALI_cluster_table_2.csv", index=False)
