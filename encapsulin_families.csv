@@ -86,13 +86,8 @@ MGYP003703364957,Cysteine Desulfurase,family2_ntd_consensus_motif
 MGYP001805856174,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP001806181312,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP001806805357,Cysteine Desulfurase,Manually curated (Pfam)
-MGYP003111298200,Cysteine Desulfurase,Manually curated (Pfam)
-MGYP003636931262,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP003638149797,Cysteine Desulfurase,Manually curated (Pfam)
-MGYP003131404975,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP001365287079,Cysteine Desulfurase,Manually curated (Pfam)
-MGYP003111233400,Cysteine Desulfurase,Manually curated (Pfam)
-MGYP001178754852,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP003598712058,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP000274412832,Polyprenyl Transferase,Manually curated (Pfam)
 MGYP000383995054,Polyprenyl Transferase,Manually curated (Pfam)
@@ -123,39 +118,32 @@ MGYP003340515683,Polyprenyl Transferase,Manually curated (Pfam)
 MGYP002732142711,Polyprenyl Transferase,HMM Search
 MGYP000303765274,Polyprenyl Transferase,HMM Search
 MGYP000702098687,Xylulose Kinase,Manually curated (Pfam)
-MGYP003110882604,Saccharide BGC (Redox),DeepBGC
-MGYP003662477660,Saccharide BGC (Redox),DeepBGC
-MGYP003626701920,Saccharide BGC (Redox),DeepBGC
-MGYP001595624303,Saccharide BGC (Redox),DeepBGC
-MGYP003144635947,Saccharide BGC (Redox),DeepBGC
-MGYP001437231829,Saccharide BGC (Redox),DeepBGC
-MGYP003111298200,Saccharide BGC (Redox),DeepBGC
-MGYP003131024615,Saccharide BGC (Redox),DeepBGC
-MGYP003113059926,Saccharide BGC (Redox),DeepBGC
-MGYP003131404975,Saccharide BGC (Redox),DeepBGC
-MGYP003131986813,Saccharide BGC (Redox),DeepBGC
-MGYP001216717877,Saccharide BGC (Redox),DeepBGC
-MGYP001178754852,Saccharide BGC (Redox),DeepBGC
-MGYP003109322860,Saccharide BGC (Redox),DeepBGC
-MGYP003110546203,Saccharide BGC (Redox),DeepBGC
-MGYP001412933479,Saccharide BGC,DeepBGC
-MGYP003636931262,Saccharide BGC,DeepBGC
-MGYP003341041167,Saccharide BGC,DeepBGC
-MGYP003134444350,Saccharide BGC,DeepBGC
-MGYP003332394819,Saccharide BGC,DeepBGC
-MGYP003662771788,Saccharide BGC,DeepBGC
-MGYP003131556693,Saccharide BGC,DeepBGC
-MGYP003626144734,Saccharide BGC,DeepBGC
-MGYP001581572508,Saccharide BGC,DeepBGC
-MGYP001238560740,Saccharide BGC,DeepBGC
-MGYP003662629166,Saccharide BGC,DeepBGC
-MGYP003111233400,Saccharide BGC,DeepBGC
-MGYP003331015935,Saccharide BGC,DeepBGC
-MGYP003638549746,Saccharide BGC,DeepBGC
 MGYP003667787347,NAGGN BGC,antiSMASH
 MGYP000432667684,NRPS-like BGC,antiSMASH
 MGYP003561695899,T3PKS-like BGC,antiSMASH
 MGYP003110288594,arylpolyene BGC,antiSMASH
+MGYP001216717877,Saccharide BGC,DeepBGC
+MGYP001412933479,Saccharide BGC,DeepBGC
+MGYP003109322860,Saccharide BGC,DeepBGC
+MGYP003110882604,Saccharide BGC,DeepBGC
+MGYP003113059926,Saccharide BGC,DeepBGC
+MGYP003131024615,Saccharide BGC,DeepBGC
+MGYP003131986813,Saccharide BGC,DeepBGC
+MGYP003134444350,Saccharide BGC,DeepBGC
+MGYP003331015935,Saccharide BGC,DeepBGC
+MGYP003332394819,Saccharide BGC,DeepBGC
+MGYP003341041167,Saccharide BGC,DeepBGC
+MGYP003626144734,Saccharide BGC,DeepBGC
+MGYP003626701920,Saccharide BGC,DeepBGC
+MGYP003638549746,Saccharide BGC,DeepBGC
+MGYP003662477660,Saccharide BGC,DeepBGC
+MGYP003662629166,Saccharide BGC,DeepBGC
+MGYP003662771788,Saccharide BGC,DeepBGC
+MGYP001178754852,Saccharide BGC/Cysteine Desulfurase (Hybrid),DeepBGC
+MGYP003111233400,Saccharide BGC/Cysteine Desulfurase (Hybrid),DeepBGC
+MGYP003111298200,Saccharide BGC/Cysteine Desulfurase (Hybrid),DeepBGC
+MGYP003131404975,Saccharide BGC/Cysteine Desulfurase (Hybrid),DeepBGC
+MGYP003636931262,Saccharide BGC/Cysteine Desulfurase (Hybrid),DeepBGC
 MGYP003625121643,DeoC,Manually curated (Pfam)
 MGYP000377540521,DeoC,Manually curated (Pfam)
 MGYP001770687550,OsmC,Manually curated (Pfam)

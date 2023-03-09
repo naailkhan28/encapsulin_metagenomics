@@ -1,0 +1,393 @@
+----------MGYP001178754852----------
+
+4509 - ENCAPSULIN Major capsid protein Gp23 - 6132
+7928 - Lipopolysaccharide assembly protein A domain - 8144
+9299 - Prephenate dehydrogenase - 9539
+9538 - GDP-mannose 4;6 dehydratase | Polysaccharide biosynthesis protein | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein | KR domain - 10441
+10440 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 11112
+11122 - DAHP synthetase I family | NeuB family - 11953
+11949 - Cytidylyltransferase | MobA-like NTP transferase domain | 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase - 12531
+12527 - D-isomer specific 2-hydroxyacid dehydrogenase; NAD binding domain | D-isomer specific 2-hydroxyacid dehydrogenase; catalytic domain - 13490
+13464 - Glycosyl transferase family 2 - 14697
+14698 - DegT/DnrJ/EryC1/StrS aminotransferase family | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class-V - 15856
+16648 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Polysaccharide biosynthesis protein - 17617
+17625 - Glycosyl transferase family 2 - 18561
+18557 - Protein of unknown function DUF115 - 19346
+19345 - Cytidylyltransferase | MobA-like NTP transferase domain - 20137
+20139 - HpcH/HpaI aldolase/citrate lyase family - 20880
+21227 - Iron-Sulfur binding protein C terminal | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S binding domain | 4Fe-4S binding domain | 4Fe-4S binding domain - 22352
+22351 - HpcH/HpaI aldolase/citrate lyase family - 23134
+23185 - Sulfotransferase family - 23887
+24802 - Glycosyltransferase family 29 (sialyltransferase) - 25414
+25418 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 26051
+26985 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 28281
+28290 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 29763
+30276 - Circularly permutated YpsA SLOG family | PFU (PLAA family ubiquitin binding) | YspA; cpYpsA-related SLOG family - 30681
+31128 - PD-(D/E)XK nuclease superfamily - 31992
+32170 - Bacteriophage clamp loader A subunit - 32614
+
+----------MGYP001216717877----------
+
+1118 - ENCAPSULIN Mu-like prophage major head subunit gpT - 2027
+10291 - Putative 2OG-Fe(II) oxygenase - 10810
+10806 - 2OG-Fe(II) oxygenase superfamily - 11445
+11446 - Putative 2OG-Fe(II) oxygenase - 12076
+12068 - 2OG-Fe(II) oxygenase superfamily - 12548
+12540 - 2OG-Fe(II) oxygenase superfamily - 13023
+17278 - Glycosyltransferase Family 4 | Glycosyl transferases group 1 | Glycosyl transferases group 1 - 18217
+26573 - Helicase conserved C-terminal domain | SNF2 family N-terminal domain - 28010
+
+----------MGYP001412933479----------
+
+348 - ENCAPSULIN Major capsid protein Gp23 - 2136
+9857 - Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 10658
+12586 - PhoH-like protein | AAA domain | ATPase family associated with various cellular activities (AAA) | AAA ATPase domain | DEAD/DEAH box helicase | Type II/IV secretion system protein | IstB-like ATP binding protein | AAA domain - 13324
+13342 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein | Polysaccharide biosynthesis protein | RmlD substrate binding domain - 14293
+14282 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | Polysaccharide biosynthesis protein - 15260
+15259 - Glycosyl transferase family 8 | Nucleotide-diphospho-sugar transferase - 16042
+16038 - Exostosin family - 16905
+16895 - Glycosyl transferase family 2 | Glycosyl transferase family 2 - 17639
+20106 - Polysaccharide biosynthesis protein | RmlD substrate binding domain | GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | Male sterility protein | 3-beta hydroxysteroid dehydrogenase/isomerase family - 20958
+20958 - Glycosyl transferase family group 2 | N-terminal domain of galactosyltransferase | Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyltransferase like family 2 | Glycosyltransferase like family - 22389
+22391 - C-methyltransferase C-terminal domain | Methyltransferase domain | Methyltransferase domain | Methyltransferase domain | Methyltransferase domain | Putative zinc binding domain | NAD dependent epimerase/dehydratase family | GDP-mannose 4;6 dehydratase | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family - 24959
+24969 - UDP-glucose/GDP-mannose dehydrogenase family; central domain | NAD binding domain of 6-phosphogluconate dehydrogenase | UDP-glucose/GDP-mannose dehydrogenase family; NAD binding domain - 25827
+25833 - dUTPase - 26436
+26425 - Domain of unknown function (DUF4494) - 26659
+26663 - Iron-binding zinc finger CDGSH type - 26843
+29172 - WYL domain - 29574
+
+----------MGYP003109322860----------
+
+245 - ENCAPSULIN Major capsid protein Gp23 - 1910
+7282 - Domain of unknown function (DUF4185) - 9790
+16706 - Chaperone of endosialidase - 17993
+17996 - Chaperone of endosialidase - 19226
+19226 - Chaperone of endosialidase - 20522
+20578 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyl transferases group 1 - 23029
+23025 - Radical SAM superfamily | Iron-sulfur cluster-binding domain - 24165
+24161 - Carbamoyltransferase N-terminus | Protein of unknown function (DUF4127) | Carbamoyltransferase C-terminus - 25796
+26525 - Carbamoyltransferase N-terminus | Glycoprotease family - 27611
+28942 - RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | Male sterility protein | GDP-mannose 4;6 dehydratase | Polysaccharide biosynthesis protein | 3-beta hydroxysteroid dehydrogenase/isomerase family - 29737
+29733 - pfkB family carbohydrate kinase - 30492
+30488 - Alcohol dehydrogenase GroES-like domain | Glucose dehydrogenase C-terminus | Zinc-binding dehydrogenase | Zinc-binding dehydrogenase - 31532
+31536 - 2OG-Fe(II) oxygenase superfamily | Putative 2OG-Fe(II) oxygenase - 32160
+32161 - Dehydrogenase E1 component | 1-deoxy-D-xylulose-5-phosphate synthase | Thiamine pyrophosphate enzyme; C-terminal TPP binding domain | Transketolase; pyrimidine binding domain - 33385
+33359 - short chain dehydrogenase | NAD dependent epimerase/dehydratase family | KR domain | Enoyl-(Acyl carrier protein) reductase - 34145
+
+----------MGYP003110882604----------
+
+1545 - Ribosomal protein S21 - 1731
+3130 - ENCAPSULIN Major capsid protein Gp23 - 4792
+20780 - Chaperone of endosialidase - 22040
+22043 - Chaperone of endosialidase - 23291
+23349 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyl transferases group 1 - 25815
+25801 - Radical SAM superfamily | Iron-sulfur cluster-binding domain - 26938
+
+----------MGYP003111233400----------
+
+0 - ENCAPSULIN Major capsid protein Gp23 - 1590
+5850 - Tup N-terminal - 6039
+8514 - Sigma-70 region 2 - 9219
+9218 - Glycosyltransferase like family 2 - 10016
+11373 - 5' nucleotidase; deoxy (Pyrimidine); cytosolic type C protein (NT5C) - 11952
+11964 - PhoH-like protein | AAA domain | AAA domain | Uncharacterized conserved protein (DUF2075) | Type III restriction enzyme; res subunit | AAA domain | ATPase family associated with various cellular activities (AAA) | AAA ATPase domain | DEAD/DEAH box helicase | Type II/IV secretion system protein | IstB-like ATP binding protein | AAA domain - 12711
+12729 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family - 13680
+13669 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Polysaccharide biosynthesis protein - 14644
+14640 - NUDIX domain - 15081
+15080 - DegT/DnrJ/EryC1/StrS aminotransferase family | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class-V | Aminotransferase class I and II - 16235
+16215 - DegT/DnrJ/EryC1/StrS aminotransferase family | Beta-eliminating lyase | Serine hydroxymethyltransferase | Aminotransferase class I and II | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class-V - 17331
+17305 - Protein of unknown function (DUF4254) - 17692
+17688 - Capsular polysaccharide synthesis protein | Glycosyltransferase sugar-binding region containing DXD motif - 18597
+18604 - Protein of unknown function (DUF563) - 19441
+20145 - GlcNAc-PI de-N-acetylase - 20739
+20735 - Methyltransferase domain | Methyltransferase domain | Methyltransferase domain | Methyltransferase domain - 21287
+21289 - Capsular polysaccharide synthesis protein - 22045
+22046 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyltransferase like family 2 - 22697
+22686 - RmlD substrate binding domain | Polysaccharide biosynthesis protein | GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein | NAD(P)H-binding | short chain dehydrogenase - 23604
+23605 - Methyltransferase FkbM domain | Vibrio cholerae RfbT protein - 24241
+24279 - Glycosyl transferase family 2 | Glycosyl transferase family 2 - 25107
+25800 - Glycosyl transferase family 2 - 26496
+26497 - Glycosyl transferase family group 2 | N-terminal domain of galactosyltransferase | Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyltransferase like family 2 | Glycosyltransferase like family | Domain of unknown function (DUF5099) - 27934
+27937 - dUTPase - 28507
+28499 - Domain of unknown function (DUF4494) - 28730
+28736 - Iron-binding zinc finger CDGSH type - 28916
+29758 - Glycosyl transferases group 1 - 30994
+31655 - WYL domain - 32057
+
+----------MGYP003111298200----------
+
+10827 - ENCAPSULIN Major capsid protein Gp23 - 12450
+14258 - Lipopolysaccharide assembly protein A domain - 14474
+15865 - GDP-mannose 4;6 dehydratase | Polysaccharide biosynthesis protein | RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | KR domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein - 16774
+16773 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 17445
+17454 - DAHP synthetase I family | NeuB family - 18285
+18281 - Cytidylyltransferase | MobA-like NTP transferase domain | 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase - 18863
+18859 - D-isomer specific 2-hydroxyacid dehydrogenase; NAD binding domain | Acetohydroxy acid isomeroreductase; NADPH-binding domain | D-isomer specific 2-hydroxyacid dehydrogenase; catalytic domain - 19822
+19796 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 21029
+21030 - DegT/DnrJ/EryC1/StrS aminotransferase family | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class-V - 22188
+22980 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Polysaccharide biosynthesis protein | short chain dehydrogenase - 23949
+23957 - N-terminal domain of galactosyltransferase | Glycosyl transferase family 2 - 24893
+24889 - Protein of unknown function DUF115 - 25678
+25677 - Cytidylyltransferase | MobA-like NTP transferase domain - 26469
+26471 - HpcH/HpaI aldolase/citrate lyase family - 27212
+27559 - Iron-Sulfur binding protein C terminal | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S binding domain | 4Fe-4S binding domain | 4Fe-4S binding domain - 28684
+28683 - HpcH/HpaI aldolase/citrate lyase family - 29466
+29517 - Sulfotransferase family - 30219
+31134 - Glycosyltransferase family 29 (sialyltransferase) - 31746
+31750 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 32383
+33317 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 34613
+34622 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 36095
+36608 - Circularly permutated YpsA SLOG family | YspA; cpYpsA-related SLOG family - 37013
+37460 - PD-(D/E)XK nuclease superfamily - 38324
+38310 - YqzH-like protein - 38493
+
+----------MGYP003113059926----------
+
+1000 - Chaperonin 10 Kd subunit - 1474
+3614 - ENCAPSULIN Mu-like prophage major head subunit gpT - 4523
+13354 - 2OG-Fe(II) oxygenase superfamily | Putative 2OG-Fe(II) oxygenase - 13987
+13986 - Putative 2OG-Fe(II) oxygenase - 14607
+14603 - 2OG-Fe(II) oxygenase superfamily - 15086
+15078 - Sulfotransferase family | Sulfotransferase domain - 15843
+16508 - 2OG-Fe(II) oxygenase superfamily - 17150
+17146 - Putative 2OG-Fe(II) oxygenase | Phytanoyl-CoA dioxygenase (PhyH) - 17722
+20501 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 21440
+21426 - Anp1 - 22389
+31665 - Putative 2OG-Fe(II) oxygenase - 32208
+32198 - Helicase conserved C-terminal domain | SNF2 family N-terminal domain - 33137
+
+----------MGYP003131024615----------
+
+4799 - PD-(D/E)XK nuclease superfamily - 5480
+13365 - Anp1 - 14238
+14224 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 15154
+15157 - Putative 2OG-Fe(II) oxygenase - 15661
+15863 - 2OG-Fe(II) oxygenase superfamily - 16379
+16496 - Putative 2OG-Fe(II) oxygenase - 17084
+17080 - 2OG-Fe(II) oxygenase superfamily - 17686
+21629 - 2OG-Fe(II) oxygenase superfamily - 22226
+27614 - Putative 2OG-Fe(II) oxygenase - 28226
+28225 - Peptidase M15 - 28702
+32910 - ENCAPSULIN Mu-like prophage major head subunit gpT - 33828
+33843 - Sarcosine oxidase; gamma subunit family - 34419
+
+----------MGYP003131404975----------
+
+925 - ENCAPSULIN Major capsid protein Gp23 - 2548
+4344 - Lipopolysaccharide assembly protein A domain - 4560
+5715 - Prephenate dehydrogenase - 5955
+5954 - GDP-mannose 4;6 dehydratase | Polysaccharide biosynthesis protein | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein | KR domain - 6857
+6856 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 7528
+7538 - DAHP synthetase I family | NeuB family - 8369
+8365 - Cytidylyltransferase | MobA-like NTP transferase domain | 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase - 8947
+8943 - D-isomer specific 2-hydroxyacid dehydrogenase; NAD binding domain | D-isomer specific 2-hydroxyacid dehydrogenase; catalytic domain - 9906
+9880 - Glycosyl transferase family 2 - 11113
+11114 - DegT/DnrJ/EryC1/StrS aminotransferase family | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class-V - 12272
+13064 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | 3-beta hydroxysteroid dehydrogenase/isomerase family | Polysaccharide biosynthesis protein - 14033
+14041 - Glycosyl transferase family 2 - 14977
+14973 - Protein of unknown function DUF115 - 15762
+15761 - Cytidylyltransferase | MobA-like NTP transferase domain - 16553
+16555 - HpcH/HpaI aldolase/citrate lyase family - 17296
+17643 - Iron-Sulfur binding protein C terminal | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S dicluster domain | 4Fe-4S binding domain | 4Fe-4S binding domain | 4Fe-4S binding domain - 18768
+18767 - HpcH/HpaI aldolase/citrate lyase family - 19550
+19601 - Sulfotransferase family - 20303
+21218 - Glycosyltransferase family 29 (sialyltransferase) - 21830
+21834 - Glycosyl transferase family 2 | Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 22467
+23401 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 24697
+24706 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 26179
+26692 - Circularly permutated YpsA SLOG family | PFU (PLAA family ubiquitin binding) | YspA; cpYpsA-related SLOG family - 27097
+
+----------MGYP003131986813----------
+
+3436 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyltransferase Family 4 - 4381
+7206 - 2OG-Fe(II) oxygenase superfamily - 7680
+7679 - Putative 2OG-Fe(II) oxygenase - 8294
+8296 - 2OG-Fe(II) oxygenase superfamily | 2OG-Fe(II) oxygenase superfamily | Putative 2OG-Fe(II) oxygenase - 8884
+8880 - 2OG-Fe(II) oxygenase superfamily - 9381
+9365 - 2OG-Fe(II) oxygenase superfamily | Putative 2OG-Fe(II) oxygenase - 9968
+9964 - Macrocin-O-methyltransferase (TylF) | Methyltransferase domain - 10612
+10624 - 2OG-Fe(II) oxygenase superfamily | 2OG-Fe(II) oxygenase superfamily - 11053
+18689 - Peptidase M15 - 19166
+19382 - Laminin Domain I - 19808
+24224 - Carboxyltransferase domain; subdomain C and D | Type III secretion basal body protein I; YscI; HrpB; PscI - 25241
+
+----------MGYP003134444350----------
+
+1076 - ENCAPSULIN Major capsid protein Gp23 - 2816
+6690 - Domain of unknown function (DUF4618) | Apolipoprotein CIII (Apo-CIII) - 6888
+9404 - Sigma-70 region 2 - 10142
+10142 - Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 10940
+13122 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | Male sterility protein | 3-beta hydroxysteroid dehydrogenase/isomerase family | Polysaccharide biosynthesis protein | RmlD substrate binding domain - 14073
+14069 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | Polysaccharide biosynthesis protein - 15110
+15121 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 15982
+17563 - Glycosyl transferase family 2 - 18343
+18995 - Glycosyltransferase Family 4 | Glycosyl transferase 4-like | Dinitrogenase iron-molybdenum cofactor | Glycosyltransferase like family | Glycosyl transferase family 2 - 20639
+20792 - dUTPase - 21464
+24959 - WYL domain - 25328
+32454 - Concanavalin A-like lectin/glucanases superfamily - 33261
+39605 - Collagen triple helix repeat (20 copies) - 41222
+
+----------MGYP003331015935----------
+
+20719 - Glycosyl transferase family 2 - 21340
+23180 - YMGG-like Gly-zipper - 25235
+29576 - D-alanyl-D-alanine carboxypeptidase - 29993
+30835 - Anp1 - 31588
+32363 - ENCAPSULIN Family of unknown function (DUF5309) - 33326
+40394 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyl transferases group 1 - 41513
+
+----------MGYP003332394819----------
+
+3318 - D-alanyl-D-alanine carboxypeptidase - 3735
+4577 - Anp1 - 5330
+6105 - ENCAPSULIN Family of unknown function (DUF5309) - 7068
+14136 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyl transferases group 1 - 15255
+
+----------MGYP003341041167----------
+
+7460 - Glycosyltransferase family 17 - 8300
+9024 - N-terminal domain of galactosyltransferase | Glycosyltransferase like family 2 | Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 9726
+9701 - Bacterial transferase hexapeptide (six repeats) | Hexapeptide repeat of succinyl-transferase - 10235
+10231 - Recombination; repair and ssDNA binding protein UvsY - 10666
+11253 - Methyltransferase FkbM domain | Methyltransferase domain | Tellurite resistance protein TehB - 12036
+12032 - Glycosyl transferases group 1 | Glycosyl transferases group 1 | Glycosyltransferase Family 4 - 12941
+13670 - Glycosyltransferase family 17 - 14540
+14559 - Methyltransferase domain - 15060
+15153 - ENCAPSULIN Major capsid protein Gp23 - 16473
+16543 - SDA1 - 17833
+8376 - NUMOD3 motif (2 copies) | GIY-YIG catalytic domain - 8958
+18010 - Glycosyl transferase family 2 - 18928
+19442 - Glycosyltransferase sugar-binding region containing DXD motif | TcdA/TcdB catalytic glycosyltransferase domain - 20078
+21514 - Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 23224
+
+----------MGYP003626144734----------
+
+2 - ENCAPSULIN Major capsid protein Gp23 - 1103
+10901 - Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 11699
+13675 - PhoH-like protein | AAA domain | AAA domain | AAA domain | DEAD/DEAH box helicase | IstB-like ATP binding protein | AAA domain - 14386
+14477 - UDP-glucose/GDP-mannose dehydrogenase family; central domain | UDP-glucose/GDP-mannose dehydrogenase family; NAD binding domain - 15296
+15308 - Glycosyl transferase WecB/TagA/CpsF family - 16079
+16090 - Bacterial transferase hexapeptide (six repeats) | Hexapeptide repeat of succinyl-transferase - 16672
+16671 - DegT/DnrJ/EryC1/StrS aminotransferase family - 17313
+17321 - Macrocin-O-methyltransferase (TylF) | Methyltransferase domain - 17888
+18524 - Polysaccharide pyruvyl transferase | Glycosyltransferase Family 4 | Glycosyl transferase 4-like | Glycosyltransferase like family | Glycosyl transferase family 2 - 21002
+21001 - HAD superfamily; subfamily IIIB (Acid phosphatase) - 21388
+21389 - dUTPase - 21986
+21985 - RNase_H superfamily | Predicted 3'-5' exonuclease related to the exonuclease domain of PolB | DNA polymerase family B; exonuclease domain - 22687
+22683 - Glycosyl transferases group 1 - 23898
+24533 - WYL domain - 24929
+25674 - Protein of unknown function - 26388
+
+----------MGYP003626701920----------
+
+1130 - ENCAPSULIN Mu-like prophage major head subunit gpT - 2042
+2295 - Leucine-zipper of ternary complex factor MIP1 - 2505
+13272 - Putative 2OG-Fe(II) oxygenase - 13923
+13922 - 2OG-Fe(II) oxygenase superfamily - 14504
+14500 - Putative 2OG-Fe(II) oxygenase - 15151
+15150 - ParB-like nuclease domain - 15576
+18420 - Phage tail assembly chaperone - 18588
+19202 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 20156
+20142 - Anp1 - 20985
+21053 - Forkhead N-terminal region - 22496
+
+----------MGYP003636931262----------
+
+2 - ENCAPSULIN Major capsid protein Gp23 - 1574
+9221 - Glycosyltransferase like family 2 - 10019
+10024 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 11086
+11952 - PhoH-like protein | AAA domain | AAA domain | Type III restriction enzyme; res subunit | AAA domain | DEAD/DEAH box helicase | ATPase family associated with various cellular activities (AAA) | AAA ATPase domain | IstB-like ATP binding protein | Type II/IV secretion system protein | AAA domain - 12696
+12714 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein | RmlD substrate binding domain - 13629
+13618 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain - 14596
+14600 - Glycosyl transferase family 11 - 15380
+15386 - Glycosyltransferase family 17 - 16250
+16251 - Glycosyl transferase family 11 - 17163
+17149 - NAD dependent epimerase/dehydratase family - 17860
+17856 - Polysaccharide biosynthesis protein | NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family | GDP-mannose 4;6 dehydratase | NAD(P)H-binding | Male sterility protein - 18786
+18785 - Formyl transferase; C-terminal domain | Formyl transferase - 19424
+20331 - Protein of unknown function (DUF3431) - 21093
+21713 - Glycosyl transferase family 2 | GDP-mannose 4;6 dehydratase | RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | Male sterility protein | 3-beta hydroxysteroid dehydrogenase/isomerase family - 23120
+23107 - DegT/DnrJ/EryC1/StrS aminotransferase family | Aminotransferase class-V | Beta-eliminating lyase | Cys/Met metabolism PLP-dependent enzyme | Aminotransferase class I and II - 24409
+24405 - Glycosyl transferase family 2 | Glycosyl transferase family 2 - 25128
+25131 - NAD dependent epimerase/dehydratase family - 25824
+26599 - Glycosyltransferase like family | Glycosyl transferase family 2 - 27697
+27698 - dUTPase - 28307
+28307 - Domain of unknown function (DUF4494) - 28538
+30593 - WYL domain - 30995
+35715 - RNase_H superfamily | Predicted 3'-5' exonuclease related to the exonuclease domain of PolB | DNA polymerase family B; exonuclease domain | DNA polymerase family B - 38460
+41154 - Helicase conserved C-terminal domain - 41481
+
+----------MGYP003638549746----------
+
+0 - ENCAPSULIN Major capsid protein Gp23 - 1167
+1266 - Predicted 3'-5' exonuclease related to the exonuclease domain of PolB | DNA polymerase family B; exonuclease domain | RNase_H superfamily - 1965
+1965 - dUTPase - 2601
+2566 - Glycosyltransferase like family | Glycosyl transferase family 2 | Glycosyl transferase 4-like domain | Glycosyltransferase Family 4 | Glycosyl transferase 4-like - 4252
+4248 - UDP-N-acetylglucosamine 2-epimerase - 5256
+5236 - Glycosyl transferase family 64 domain | Glycosyl transferase family 2 - 5959
+6797 - Acetyltransferase (GNAT) domain | Acetyltransferase (GNAT) domain | Acetyltransferase (GNAT) family | Acetyltransferase (GNAT) domain | FR47-like protein - 7190
+7186 - DegT/DnrJ/EryC1/StrS aminotransferase family - 7843
+7829 - Glycosyl transferases group 1 - 8795
+8797 - Dehydrogenase E1 component | Thiamine pyrophosphate enzyme; C-terminal TPP binding domain | 1-deoxy-D-xylulose-5-phosphate synthase - 9424
+9425 - Transketolase; pyrimidine binding domain - 9962
+9948 - DegT/DnrJ/EryC1/StrS aminotransferase family - 11109
+11105 - Shikimate / quinate 5-dehydrogenase | RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | Polysaccharide biosynthesis protein | Saccharopine dehydrogenase NADP binding domain | GDP-mannose 4;6 dehydratase | 3-beta hydroxysteroid dehydrogenase/isomerase family | KR domain | NAD(P)H-binding - 12077
+12962 - NAD dependent epimerase/dehydratase family - 13694
+13695 - RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | Polysaccharide biosynthesis protein | GDP-mannose 4;6 dehydratase | 3-beta hydroxysteroid dehydrogenase/isomerase family | NAD(P)H-binding - 14652
+14653 - RmlD substrate binding domain | NAD dependent epimerase/dehydratase family | Polysaccharide biosynthesis protein | KR domain | GDP-mannose 4;6 dehydratase | 3-beta hydroxysteroid dehydrogenase/isomerase family | Male sterility protein - 15691
+15692 - dTDP-4-dehydrorhamnose 3;5-epimerase | WxcM-like; C-terminal - 16175
+16175 - pfkB family carbohydrate kinase - 16913
+16918 - Caenorhabditis protein of unknown function; DUF268 - 17665
+17661 - Glycosyl transferase family 11 - 18540
+18616 - UDP-glucose/GDP-mannose dehydrogenase family; NAD binding domain | NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus | NAD binding domain of 6-phosphogluconate dehydrogenase | UDP-glucose/GDP-mannose dehydrogenase family; central domain - 19711
+19703 - NAD synthase | PP-loop family | tRNA methyl transferase - 20459
+20455 - NAD dependent epimerase/dehydratase family | 3-beta hydroxysteroid dehydrogenase/isomerase family | GDP-mannose 4;6 dehydratase | NAD(P)H-binding - 21448
+
+----------MGYP003662477660----------
+
+425 - Chaperonin 10 Kd subunit - 893
+3019 - ENCAPSULIN Mu-like prophage major head subunit gpT - 3922
+12483 - 2OG-Fe(II) oxygenase superfamily | Putative 2OG-Fe(II) oxygenase - 13119
+13701 - Putative 2OG-Fe(II) oxygenase | 2OG-Fe(II) oxygenase superfamily - 14283
+14279 - Putative 2OG-Fe(II) oxygenase | 2OG-Fe(II) oxygenase superfamily - 14894
+14893 - Methyltransferase domain | Macrocin-O-methyltransferase (TylF) - 15535
+15836 - Putative 2OG-Fe(II) oxygenase - 16379
+16378 - 2OG-Fe(II) oxygenase superfamily - 16945
+16941 - Putative 2OG-Fe(II) oxygenase | Phytanoyl-CoA dioxygenase (PhyH) - 17457
+20090 - Glycosyl transferases group 1 | Glycosyl transferases group 1 - 21038
+
+----------MGYP003662629166----------
+
+1 - ENCAPSULIN Major capsid protein Gp23 - 1867
+2650 - MGS-like domain - 3031
+3217 - ABC transporter C-terminal domain - 3484
+3499 - Phage antirepressor protein KilAC domain - 3850
+3959 - Cysteine-rich secretory protein family - 4427
+5733 - Domain of unknown function (DUF932) - 6603
+7822 - NUDIX domain - 8272
+16810 - Glycosyltransferase like family 2 | Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 17617
+
+----------MGYP003662771788----------
+
+0 - C-terminal domain of CHU protein family - 1143
+2701 - ENCAPSULIN Major capsid protein Gp23 - 4441
+14124 - Glycosyltransferase like family 2 | Glycosyl transferase family 2 - 14931
+16986 - PhoH-like protein | AAA domain | AAA domain | AAA domain - 17700
+17718 - GDP-mannose 4;6 dehydratase | NAD dependent epimerase/dehydratase family | RmlD substrate binding domain | Polysaccharide biosynthesis protein - 18717
+18766 - DegT/DnrJ/EryC1/StrS aminotransferase family - 19363
+19408 - Putative papain-like cysteine peptidase (DUF1796) - 20110
+20099 - Glycosyltransferase family 10 (fucosyltransferase) C-term - 20909
+20901 - GDSL-like Lipase/Acylhydrolase | GDSL-like Lipase/Acylhydrolase family - 21588
+21584 - Nodulation protein Z (NodZ) - 22412
+22925 - Methyltransferase domain - 23504
+23500 - Nodulation protein Z (NodZ) - 24406
+24402 - Nodulation protein Z (NodZ) - 25266
+25680 - Glycosyl transferase family 11 - 26478
+26479 - Glycosyl transferase family 2 - 27199
+27198 - Glycosyltransferase Family 4 | Glycosyl transferase 4-like domain | Glycosyltransferase like family | Glycosyl transferase family 2 | Glycosyltransferase like family 2 - 28845
+28858 - dUTPase - 29458
+29461 - Predicted 3'-5' exonuclease related to the exonuclease domain of PolB | DNA polymerase family B; exonuclease domain - 30163
+30159 - Glycosyl transferases group 1 - 31368
+32051 - WYL domain - 32441
+33196 - Protein of unknown function - 33949
+36920 - DNA polymerase family B; exonuclease domain | RNase_H superfamily | Predicted 3'-5' exonuclease related to the exonuclease domain of PolB - 37790

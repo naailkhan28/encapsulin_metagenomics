@@ -351,6 +351,25 @@ Lastly, let's create a set of folders and put the reduced structure sets in each
 
 Check `structures/clusters` - there'll be a folder for each cluster with a set of reduced structures in each one for download and manual inspection.
 
+### Foldseek clustering
+
+Install Foldseek:
+
+    conda create -n foldseek python=3.9
+    conda activate foldseek
+    conda install -c conda-forge -c bioconda foldseek
+
+Cluster all structures using Foldseek with a minumum alignment length cutoff of 0.8:
+
+    mkdir foldseek
+    cd foldseek
+    mkdir DBs
+    mkdir tmp
+    foldseek createdb ../structures/confident DBs/confident_esmfold_predictions_foldseek_db
+    foldseek search DBs/confident_esmfold_predictions_foldseek_db DBs/confident_esmfold_predictions_foldseek_db DBs/all_against_all tmp -c 0.8 
+    foldseek clust DBs/confident_esmfold_predictions_foldseek_db DBs/all_against_all DBs/clusters
+    foldseek createtsv DBs/confident_esmfold_predictions_foldseek_db DBs/confident_esmfold_predictions_foldseek_db DBs/clusters clusters.tsv
+
 ## Analyzing Biome Distribution Data
 
 Download biome metadata and create dataframe:
