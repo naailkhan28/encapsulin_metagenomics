@@ -1,0 +1,2000 @@
+MGYP000000639651	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000001918706	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000002868012	1	root:Environmental:Aquatic:Aquaculture
+MGYP000002868012	13	root:Environmental:Aquatic:Marine
+MGYP000005098346	4	root:Engineered:Wastewater:Activated Sludge
+MGYP000010339471	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000012059582	1	root:Host-associated:Human:Digestive system
+MGYP000012059582	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000012059582	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000013266575	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000013266575	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000014250595	1	root:Host-associated:Human:Digestive system
+MGYP000014250595	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000014413890	2	root:Host-associated:Human
+MGYP000014413890	4	root:Host-associated:Human:Digestive system
+MGYP000014413890	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000014413890	2	root:Host-associated:Human:Digestive system:Oral
+MGYP000014413890	4	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP000016510006	1	root:Host-associated:Human:Digestive system
+MGYP000016510006	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000016510006	21	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000016735148	32	root:Engineered:Wastewater
+MGYP000016735148	4	root:Mixed
+MGYP000020747349	2	root:Host-associated:Human
+MGYP000020747349	15	root:Host-associated:Human:Digestive system
+MGYP000020747349	29	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000020747349	93	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000020747349	8	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000020747349	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000020747349	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000022196991	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000022576213	1	root:Host-associated:Human:Digestive system
+MGYP000026361128	2	root:Environmental:Aquatic:Marine
+MGYP000026633983	7	root:Host-associated:Human:Digestive system
+MGYP000026633983	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000026633983	38	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000026633983	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000037551163	25	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000039861177	2	root:Host-associated:Human:Digestive system
+MGYP000048668637	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000061957562	12	root:Host-associated:Human:Digestive system
+MGYP000061957562	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000061957562	7	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000061957562	1	root:Mixed
+MGYP000064826915	11	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000081789507	4	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000084675082	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000091752113	1	root:Host-associated:Human:Digestive system
+MGYP000091752113	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000097419240	3	root:Host-associated:Human
+MGYP000097419240	5	root:Host-associated:Human:Digestive system
+MGYP000097419240	8	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000097419240	60	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000097419240	3	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000097419240	3	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000098784662	12	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000099485684	2	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000102431369	1	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000109747714	1	root:Host-associated:Human:Digestive system
+MGYP000109747714	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000110692035	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000115139434	1	root:Host-associated:Human
+MGYP000115139434	1	root:Host-associated:Human:Digestive system
+MGYP000115139434	6	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000115139434	26	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000115362497	1	root:Engineered:Wastewater
+MGYP000115362497	1	root:Engineered:Wastewater:Water and sludge
+MGYP000115362497	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000115362497	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000118000528	11	root:Host-associated:Human:Digestive system
+MGYP000118000528	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000118000528	26	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000118000528	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000118324866	1	root:Host-associated:Human:Digestive system
+MGYP000126615706	3	root:Environmental:Aquatic:Marine
+MGYP000126860043	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000126911704	10	root:Host-associated:Human
+MGYP000126911704	13	root:Host-associated:Human:Digestive system
+MGYP000126911704	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000126911704	1	root:Host-associated:Human:Digestive system:Oral
+MGYP000126911704	2	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP000126911704	3	root:Host-associated:Human:Skin
+MGYP000128063566	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000128063566	2	root:Environmental:Aquatic:Marine:Oceanic:Photic zone
+MGYP000128322196	1	root:Host-associated:Human:Digestive system
+MGYP000129765796	8	root:Host-associated:Human:Digestive system
+MGYP000129765796	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000129765796	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000130361336	1	root:Host-associated:Human:Digestive system
+MGYP000130361336	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000130361336	10	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000131233602	4	root:Host-associated:Human:Digestive system
+MGYP000131233602	5	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000131233602	25	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000131233602	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000133107106	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000133107106	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000133107106	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000134236714	5	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000136147697	5	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000136147697	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000137119896	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000139100661	1	root
+MGYP000139100661	1	root:Host-associated:Birds:Digestive system
+MGYP000139100661	1	root:Host-associated:Human:Digestive system
+MGYP000139100661	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000139100661	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000139100661	6	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000150420554	6	root:Host-associated:Human:Digestive system
+MGYP000150420554	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000150420554	5	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000150420554	1	root:Mixed
+MGYP000157970448	9	root:Environmental:Aquatic:Marine
+MGYP000166735219	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000167284497	4	root:Engineered:Wastewater:Activated Sludge
+MGYP000169731517	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000180138347	3	root:Host-associated:Human:Digestive system
+MGYP000180138347	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000180138347	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000181460370	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000184092838	1	root:Environmental:Aquatic:Marine:Oceanic:Photic zone
+MGYP000184925895	3	root:Environmental:Aquatic:Marine
+MGYP000189593907	27	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000197612259	1	root:Engineered:Wastewater
+MGYP000197612259	5	root:Host-associated:Human:Digestive system
+MGYP000197612259	12	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000197612259	7	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000200889043	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000212344843	2	root:Host-associated:Human
+MGYP000212344843	4	root:Host-associated:Human:Digestive system
+MGYP000212344843	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000212344843	36	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000212344843	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000212344843	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000215260709	13	root:Host-associated:Human:Digestive system
+MGYP000215260709	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000215260709	17	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000215260709	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000215260709	1	root:Mixed
+MGYP000216743126	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000218991389	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000218991389	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000220373720	19	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000224374348	3	root:Host-associated:Human
+MGYP000224374348	5	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000224374348	104	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000224374348	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000234430346	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000234578068	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000236042664	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000236137781	1	root:Mixed
+MGYP000236489926	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000237508066	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000238960271	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000241018281	12	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000244606889	9	root:Environmental:Aquatic:Marine
+MGYP000244606889	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000248784877	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000249295618	3	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000256924453	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000258102644	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000258922868	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000265641871	1	root:Host-associated:Human
+MGYP000265641871	1	root:Host-associated:Human:Digestive system
+MGYP000265641871	10	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000265641871	24	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000265641871	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000271170847	2	root:Environmental:Aquatic:Marine
+MGYP000271170847	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000271874914	1	root:Host-associated:Human:Digestive system
+MGYP000271874914	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000274412832	3	root:Host-associated:Human:Digestive system
+MGYP000274412832	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000275805277	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000275899355	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000275899355	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000278747826	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000284114529	2	root:Host-associated:Human:Skin
+MGYP000286841699	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000286841699	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000292815046	2	root:Host-associated:Human:Digestive system
+MGYP000292815046	12	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000293575766	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000294618635	2	root:Environmental:Aquatic:Marine
+MGYP000294618635	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000294905374	1	root:Host-associated:Human:Digestive system
+MGYP000296441433	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000299389272	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000299998028	17	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000303765274	17	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000303765274	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000303765274	1	root:Mixed
+MGYP000304329166	1	root:Engineered:Wastewater:Water and sludge
+MGYP000305296747	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000305901162	3	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000307068773	2	root:Host-associated:Human
+MGYP000307068773	2	root:Host-associated:Human:Digestive system
+MGYP000307068773	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000307068773	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000307068773	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000312680888	1	root:Host-associated:Human:Digestive system
+MGYP000313389269	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000313389269	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000316064180	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000321450472	1	root:Host-associated:Human:Digestive system
+MGYP000321450472	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000321450472	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000324372200	24	root:Host-associated:Birds
+MGYP000324372200	7	root:Host-associated:Human
+MGYP000324372200	75	root:Host-associated:Human:Digestive system
+MGYP000324372200	47	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000324372200	252	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000324372200	24	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000324372200	10	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000324372200	1	root:Mixed
+MGYP000332737556	2	root:Environmental:Aquatic:Marine
+MGYP000332737556	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000336449723	1	root:Host-associated:Human:Digestive system
+MGYP000336449723	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000336758910	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000336758910	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000336767234	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000336767234	17	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000345353568	1	root:Host-associated:Human:Digestive system
+MGYP000345353568	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000345353568	12	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000345353568	2	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000348306385	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000351440644	2	root:Host-associated:Human:Digestive system
+MGYP000352468595	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000355333620	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000362831547	2	root:Host-associated:Human:Digestive system
+MGYP000362831547	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000362831547	13	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000362831547	3	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000362831547	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000366671743	5	root:Environmental:Aquatic:Marine
+MGYP000366671743	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000368963422	2	root:Host-associated:Human:Digestive system
+MGYP000368963422	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000368963422	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000368963422	4	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000369174624	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000369174624	5	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000370158851	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000371559194	1	root:Engineered:Wastewater:Water and sludge
+MGYP000371559194	6	root:Host-associated:Human:Digestive system
+MGYP000371559194	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000371559194	7	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000373467766	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000373467766	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000377540521	4	root:Host-associated:Human:Digestive system
+MGYP000377540521	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000377540521	14	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000377540521	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000383463957	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000383995054	1	root:Engineered:Wastewater
+MGYP000383995054	1	root:Host-associated:Human:Digestive system
+MGYP000383995054	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000384898641	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000384958797	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000386862634	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000389299366	5	root:Host-associated:Human:Digestive system
+MGYP000389299366	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000389299366	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000390790392	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000392276880	1	root:Host-associated:Human
+MGYP000392276880	10	root:Host-associated:Human:Digestive system
+MGYP000392276880	16	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000392276880	16	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000392276880	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000392276880	11	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000397969387	1	root:Environmental:Aquatic:Marine
+MGYP000403980963	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000403980963	3	root:Engineered:Wastewater
+MGYP000403980963	5	root:Engineered:Wastewater:Water and sludge
+MGYP000403980963	27	root:Host-associated:Human
+MGYP000403980963	223	root:Host-associated:Human:Digestive system
+MGYP000403980963	231	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000403980963	587	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000403980963	32	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000403980963	20	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000403980963	47	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000403980963	1	root:Mixed
+MGYP000404124825	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000404124825	15	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000404124825	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000407495045	29	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000415641652	5	root:Environmental:Aquatic:Marine
+MGYP000415641652	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000416313578	1	root:Mixed
+MGYP000421531091	7	root:Environmental:Aquatic:Marine
+MGYP000421531091	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000423297015	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000425095911	2	root:Host-associated:Human
+MGYP000425095911	1	root:Host-associated:Human:Digestive system
+MGYP000425095911	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000425095911	21	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000427579110	5	root:Host-associated:Human
+MGYP000427579110	6	root:Host-associated:Human:Digestive system
+MGYP000427579110	5	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000427579110	32	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000427579110	4	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000427579110	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000427579110	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000430909014	1	root:Engineered:Wastewater
+MGYP000430909014	2	root:Engineered:Wastewater:Water and sludge
+MGYP000430909014	1	root:Host-associated:Human:Digestive system
+MGYP000430909014	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000430909014	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000431267037	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000431267037	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000431267037	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000431805622	1	root:Host-associated:Human:Digestive system
+MGYP000432667684	4	root:Engineered:Wastewater:Activated Sludge
+MGYP000433512386	4	root:Host-associated:Human:Digestive system
+MGYP000433512386	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000433512386	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000433512386	4	root:Mixed
+MGYP000441013156	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000441538521	1	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000442856419	1	root:Host-associated:Human:Digestive system
+MGYP000442856419	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000447434197	1	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000448240885	13	root:Host-associated:Human:Digestive system
+MGYP000448240885	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000448240885	29	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000448240885	14	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000449797860	3	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000451269290	3	root:Host-associated:Human:Digestive system
+MGYP000451269290	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000451269290	34	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000451269290	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000451522494	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000451522494	10	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000453965339	16	root:Environmental:Aquatic:Marine
+MGYP000458177489	25	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000464535878	1	root:Engineered:Bioreactor
+MGYP000464535878	5	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000464535878	1	root:Engineered:Wastewater:Activated Sludge
+MGYP000465193717	1	root:Mixed
+MGYP000466156779	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000468859969	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000468859969	2	root:Engineered:Wastewater
+MGYP000468859969	8	root:Host-associated:Human
+MGYP000468859969	17	root:Host-associated:Human:Digestive system
+MGYP000468859969	63	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000468859969	423	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000468859969	10	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000468859969	12	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000468859969	25	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000469141389	2	root:Host-associated:Human
+MGYP000469141389	15	root:Host-associated:Human:Digestive system
+MGYP000469141389	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000469141389	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000469965527	28	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000488071151	8	root:Host-associated:Human:Digestive system
+MGYP000489352287	2	root:Environmental:Aquatic:Marine
+MGYP000503456973	4	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000504493363	4	root:Host-associated:Human
+MGYP000504493363	12	root:Host-associated:Human:Digestive system
+MGYP000504493363	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000504493363	13	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000504493363	2	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000504493363	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000507254597	17	root:Host-associated:Human:Digestive system
+MGYP000507254597	7	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000507254597	57	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000507254597	2	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000507254597	4	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000507254597	1	root:Mixed
+MGYP000509335323	2	root:Engineered:Wastewater:Activated Sludge
+MGYP000510892357	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000518926698	8	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP000520525852	9	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000520525852	2	root:Engineered:Wastewater:Activated Sludge
+MGYP000527682614	1	root:Environmental:Aquatic:Marine
+MGYP000527898060	1	root:Host-associated:Human
+MGYP000527898060	18	root:Host-associated:Human:Digestive system
+MGYP000527898060	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000527898060	11	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000527898060	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000528512092	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000530814956	1	root:Host-associated:Human:Digestive system
+MGYP000530814956	5	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000530814956	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000530814956	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000530814956	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000531123836	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000532044826	1	root:Environmental:Aquatic:Marine
+MGYP000532044826	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000533738703	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP000533738703	14	root:Host-associated:Human
+MGYP000533738703	73	root:Host-associated:Human:Digestive system
+MGYP000533738703	46	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000533738703	344	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000533738703	4	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000533738703	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000533738703	1	root:Host-associated:Mammals:Digestive system:Large intestine:Cecum
+MGYP000533738703	31	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000535298561	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000535352787	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000536735259	3	root:Host-associated:Human
+MGYP000536735259	16	root:Host-associated:Human:Digestive system
+MGYP000536735259	42	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000536735259	176	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000536735259	10	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000536735259	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000536735259	12	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000539643104	4	root:Host-associated:Human:Digestive system
+MGYP000539643104	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000539643104	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000540034940	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000542424830	1	root:Environmental:Aquatic:Marine
+MGYP000542929939	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000542929939	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000542929939	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000545841734	2	root:Host-associated:Human:Digestive system
+MGYP000548611181	1	root:Engineered:Wastewater
+MGYP000548611181	12	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000548611181	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000549283187	1	root:Host-associated:Human:Digestive system
+MGYP000549283187	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000550574731	3	root:Environmental:Aquatic:Marine
+MGYP000552976443	3	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000557213670	1	root:Environmental:Aquatic:Marine
+MGYP000566298478	4	root:Host-associated:Human:Digestive system
+MGYP000566298478	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000566298478	5	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000572237864	1	root:Host-associated:Human
+MGYP000572237864	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000572237864	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000572237864	1	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP000574446300	9	root:Environmental:Aquatic:Marine
+MGYP000574446300	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000575818625	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000578077584	4	root:Host-associated:Human:Digestive system
+MGYP000578077584	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000588334895	2	root:Host-associated:Human:Digestive system
+MGYP000588554442	4	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000589186004	19	root:Environmental:Aquatic:Marine
+MGYP000589186004	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000589872918	3	root:Engineered:Wastewater
+MGYP000589872918	11	root:Engineered:Wastewater:Water and sludge
+MGYP000589872918	34	root:Host-associated:Human:Digestive system
+MGYP000589872918	194	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000589872918	49	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000589872918	1	root:Mixed
+MGYP000590698055	9	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000590698055	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000593196585	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000598674579	1	root:Host-associated:Human:Digestive system
+MGYP000598674579	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000598674579	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000598759126	3	root:Host-associated:Human
+MGYP000598759126	4	root:Host-associated:Human:Digestive system
+MGYP000598759126	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000598759126	5	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP000598759126	2	root:Host-associated:Human:Skin
+MGYP000609220145	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP000609220145	1	root:Host-associated:Human:Digestive system
+MGYP000609220145	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000610571525	2	root:Host-associated:Human
+MGYP000610571525	1	root:Host-associated:Human:Digestive system
+MGYP000610571525	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000610571525	1	root:Host-associated:Human:Digestive system:Oral
+MGYP000610571525	12	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP000614909350	3	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000615025357	3	root:Environmental:Aquatic:Marine
+MGYP000616299448	5	root:Host-associated:Human:Digestive system
+MGYP000616299448	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000616299448	22	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000616299448	2	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000616299448	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000616299448	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000622200760	3	root:Host-associated:Human
+MGYP000622200760	12	root:Host-associated:Human:Digestive system
+MGYP000622200760	10	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000622200760	31	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000622200760	5	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000623561367	5	root:Environmental:Aquatic:Marine
+MGYP000623561367	3	root:Environmental:Aquatic:Marine:Marginal Sea
+MGYP000623561367	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000623672825	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000625709158	15	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000626451181	2	root:Host-associated:Human
+MGYP000626451181	1	root:Host-associated:Human:Digestive system
+MGYP000626451181	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000626757968	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000630911641	1	root:Environmental:Aquatic:Marine
+MGYP000630911641	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000631060371	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000631152961	3	root:Host-associated:Human:Digestive system
+MGYP000631152961	34	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000631152961	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000631152961	5	root:Host-associated:Mammals:Digestive system
+MGYP000631152961	20	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000631152961	2	root:Host-associated:Mammals:Digestive system:Large intestine:Cecum
+MGYP000631152961	27	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000631152961	4	root:Host-associated:Mammals:Respiratory system
+MGYP000634505699	1	root:Host-associated:Human:Digestive system
+MGYP000634505699	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000634802015	2	root:Host-associated:Human:Digestive system
+MGYP000634802015	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000634802015	7	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000635480792	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000641473561	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000644405563	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000646691163	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000646691163	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000647406549	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000653170191	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000653209399	3	root:Host-associated:Human:Digestive system
+MGYP000659656688	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000660918547	7	root:Host-associated:Human:Digestive system
+MGYP000660918547	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000660918547	11	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000660918547	2	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000660918547	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000662101795	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000672687046	1	root:Host-associated:Human:Digestive system
+MGYP000672687046	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000672736020	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000672736020	14	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000674248133	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000675665017	16	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000675899088	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000685728210	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000688619306	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000688630022	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000692187788	1	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+MGYP000700441513	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000702098687	3	root:Host-associated:Human
+MGYP000702098687	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000702098687	15	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000702098687	5	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000703306994	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000703372477	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000703372477	1	root:Environmental:Aquatic:Marine
+MGYP000708048110	6	root:Host-associated:Human:Digestive system
+MGYP000708048110	24	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000708048110	10	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000710572512	2	root:Environmental:Aquatic:Aquaculture
+MGYP000710572512	1	root:Environmental:Aquatic:Marine
+MGYP000710666455	7	root:Host-associated:Human:Digestive system
+MGYP000710666455	7	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000710666455	37	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000710666455	8	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000710666455	10	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000710666455	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000715104963	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000715207823	1	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000737459476	10	root:Host-associated:Human:Digestive system
+MGYP000737459476	9	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000737459476	24	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000737459476	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000737459476	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000744648862	3	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000746573042	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000762586905	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000764163578	12	root:Host-associated:Human:Digestive system
+MGYP000764163578	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000764163578	11	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000764163578	1	root:Mixed
+MGYP000791274742	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000802007009	1	root:Host-associated:Human:Digestive system
+MGYP000802007009	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000813776456	1	root:Host-associated:Human
+MGYP000813776456	1	root:Host-associated:Human:Digestive system
+MGYP000813776456	14	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000813776456	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000843201297	1	root:Host-associated:Human:Digestive system
+MGYP000848319187	1	root:Engineered:Bioreactor
+MGYP000848319187	5	root:Engineered:Wastewater:Activated Sludge
+MGYP000871613206	5	root:Engineered:Wastewater:Activated Sludge
+MGYP000906978198	1	root:Engineered:Biogas plant
+MGYP000906978198	4	root:Engineered:Bioreactor
+MGYP000907569931	1	root:Engineered:Bioreactor
+MGYP000907569931	4	root:Engineered:Wastewater
+MGYP000907569931	3	root:Engineered:Wastewater:Activated Sludge
+MGYP000914502379	11	root:Engineered:Food production:Fermented beverages
+MGYP000914502379	3	root:Engineered:Wastewater:Water and sludge
+MGYP000930758271	1	root:Engineered:Food production:Dairy products
+MGYP000930758271	1	root:Engineered:Food production:Fermented beverages
+MGYP000934677593	1	root:Host-associated:Human
+MGYP000934677593	14	root:Host-associated:Human:Digestive system
+MGYP000934677593	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000937350499	1	root:Engineered:Biogas plant
+MGYP000937350499	1	root:Engineered:Biogas plant:Wet fermentation
+MGYP000937350499	3	root:Engineered:Bioreactor
+MGYP000947173517	2	root:Engineered:Food production:Dairy products
+MGYP000947173517	1	root:Engineered:Food production:Fermented beverages
+MGYP000951296572	3	root:Engineered:Wastewater
+MGYP000951296572	3	root:Engineered:Wastewater:Nutrient removal:Biological phosphorus removal:Activated sludge
+MGYP000951296572	13	root:Mixed
+MGYP000968200211	1	root:Engineered:Bioreactor
+MGYP000968200211	2	root:Engineered:Wastewater:Activated Sludge
+MGYP000993766488	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001001071371	1	root:Host-associated:Human:Digestive system
+MGYP001001071371	1	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP001043987677	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001051553792	3	root:Host-associated:Human:Digestive system:Large intestine
+MGYP001051553792	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001114297143	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001118532716	7	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001118532716	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001118532716	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001118532716	1	root:Host-associated:Human:Digestive system
+MGYP001118532716	1	root:Host-associated:Plants:Rhizosphere
+MGYP001156851551	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001158094653	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001158452224	5	root:Environmental:Aquatic:Marine
+MGYP001158452224	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001159422903	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001159511778	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001162439701	3	root:Environmental:Aquatic:Marine
+MGYP001162439701	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001162780842	1	root:Environmental:Aquatic:Marine
+MGYP001162780842	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001166290498	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001166782316	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001167565015	7	root:Environmental:Aquatic:Marine
+MGYP001167565015	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001167713869	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001169157754	1	root:Environmental:Aquatic:Marine
+MGYP001169157754	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001169158013	1	root:Environmental:Aquatic:Marine
+MGYP001169158013	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001169631082	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001171887510	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001173480496	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001175774113	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001177176500	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001178370492	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001178754852	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001179739747	8	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001182476470	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001182825234	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001185508091	5	root:Environmental:Aquatic:Marine
+MGYP001185508091	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001185851989	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001188498027	3	root:Environmental:Aquatic:Marine
+MGYP001188498027	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001189200863	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001189214503	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001189454835	3	root:Environmental:Aquatic:Marine
+MGYP001189454835	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001190945602	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001191932810	17	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001192004420	4	root:Environmental:Aquatic:Marine
+MGYP001192004420	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001192075698	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001192155373	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001197677754	7	root:Environmental:Aquatic:Marine
+MGYP001197677754	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001198029016	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001198864080	9	root:Environmental:Aquatic:Marine
+MGYP001198864080	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001201249070	1	root:Engineered:Wastewater
+MGYP001201249070	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001201249070	1	root:Engineered:Wastewater:Nutrient removal:Biological phosphorus removal:Activated sludge
+MGYP001201883948	7	root:Environmental:Aquatic:Marine
+MGYP001201883948	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001202957089	3	root:Environmental:Aquatic:Marine
+MGYP001202957089	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001205722506	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001207060548	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001208596536	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001211218972	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001212706495	1	root:Environmental:Aquatic:Marine
+MGYP001212706495	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001212770936	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001216717877	4	root:Environmental:Aquatic:Marine
+MGYP001216717877	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001217686582	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001217968412	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001220818638	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001220970665	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001221849278	1	root:Environmental:Aquatic:Marine
+MGYP001221849278	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001224706549	1	root:Environmental:Aquatic:Marine
+MGYP001224706549	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001225878641	2	root:Environmental:Aquatic:Marine
+MGYP001225878641	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001229193049	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001229946924	1	root:Environmental:Aquatic:Marine
+MGYP001229946924	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001229970273	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001230091200	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001230535786	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001235099818	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001235300537	2	root:Environmental:Aquatic:Marine
+MGYP001235300537	7	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001238223466	7	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001238319641	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001238411919	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001238560740	3	root:Environmental:Aquatic:Marine
+MGYP001238560740	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001239357712	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001240693997	1	root:Environmental:Aquatic:Marine
+MGYP001240693997	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001242060545	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001242696478	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001245027200	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001245132746	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001247479051	2	root:Environmental:Aquatic:Marine
+MGYP001247479051	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001247486627	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001250449728	1	root:Environmental:Aquatic:Marine
+MGYP001250449728	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001253578916	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001255636907	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001255733461	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001256268574	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001257181871	1	root:Environmental:Aquatic:Marine
+MGYP001257181871	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001259956468	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001261291236	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001261354624	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001261657995	4	root:Environmental:Aquatic:Marine
+MGYP001261657995	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001262960808	5	root:Environmental:Aquatic:Marine
+MGYP001262960808	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001263746768	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001265101672	15	root:Environmental:Aquatic:Marine
+MGYP001265101672	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001265704696	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001265759582	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001267083243	1	root:Environmental:Aquatic:Marine
+MGYP001267083243	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001268161253	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001269121003	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001269526620	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001269856802	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001270518259	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001270548268	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001270613632	6	root:Environmental:Aquatic:Marine
+MGYP001270613632	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001270780023	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001271048552	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001272255422	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001272271734	5	root:Environmental:Aquatic:Marine
+MGYP001272271734	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001273896388	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001275247222	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001278612732	3	root:Environmental:Aquatic:Marine
+MGYP001278612732	11	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001280001314	2	root:Environmental:Aquatic:Marine
+MGYP001280001314	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001281447492	2	root:Environmental:Aquatic:Marine
+MGYP001281447492	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001282024616	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001285561898	1	root:Environmental:Aquatic:Marine
+MGYP001285561898	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001287126028	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001288106776	3	root:Environmental:Aquatic:Marine
+MGYP001288106776	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001288371718	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001289512331	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001291205606	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001292354052	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001293597997	3	root:Environmental:Aquatic:Marine
+MGYP001293597997	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001293722808	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001294880113	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001296281646	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001298972360	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001299140496	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001301876493	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001303036468	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001303440611	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001303486732	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001304761174	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001305037262	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001305717633	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001305861203	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001307068149	3	root:Environmental:Aquatic:Marine
+MGYP001307068149	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001307484614	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001318098625	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001319250528	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001324692383	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001324846549	4	root:Environmental:Aquatic:Marine
+MGYP001324846549	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001325996437	3	root:Environmental:Aquatic:Marine
+MGYP001325996437	8	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001328062919	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001330071390	11	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001330768457	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001331577055	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001334209676	3	root:Environmental:Aquatic:Marine
+MGYP001334209676	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001334704839	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001336909355	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001337041876	3	root:Environmental:Aquatic:Marine
+MGYP001337041876	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001340970904	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001341074077	2	root:Environmental:Aquatic:Marine
+MGYP001341074077	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001341575417	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001342457257	4	root:Environmental:Aquatic:Marine
+MGYP001342457257	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001342458878	1	root:Environmental:Aquatic:Marine
+MGYP001342458878	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001342541486	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001342588273	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001342632500	5	root:Environmental:Aquatic:Marine
+MGYP001342632500	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001348337795	6	root:Environmental:Aquatic:Marine
+MGYP001348337795	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001350874014	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001353263834	5	root:Environmental:Aquatic:Marine
+MGYP001353263834	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001353314205	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001353350287	8	root:Environmental:Aquatic:Marine
+MGYP001353350287	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001354459675	2	root:Environmental:Aquatic:Marine
+MGYP001354459675	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001355835951	5	root:Environmental:Aquatic:Marine
+MGYP001355835951	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001360014107	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001361294567	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001361433595	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001365287079	10	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001369583139	1	root:Environmental:Aquatic:Marine
+MGYP001369583139	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001370031873	2	root:Environmental:Aquatic:Marine
+MGYP001370031873	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001372087536	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001372996355	1	root:Mixed
+MGYP001373235440	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001374095183	1	root:Environmental:Aquatic:Marine
+MGYP001374095183	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001374122492	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001375024420	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001375405827	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001376145772	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001376200174	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001378666132	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001380714802	2	root:Environmental:Aquatic:Marine
+MGYP001380714802	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001381364889	2	root:Engineered:Wastewater:Activated Sludge
+MGYP001381751712	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001382135965	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001383085562	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001383146917	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001383147830	32	root:Environmental:Aquatic:Marine
+MGYP001383147830	10	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001384493830	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001386097934	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001386245224	1	root:Environmental:Aquatic:Marine
+MGYP001386245224	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001387098497	2	root:Environmental:Aquatic:Marine
+MGYP001387098497	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001387135843	4	root:Environmental:Aquatic:Marine
+MGYP001387135843	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001388136034	2	root:Engineered:Wastewater:Activated Sludge
+MGYP001388368279	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001390038349	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001392425131	7	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001393817368	3	root:Environmental:Aquatic:Marine
+MGYP001393817368	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001394323177	4	root:Environmental:Aquatic:Marine
+MGYP001394323177	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001395123112	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001396753803	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001397107409	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001400910990	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001403321319	11	root:Environmental:Aquatic:Marine
+MGYP001403321319	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001404388121	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001404996557	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001406221578	4	root:Environmental:Aquatic:Marine
+MGYP001406221578	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001407636586	3	root:Environmental:Aquatic:Marine
+MGYP001407636586	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001409318126	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001410016891	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001410171304	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001410632789	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001412933479	2	root:Environmental:Aquatic:Marine
+MGYP001412933479	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001413062724	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001413885899	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001414737684	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001417444598	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001418384617	1	root:Environmental:Aquatic:Marine
+MGYP001418384617	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001420004435	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001420109916	1	root:Environmental:Aquatic:Marine
+MGYP001420109916	10	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001421991186	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001422231159	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001422554227	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001422761411	3	root:Environmental:Aquatic:Marine
+MGYP001422761411	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001423535577	1	root:Environmental:Aquatic:Marine
+MGYP001423535577	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001424887590	7	root:Environmental:Aquatic:Marine
+MGYP001424887590	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001426423978	1	root:Environmental:Aquatic:Marine
+MGYP001426423978	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001428107979	1	root:Environmental:Aquatic:Marine
+MGYP001428107979	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001428233580	1	root:Environmental:Aquatic:Marine
+MGYP001428233580	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001429072721	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001430526070	2	root:Environmental:Aquatic:Marine
+MGYP001430526070	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001431681731	1	root:Environmental:Aquatic:Marine
+MGYP001431681731	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001433048608	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001433073694	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001434424420	2	root:Environmental:Aquatic:Marine
+MGYP001434424420	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001434629954	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001435760893	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001436112370	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001437231829	10	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001437317899	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001439131671	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001441180721	2	root:Environmental:Aquatic:Marine
+MGYP001441180721	16	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001441299494	2	root:Environmental:Aquatic:Marine
+MGYP001441299494	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001443052137	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001443135311	9	root:Environmental:Aquatic:Marine
+MGYP001443135311	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001443136242	1	root:Environmental:Aquatic:Marine
+MGYP001443136242	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001447255118	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001452006127	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001455352054	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001455359047	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001459676702	1	root:Host-associated:Human:Digestive system
+MGYP001459676702	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP001460590038	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001461480318	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001462613753	1	root:Engineered:Wastewater:Activated Sludge
+MGYP001463477067	4	root:Environmental:Aquatic:Marine
+MGYP001463477067	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001464128583	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001464222526	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001464485030	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001467153000	4	root:Environmental:Aquatic:Marine
+MGYP001467153000	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001468603712	4	root:Environmental:Aquatic:Marine
+MGYP001468603712	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001469669262	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001470999073	2	root:Environmental:Aquatic:Marine
+MGYP001470999073	18	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001471313547	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001475093503	2	root:Environmental:Aquatic:Marine
+MGYP001475093503	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001475416266	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001475627043	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001478105059	4	root:Environmental:Aquatic:Marine
+MGYP001478105059	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001478169182	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001478880750	2	root:Engineered:Wastewater:Activated Sludge
+MGYP001479031138	4	root:Environmental:Aquatic:Marine
+MGYP001479031138	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001480598547	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001481878659	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001483236822	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001483781138	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001483782951	5	root:Environmental:Aquatic:Marine
+MGYP001483782951	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001486486994	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001488671559	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001491214210	2	root:Environmental:Aquatic:Marine
+MGYP001491214210	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001495822029	3	root:Environmental:Aquatic:Marine
+MGYP001495822029	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001500901122	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001501161619	2	root:Environmental:Aquatic:Marine
+MGYP001501161619	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001501222006	1	root:Environmental:Aquatic:Marine
+MGYP001501222006	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001502021526	6	root:Environmental:Aquatic:Marine
+MGYP001502021526	13	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001502192109	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001502388070	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001508311700	1	root:Host-associated:Human:Skin
+MGYP001509840067	15	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001515421990	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP001515421990	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001515421990	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP001515860935	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001517785574	25	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001522116553	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001544515232	1	root:Engineered:Wastewater
+MGYP001551245615	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001551909951	5	root:Host-associated:Plants:Rhizosphere
+MGYP001553392266	3	root:Host-associated:Plants:Rhizosphere
+MGYP001553646702	5	root:Host-associated:Plants:Rhizosphere
+MGYP001555359145	10	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001556476986	2	root:Host-associated:Plants:Rhizosphere
+MGYP001557471734	1	root:Engineered
+MGYP001559263913	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001559780678	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001560028752	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001560190438	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001562023175	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001562527856	7	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001563703382	5	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001563887314	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001564463007	6	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001573638360	1	root:Engineered:Wastewater
+MGYP001573638360	4	root:Engineered:Wastewater:Water and sludge
+MGYP001574334441	2	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001575301909	9	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001576343993	1	root:Engineered:Wastewater
+MGYP001576362894	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001581017709	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001581572508	2	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001582857662	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001585338911	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001588080424	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001593297288	2	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001594527234	2	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001595317607	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001595624303	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001596099228	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001599865821	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001600986572	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001604000369	5	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001604870764	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001606964551	4	root:Engineered
+MGYP001611349885	2	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001617973547	1	root:Engineered:Wastewater
+MGYP001619032387	1	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001622860715	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001622861810	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001622894278	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001626144185	2	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626153899	2	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626159621	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626178968	2	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626204566	2	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626327972	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001626330305	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001627025497	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001627112497	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001627116347	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001627778738	3	root:Environmental:Aquatic:Marine
+MGYP001627794273	9	root:Environmental:Aquatic:Marine
+MGYP001627852876	4	root:Environmental:Aquatic:Marine
+MGYP001629644110	1	root:Host-associated:Human:Digestive system
+MGYP001634196953	1	root:Host-associated:Human:Digestive system
+MGYP001634543889	1	root:Host-associated:Human:Digestive system
+MGYP001636505415	1	root:Host-associated:Human:Digestive system
+MGYP001637768236	1	root:Host-associated:Human:Digestive system
+MGYP001637768236	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001657424773	1	root:Host-associated:Human:Digestive system
+MGYP001657434007	1	root:Host-associated:Human:Digestive system
+MGYP001657464946	1	root:Host-associated:Human:Digestive system
+MGYP001657669001	1	root:Host-associated:Human:Digestive system
+MGYP001660711218	2	root:Host-associated:Human:Digestive system
+MGYP001661096158	1	root:Host-associated:Human:Digestive system
+MGYP001661250498	1	root:Host-associated:Human:Digestive system
+MGYP001661260214	1	root:Host-associated:Human:Digestive system
+MGYP001667813540	1	root:Host-associated:Human:Digestive system
+MGYP001750363970	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001751217230	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001753655151	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001754629936	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001765971991	1	root:Environmental:Aquatic:Freshwater:Sediment
+MGYP001770631041	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001770631215	2	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001770651498	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001770665372	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001770687550	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001771134318	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001771139349	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001771196130	3	root:Host-associated:Birds:Digestive system
+MGYP001772498014	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772539121	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772554294	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772598765	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772614567	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772615312	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772616689	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772626497	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772654563	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772779378	1	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+MGYP001772895215	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001774265158	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001774798018	2	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001774945722	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001774952919	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001774961900	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775065734	2	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775093831	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775247376	3	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775299270	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775310354	1	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001775399229	3	root:Host-associated:Birds:Digestive system:Digestive tube:Cecum
+MGYP001778406148	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001778406148	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP001779201131	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001784225213	10	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001792910734	1	root:Environmental:Aquatic:Marine
+MGYP001793225276	1	root:Environmental:Aquatic:Marine
+MGYP001805856174	6	root:Environmental:Aquatic
+MGYP001805949054	4	root:Environmental:Aquatic
+MGYP001806042230	1	root:Environmental:Aquatic
+MGYP001806181312	4	root:Environmental:Aquatic
+MGYP001806476706	1	root:Environmental:Aquatic
+MGYP001806590860	1	root:Environmental:Aquatic
+MGYP001806634088	2	root:Environmental:Aquatic
+MGYP001806711746	3	root:Environmental:Aquatic:Marine
+MGYP001806711746	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP001806805357	1	root:Environmental:Aquatic
+MGYP001807700825	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001809623593	3	root:Environmental:Aquatic
+MGYP001809675765	3	root:Environmental:Aquatic
+MGYP001809693053	2	root:Environmental:Aquatic
+MGYP001809730377	1	root:Environmental:Aquatic
+MGYP001809770021	1	root:Environmental:Aquatic
+MGYP001809836267	1	root:Environmental:Aquatic
+MGYP001810020546	1	root:Environmental:Aquatic
+MGYP001975743896	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP002093870796	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP002093870796	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002097183451	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP002097183451	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP002322534802	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002732142711	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002732142711	9	root:Mixed
+MGYP002746297646	2	root:Host-associated:Human
+MGYP002746297646	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002875673093	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003081725754	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003082420564	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003082806097	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003084465561	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003084518006	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003085257377	8	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003085820630	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003085820630	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003086270392	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003088767509	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003091123562	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003093459314	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003095845846	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003095920864	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003097202886	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003106150382	18	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003106150382	6	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003108415748	1	root:Environmental:Aquatic:Marine
+MGYP003108423826	6	root:Environmental:Aquatic:Marine
+MGYP003108424353	6	root:Environmental:Aquatic:Marine
+MGYP003108437609	3	root:Environmental:Aquatic:Marine
+MGYP003108447838	2	root:Environmental:Aquatic:Marine
+MGYP003108459462	3	root:Environmental:Aquatic:Marine
+MGYP003108470380	3	root:Environmental:Aquatic:Marine
+MGYP003108509317	1	root:Environmental:Aquatic:Marine
+MGYP003108561359	3	root:Environmental:Aquatic:Marine
+MGYP003108651414	3	root:Environmental:Aquatic:Marine
+MGYP003108657405	3	root:Environmental:Aquatic:Marine
+MGYP003108660674	4	root:Environmental:Aquatic:Marine
+MGYP003108689773	3	root:Environmental:Aquatic:Marine
+MGYP003108690697	2	root:Environmental:Aquatic:Marine
+MGYP003108701992	4	root:Environmental:Aquatic:Marine
+MGYP003108703271	1	root:Environmental:Aquatic:Marine
+MGYP003108724962	1	root:Environmental:Aquatic:Marine
+MGYP003108735498	2	root:Environmental:Aquatic:Marine
+MGYP003108735519	4	root:Environmental:Aquatic:Marine
+MGYP003108779644	2	root:Environmental:Aquatic:Marine
+MGYP003108793123	2	root:Environmental:Aquatic:Marine
+MGYP003108857287	1	root:Environmental:Aquatic:Marine
+MGYP003108865646	2	root:Environmental:Aquatic:Marine
+MGYP003108893376	2	root:Environmental:Aquatic:Marine
+MGYP003108894514	15	root:Environmental:Aquatic:Marine
+MGYP003108924102	5	root:Environmental:Aquatic:Marine
+MGYP003108945122	2	root:Environmental:Aquatic:Marine
+MGYP003108981179	3	root:Environmental:Aquatic:Marine
+MGYP003108986178	1	root:Environmental:Aquatic:Marine
+MGYP003109001228	2	root:Environmental:Aquatic:Marine
+MGYP003109013058	2	root:Environmental:Aquatic:Marine
+MGYP003109036112	1	root:Environmental:Aquatic:Marine
+MGYP003109044713	1	root:Environmental:Aquatic:Marine
+MGYP003109097681	3	root:Environmental:Aquatic:Marine
+MGYP003109099888	1	root:Environmental:Aquatic:Marine
+MGYP003109108042	3	root:Environmental:Aquatic:Marine
+MGYP003109143355	1	root:Environmental:Aquatic:Marine
+MGYP003109151421	3	root:Environmental:Aquatic:Marine
+MGYP003109151609	1	root:Environmental:Aquatic:Marine
+MGYP003109166457	2	root:Environmental:Aquatic:Marine
+MGYP003109193695	4	root:Environmental:Aquatic:Marine
+MGYP003109195149	3	root:Environmental:Aquatic:Marine
+MGYP003109200899	3	root:Environmental:Aquatic:Marine
+MGYP003109209238	4	root:Environmental:Aquatic:Marine
+MGYP003109209812	2	root:Environmental:Aquatic:Marine
+MGYP003109213134	1	root:Environmental:Aquatic:Marine
+MGYP003109219984	1	root:Environmental:Aquatic:Marine
+MGYP003109221288	1	root:Environmental:Aquatic:Marine
+MGYP003109229875	2	root:Environmental:Aquatic:Marine
+MGYP003109229901	1	root:Environmental:Aquatic:Marine
+MGYP003109241726	5	root:Environmental:Aquatic:Marine
+MGYP003109256820	2	root:Environmental:Aquatic:Marine
+MGYP003109257917	1	root:Environmental:Aquatic:Marine
+MGYP003109274228	2	root:Environmental:Aquatic:Marine
+MGYP003109289825	3	root:Environmental:Aquatic:Marine
+MGYP003109296964	4	root:Environmental:Aquatic:Marine
+MGYP003109322860	3	root:Environmental:Aquatic:Marine
+MGYP003109353800	6	root:Environmental:Aquatic:Marine
+MGYP003109365775	1	root:Environmental:Aquatic:Marine
+MGYP003109399515	2	root:Environmental:Aquatic:Marine
+MGYP003109446970	4	root:Environmental:Aquatic:Marine
+MGYP003109542684	2	root:Environmental:Aquatic:Marine
+MGYP003109548616	5	root:Environmental:Aquatic:Marine
+MGYP003109572309	1	root:Environmental:Aquatic:Marine
+MGYP003109576479	6	root:Environmental:Aquatic:Marine
+MGYP003109633279	2	root:Environmental:Aquatic:Marine
+MGYP003109671843	2	root:Environmental:Aquatic:Marine
+MGYP003109684094	1	root:Environmental:Aquatic:Marine
+MGYP003109687206	3	root:Environmental:Aquatic:Marine
+MGYP003109712078	2	root:Environmental:Aquatic:Marine
+MGYP003109712697	4	root:Environmental:Aquatic:Marine
+MGYP003109733159	12	root:Environmental:Aquatic:Marine
+MGYP003109746915	14	root:Environmental:Aquatic:Marine
+MGYP003109821482	3	root:Environmental:Aquatic:Marine
+MGYP003109852091	7	root:Environmental:Aquatic:Marine
+MGYP003109855403	1	root:Environmental:Aquatic:Marine
+MGYP003109880016	1	root:Environmental:Aquatic:Marine
+MGYP003109887254	1	root:Environmental:Aquatic:Marine
+MGYP003109905037	7	root:Environmental:Aquatic:Marine
+MGYP003109911770	2	root:Environmental:Aquatic:Marine
+MGYP003109933577	2	root:Environmental:Aquatic:Marine
+MGYP003109938013	3	root:Environmental:Aquatic:Marine
+MGYP003109940381	1	root:Environmental:Aquatic:Marine
+MGYP003110004411	3	root:Environmental:Aquatic:Marine
+MGYP003110009043	5	root:Environmental:Aquatic:Marine
+MGYP003110017255	1	root:Environmental:Aquatic:Marine
+MGYP003110029243	1	root:Environmental:Aquatic:Marine
+MGYP003110041355	1	root:Environmental:Aquatic:Marine
+MGYP003110259916	1	root:Environmental:Aquatic:Marine
+MGYP003110288594	6	root:Environmental:Aquatic:Marine
+MGYP003110291835	2	root:Environmental:Aquatic:Marine
+MGYP003110348197	2	root:Environmental:Aquatic:Marine
+MGYP003110370675	1	root:Environmental:Aquatic:Marine
+MGYP003110385353	5	root:Environmental:Aquatic:Marine
+MGYP003110410220	3	root:Environmental:Aquatic:Marine
+MGYP003110482896	1	root:Environmental:Aquatic:Marine
+MGYP003110518084	1	root:Environmental:Aquatic:Marine
+MGYP003110523135	2	root:Environmental:Aquatic:Marine
+MGYP003110546203	2	root:Environmental:Aquatic:Marine
+MGYP003110573179	2	root:Environmental:Aquatic:Marine
+MGYP003110589700	4	root:Environmental:Aquatic:Marine
+MGYP003110657904	4	root:Environmental:Aquatic:Marine
+MGYP003110680273	1	root:Environmental:Aquatic:Marine
+MGYP003110688673	2	root:Environmental:Aquatic:Marine
+MGYP003110727254	2	root:Environmental:Aquatic:Marine
+MGYP003110748565	2	root:Environmental:Aquatic:Marine
+MGYP003110750709	5	root:Environmental:Aquatic:Marine
+MGYP003110768080	1	root:Environmental:Aquatic:Marine
+MGYP003110882604	2	root:Environmental:Aquatic:Marine
+MGYP003110930500	3	root:Environmental:Aquatic:Marine
+MGYP003110987429	1	root:Environmental:Aquatic:Marine
+MGYP003111022402	8	root:Environmental:Aquatic:Marine
+MGYP003111045229	4	root:Environmental:Aquatic:Marine
+MGYP003111111356	1	root:Environmental:Aquatic:Marine
+MGYP003111168657	3	root:Environmental:Aquatic:Marine
+MGYP003111172809	1	root:Environmental:Aquatic:Marine
+MGYP003111177183	1	root:Environmental:Aquatic:Marine
+MGYP003111212958	1	root:Environmental:Aquatic:Marine
+MGYP003111233400	1	root:Environmental:Aquatic:Marine
+MGYP003111270038	1	root:Environmental:Aquatic:Marine
+MGYP003111270780	1	root:Environmental:Aquatic:Marine
+MGYP003111278698	1	root:Environmental:Aquatic:Marine
+MGYP003111298200	1	root:Environmental:Aquatic:Marine
+MGYP003111340946	8	root:Environmental:Aquatic:Marine
+MGYP003111349548	1	root:Environmental:Aquatic:Marine
+MGYP003111361158	1	root:Environmental:Aquatic:Marine
+MGYP003111400756	2	root:Environmental:Aquatic:Marine
+MGYP003111419896	2	root:Environmental:Aquatic:Marine
+MGYP003111452913	1	root:Environmental:Aquatic:Marine
+MGYP003111455455	3	root:Environmental:Aquatic:Marine
+MGYP003111488428	2	root:Environmental:Aquatic:Marine
+MGYP003111496820	1	root:Environmental:Aquatic:Marine
+MGYP003111500763	2	root:Environmental:Aquatic:Marine
+MGYP003111533729	1	root:Environmental:Aquatic:Marine
+MGYP003111578316	2	root:Environmental:Aquatic:Marine
+MGYP003111587628	7	root:Environmental:Aquatic:Marine
+MGYP003111593282	5	root:Environmental:Aquatic:Marine
+MGYP003111606193	1	root:Environmental:Aquatic:Marine
+MGYP003111619074	6	root:Environmental:Aquatic:Marine
+MGYP003111669453	4	root:Environmental:Aquatic:Marine
+MGYP003111672234	3	root:Environmental:Aquatic:Marine
+MGYP003111678093	2	root:Environmental:Aquatic:Marine
+MGYP003111778239	8	root:Environmental:Aquatic:Marine
+MGYP003111894484	1	root:Environmental:Aquatic:Marine
+MGYP003111967096	3	root:Environmental:Aquatic:Marine
+MGYP003112015795	2	root:Environmental:Aquatic:Marine
+MGYP003112365096	1	root:Environmental:Aquatic:Marine
+MGYP003112380670	7	root:Environmental:Aquatic:Marine
+MGYP003112401450	3	root:Environmental:Aquatic:Marine
+MGYP003112420334	1	root:Environmental:Aquatic:Marine
+MGYP003112439959	1	root:Environmental:Aquatic:Marine
+MGYP003112485998	1	root:Environmental:Aquatic:Marine
+MGYP003112585939	1	root:Environmental:Aquatic:Marine
+MGYP003112692639	2	root:Environmental:Aquatic:Marine
+MGYP003112796224	1	root:Environmental:Aquatic:Marine
+MGYP003112926210	2	root:Environmental:Aquatic:Marine
+MGYP003113059926	2	root:Environmental:Aquatic:Marine
+MGYP003113116206	1	root:Environmental:Aquatic:Marine
+MGYP003113204176	1	root:Environmental:Aquatic:Marine
+MGYP003113224282	2	root:Environmental:Aquatic:Marine
+MGYP003113332839	1	root:Environmental:Aquatic:Marine
+MGYP003113354827	3	root:Environmental:Aquatic:Marine
+MGYP003113600401	2	root:Environmental:Aquatic:Marine
+MGYP003113685847	2	root:Environmental:Aquatic:Marine
+MGYP003114047878	3	root:Environmental:Aquatic:Marine
+MGYP003114154398	2	root:Environmental:Aquatic:Marine
+MGYP003114780030	2	root:Environmental:Aquatic:Marine
+MGYP003114965192	2	root:Environmental:Aquatic:Marine
+MGYP003115079722	1	root:Environmental:Aquatic:Marine
+MGYP003115218442	2	root:Environmental:Aquatic:Marine
+MGYP003115258726	1	root:Environmental:Aquatic:Marine
+MGYP003115505860	1	root:Environmental:Aquatic:Marine
+MGYP003115569483	1	root:Environmental:Aquatic:Marine
+MGYP003116365811	3	root:Environmental:Aquatic:Marine
+MGYP003117384472	6	root:Environmental:Aquatic:Marine
+MGYP003118648785	1	root:Environmental:Aquatic:Marine
+MGYP003118733393	1	root:Environmental:Aquatic:Marine
+MGYP003118746305	2	root:Environmental:Aquatic:Marine
+MGYP003119038202	2	root:Environmental:Aquatic:Marine
+MGYP003119448022	1	root:Environmental:Aquatic:Marine
+MGYP003119519882	1	root:Environmental:Aquatic:Marine
+MGYP003120316509	1	root:Environmental:Aquatic:Marine
+MGYP003120323704	1	root:Environmental:Aquatic:Marine
+MGYP003120379217	8	root:Environmental:Aquatic:Marine
+MGYP003120382591	2	root:Environmental:Aquatic:Marine
+MGYP003120535505	1	root:Environmental:Aquatic:Marine
+MGYP003120617315	9	root:Environmental:Aquatic:Marine
+MGYP003120652293	1	root:Environmental:Aquatic:Marine
+MGYP003120654969	1	root:Environmental:Aquatic:Marine
+MGYP003121069150	1	root:Environmental:Aquatic:Marine
+MGYP003121220240	12	root:Environmental:Aquatic:Marine
+MGYP003121347886	1	root:Environmental:Aquatic:Marine
+MGYP003121441476	1	root:Environmental:Aquatic:Marine
+MGYP003122359069	1	root:Environmental:Aquatic:Marine
+MGYP003122407432	1	root:Environmental:Aquatic:Marine
+MGYP003122659305	1	root:Environmental:Aquatic:Marine
+MGYP003122700984	1	root:Environmental:Aquatic:Marine
+MGYP003122815797	4	root:Environmental:Aquatic:Marine
+MGYP003122838860	1	root:Environmental:Aquatic:Marine
+MGYP003122890034	2	root:Environmental:Aquatic:Marine
+MGYP003122950216	1	root:Environmental:Aquatic:Marine
+MGYP003122964800	1	root:Environmental:Aquatic:Marine
+MGYP003122990963	1	root:Environmental:Aquatic:Marine
+MGYP003123049844	2	root:Environmental:Aquatic:Marine
+MGYP003123217689	2	root:Environmental:Aquatic:Marine
+MGYP003123282430	1	root:Environmental:Aquatic:Marine
+MGYP003123294086	2	root:Environmental:Aquatic:Marine
+MGYP003123375869	1	root:Environmental:Aquatic:Marine
+MGYP003123542507	3	root:Environmental:Aquatic:Marine
+MGYP003123563013	2	root:Environmental:Aquatic:Marine
+MGYP003123919383	3	root:Environmental:Aquatic:Marine
+MGYP003125186926	6	root:Environmental:Aquatic:Marine
+MGYP003126429800	5	root:Environmental:Aquatic:Marine
+MGYP003130762430	4	root:Environmental:Aquatic:Marine
+MGYP003130771870	6	root:Environmental:Aquatic:Marine
+MGYP003130772585	2	root:Environmental:Aquatic:Marine
+MGYP003130787376	1	root:Environmental:Aquatic:Marine
+MGYP003130820363	3	root:Environmental:Aquatic:Marine
+MGYP003130828578	8	root:Environmental:Aquatic:Marine
+MGYP003130896271	3	root:Environmental:Aquatic:Marine
+MGYP003130990335	2	root:Environmental:Aquatic:Marine
+MGYP003131024615	1	root:Environmental:Aquatic:Marine
+MGYP003131152314	2	root:Environmental:Aquatic:Marine
+MGYP003131181386	2	root:Environmental:Aquatic:Marine
+MGYP003131181473	3	root:Environmental:Aquatic:Marine
+MGYP003131366139	1	root:Environmental:Aquatic:Marine
+MGYP003131404975	1	root:Environmental:Aquatic:Marine
+MGYP003131440832	1	root:Environmental:Aquatic:Marine
+MGYP003131478486	3	root:Environmental:Aquatic:Marine
+MGYP003131485411	1	root:Environmental:Aquatic:Marine
+MGYP003131532486	1	root:Environmental:Aquatic:Marine
+MGYP003131538574	1	root:Environmental:Aquatic:Marine
+MGYP003131538675	4	root:Environmental:Aquatic:Marine
+MGYP003131547602	1	root:Environmental:Aquatic:Marine
+MGYP003131550817	1	root:Environmental:Aquatic:Marine
+MGYP003131556693	1	root:Environmental:Aquatic:Marine
+MGYP003131578553	1	root:Environmental:Aquatic:Marine
+MGYP003131585963	3	root:Environmental:Aquatic:Marine
+MGYP003131603138	1	root:Environmental:Aquatic:Marine
+MGYP003131634334	2	root:Environmental:Aquatic:Marine
+MGYP003131647051	1	root:Environmental:Aquatic:Marine
+MGYP003131710754	1	root:Environmental:Aquatic:Marine
+MGYP003131731454	1	root:Environmental:Aquatic:Marine
+MGYP003131744986	1	root:Environmental:Aquatic:Marine
+MGYP003131750871	1	root:Environmental:Aquatic:Marine
+MGYP003131752919	1	root:Environmental:Aquatic:Marine
+MGYP003131763798	3	root:Environmental:Aquatic:Marine
+MGYP003131802633	1	root:Environmental:Aquatic:Marine
+MGYP003131803286	1	root:Environmental:Aquatic:Marine
+MGYP003131805264	1	root:Environmental:Aquatic:Marine
+MGYP003131805704	1	root:Environmental:Aquatic:Marine
+MGYP003131861894	2	root:Environmental:Aquatic:Marine
+MGYP003131873238	1	root:Environmental:Aquatic:Marine
+MGYP003131886835	2	root:Environmental:Aquatic:Marine
+MGYP003131900327	3	root:Environmental:Aquatic:Marine
+MGYP003131905114	1	root:Environmental:Aquatic:Marine
+MGYP003131911685	1	root:Environmental:Aquatic:Marine
+MGYP003131924773	1	root:Environmental:Aquatic:Marine
+MGYP003131965124	1	root:Environmental:Aquatic:Marine
+MGYP003131974671	2	root:Environmental:Aquatic:Marine
+MGYP003131977220	1	root:Environmental:Aquatic:Marine
+MGYP003131978844	1	root:Environmental:Aquatic:Marine
+MGYP003131979674	1	root:Environmental:Aquatic:Marine
+MGYP003131986813	2	root:Environmental:Aquatic:Marine
+MGYP003132011367	1	root:Environmental:Aquatic:Marine
+MGYP003132077312	3	root:Environmental:Aquatic:Marine
+MGYP003132079635	1	root:Environmental:Aquatic:Marine
+MGYP003132112768	2	root:Environmental:Aquatic:Marine
+MGYP003132116479	2	root:Environmental:Aquatic:Marine
+MGYP003132124933	1	root:Environmental:Aquatic:Marine
+MGYP003132194987	1	root:Environmental:Aquatic:Marine
+MGYP003132251715	3	root:Environmental:Aquatic:Marine
+MGYP003132349540	1	root:Environmental:Aquatic:Marine
+MGYP003132354304	1	root:Environmental:Aquatic:Marine
+MGYP003132354880	1	root:Environmental:Aquatic:Marine
+MGYP003132371280	1	root:Environmental:Aquatic:Marine
+MGYP003132411788	1	root:Environmental:Aquatic:Marine
+MGYP003132449900	2	root:Environmental:Aquatic:Marine
+MGYP003132507861	2	root:Environmental:Aquatic:Marine
+MGYP003132523208	3	root:Environmental:Aquatic:Marine
+MGYP003132581759	1	root:Environmental:Aquatic:Marine
+MGYP003132612910	2	root:Environmental:Aquatic:Marine
+MGYP003132628089	1	root:Environmental:Aquatic:Marine
+MGYP003132631419	1	root:Environmental:Aquatic:Marine
+MGYP003132635862	3	root:Environmental:Aquatic:Marine
+MGYP003132644972	2	root:Environmental:Aquatic:Marine
+MGYP003132695790	2	root:Environmental:Aquatic:Marine
+MGYP003132707961	1	root:Environmental:Aquatic:Marine
+MGYP003132708493	4	root:Environmental:Aquatic:Marine
+MGYP003132720259	1	root:Environmental:Aquatic:Marine
+MGYP003132722702	2	root:Environmental:Aquatic:Marine
+MGYP003132740542	1	root:Environmental:Aquatic:Marine
+MGYP003132782205	1	root:Environmental:Aquatic:Marine
+MGYP003132850153	1	root:Environmental:Aquatic:Marine
+MGYP003132853655	3	root:Environmental:Aquatic:Marine
+MGYP003133000315	1	root:Environmental:Aquatic:Marine
+MGYP003133009355	1	root:Environmental:Aquatic:Marine
+MGYP003133030035	1	root:Environmental:Aquatic:Marine
+MGYP003133030325	2	root:Environmental:Aquatic:Marine
+MGYP003133032546	1	root:Environmental:Aquatic:Marine
+MGYP003133150347	2	root:Environmental:Aquatic:Marine
+MGYP003133310052	2	root:Environmental:Aquatic:Marine
+MGYP003133842258	20	root:Environmental:Aquatic:Marine
+MGYP003133847089	1	root:Environmental:Aquatic:Marine
+MGYP003133862515	1	root:Environmental:Aquatic:Marine
+MGYP003133878326	2	root:Environmental:Aquatic:Marine
+MGYP003134076586	2	root:Environmental:Aquatic:Marine
+MGYP003134285943	1	root:Environmental:Aquatic:Marine
+MGYP003134343082	1	root:Environmental:Aquatic:Marine
+MGYP003134444350	1	root:Environmental:Aquatic:Marine
+MGYP003134492096	2	root:Environmental:Aquatic:Marine
+MGYP003134589469	1	root:Environmental:Aquatic:Marine
+MGYP003134644496	1	root:Environmental:Aquatic:Marine
+MGYP003134650983	1	root:Environmental:Aquatic:Marine
+MGYP003134791083	1	root:Environmental:Aquatic:Marine
+MGYP003134820753	1	root:Environmental:Aquatic:Marine
+MGYP003135668881	2	root:Environmental:Aquatic:Marine
+MGYP003143302346	1	root:Environmental:Aquatic:Marine
+MGYP003143336405	1	root:Environmental:Aquatic:Marine
+MGYP003143538661	2	root:Environmental:Aquatic:Marine
+MGYP003143758531	1	root:Environmental:Aquatic:Marine
+MGYP003143779196	2	root:Environmental:Aquatic:Marine
+MGYP003143860998	1	root:Environmental:Aquatic:Marine
+MGYP003143863407	1	root:Environmental:Aquatic:Marine
+MGYP003143896327	1	root:Environmental:Aquatic:Marine
+MGYP003143912462	1	root:Environmental:Aquatic:Marine
+MGYP003143948241	1	root:Environmental:Aquatic:Marine
+MGYP003144038937	1	root:Environmental:Aquatic:Marine
+MGYP003144111810	1	root:Environmental:Aquatic:Marine
+MGYP003144195444	1	root:Environmental:Aquatic:Marine
+MGYP003144277629	1	root:Environmental:Aquatic:Marine
+MGYP003144278637	1	root:Environmental:Aquatic:Marine
+MGYP003144308258	1	root:Environmental:Aquatic:Marine
+MGYP003144365989	1	root:Environmental:Aquatic:Marine
+MGYP003144635947	1	root:Environmental:Aquatic:Marine
+MGYP003144987267	1	root:Environmental:Aquatic:Marine
+MGYP003145474920	1	root:Environmental:Aquatic:Marine
+MGYP003145562269	1	root:Environmental:Aquatic:Marine
+MGYP003145785247	15	root:Environmental:Aquatic:Marine
+MGYP003145882433	1	root:Environmental:Aquatic:Marine
+MGYP003146007853	1	root:Environmental:Aquatic:Marine
+MGYP003146267043	1	root:Environmental:Aquatic:Marine
+MGYP003147090077	1	root:Environmental:Aquatic:Marine
+MGYP003147470617	1	root:Environmental:Aquatic:Marine
+MGYP003147512252	1	root:Environmental:Aquatic:Marine
+MGYP003147592118	1	root:Environmental:Aquatic:Marine
+MGYP003147643989	1	root:Environmental:Aquatic:Marine
+MGYP003148233577	1	root:Environmental:Aquatic:Marine
+MGYP003148333728	1	root:Environmental:Aquatic:Marine
+MGYP003148598028	1	root:Environmental:Aquatic:Marine
+MGYP003171785424	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003177265781	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003177422248	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003177775638	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003177821464	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003177961729	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003177961729	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003180975838	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003181136323	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003181827401	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003182819382	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003186132058	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003186405838	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003186419982	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003190420027	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003190544445	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003191141045	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003194345035	7	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003194738200	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003198615980	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003198712874	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003198722132	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003203574958	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003203672706	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003204040081	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003204103103	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003205212928	3	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003205503727	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003205980395	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003206433857	4	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003212524367	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003216357466	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003221559410	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003226455751	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003230362339	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003234681818	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003237769608	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003239287391	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003251308532	15	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003253868944	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003257694456	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003265000637	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003266128837	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003276472124	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003276588014	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003278046883	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003286778184	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003287154602	1	root:Mixed
+MGYP003287283929	2	root:Mixed
+MGYP003288119359	1	root:Mixed
+MGYP003288323838	1	root:Mixed
+MGYP003288402760	1	root:Mixed
+MGYP003288454431	1	root:Mixed
+MGYP003289021717	1	root:Mixed
+MGYP003289137846	1	root:Mixed
+MGYP003289147529	1	root:Mixed
+MGYP003289149441	1	root:Mixed
+MGYP003289271026	1	root:Mixed
+MGYP003289315980	1	root:Mixed
+MGYP003289347611	1	root:Mixed
+MGYP003289471859	1	root:Mixed
+MGYP003289565808	1	root:Mixed
+MGYP003289700650	1	root:Mixed
+MGYP003289899142	1	root:Mixed
+MGYP003290089060	1	root:Mixed
+MGYP003290198821	1	root:Mixed
+MGYP003290260471	1	root:Mixed
+MGYP003290296536	1	root:Mixed
+MGYP003291737997	1	root:Mixed
+MGYP003291991102	1	root:Mixed
+MGYP003292003403	1	root:Mixed
+MGYP003292087546	2	root:Mixed
+MGYP003292206189	3	root:Mixed
+MGYP003297643358	1	root:Environmental:Aquatic:Marine
+MGYP003298377114	1	root:Mixed
+MGYP003299001932	1	root:Mixed
+MGYP003299548136	1	root:Mixed
+MGYP003300173728	1	root:Mixed
+MGYP003300348033	1	root:Mixed
+MGYP003300397563	1	root:Mixed
+MGYP003300951624	1	root:Mixed
+MGYP003302165361	1	root:Mixed
+MGYP003302261840	1	root:Mixed
+MGYP003302485682	1	root:Mixed
+MGYP003302610709	1	root:Mixed
+MGYP003307171788	1	root:Mixed
+MGYP003312314320	1	root:Environmental:Aquatic:Marine
+MGYP003312479438	1	root:Environmental:Aquatic:Marine
+MGYP003312577748	1	root:Environmental:Aquatic:Marine
+MGYP003312650426	1	root:Environmental:Aquatic:Marine
+MGYP003314210992	1	root:Environmental:Aquatic:Marine
+MGYP003318839404	2	root:Environmental:Aquatic:Marine
+MGYP003320786395	1	root:Environmental:Aquatic:Marine
+MGYP003321325438	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003322653963	2	root:Environmental:Aquatic:Marine
+MGYP003322687247	1	root:Environmental:Aquatic:Marine
+MGYP003322770592	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003323153417	1	root:Environmental:Aquatic:Marine
+MGYP003325516961	7	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003325740347	7	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003327949767	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003329398298	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003331015935	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003331240882	6	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003331480088	5	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003332394819	9	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003332684113	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003332712810	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003333152505	4	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003333389062	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003333389410	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003333925207	3	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003333955921	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003334083347	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003334228373	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003335440937	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003337249553	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003340515683	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003341041167	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003342430370	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003342797786	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003342830123	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003357118485	1	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP003357318969	1	root:Host-associated:Human:Digestive system:Oral:Saliva
+MGYP003361717447	2	root:Engineered:Food production:Dairy products
+MGYP003361793332	1	root:Engineered:Food production:Dairy products
+MGYP003361846380	2	root:Engineered:Food production:Dairy products
+MGYP003361980941	2	root:Engineered:Food production:Dairy products
+MGYP003362069973	1	root:Engineered:Food production:Dairy products
+MGYP003362106639	1	root:Engineered:Food production:Dairy products
+MGYP003363530338	2	root:Engineered:Modeled:Simulated communities (microbial mixture)
+MGYP003365006076	1	root:Engineered:Food production:Dairy products
+MGYP003365015307	3	root:Engineered:Food production:Dairy products
+MGYP003365071608	1	root:Engineered:Food production:Dairy products
+MGYP003365220014	3	root:Engineered:Food production:Dairy products
+MGYP003365230747	1	root:Engineered:Food production:Dairy products
+MGYP003365459109	1	root:Engineered:Food production:Dairy products
+MGYP003366652483	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003366652500	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003366799095	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003366972669	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003366996827	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003367082268	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003369226081	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003369288678	8	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003369753235	14	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003369771981	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003370002623	9	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003370124888	2	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003370219555	14	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003370706527	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003370907635	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003371163271	12	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003371337604	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003371650251	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003372035793	3	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003372228945	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP003384526964	1	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003384745367	4	root:Engineered:Lab enrichment:Defined media:Marine media
+MGYP003385344781	2	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003386945465	2	root:Engineered:Lab enrichment:Defined media:Marine media
+MGYP003387594271	2	root:Engineered:Lab enrichment:Defined media:Marine media
+MGYP003387594271	7	root:Environmental:Aquatic:Marine
+MGYP003388635561	1	root:Engineered:Lab enrichment:Defined media:Marine media
+MGYP003388635561	10	root:Environmental:Aquatic:Marine
+MGYP003390016010	2	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003391900473	1	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003392391534	1	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003393043718	4	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003393053342	1	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003393108739	3	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+MGYP003396736541	15	root:Mixed
+MGYP003396870728	15	root:Mixed
+MGYP003402881001	11	root:Mixed
+MGYP003407064551	8	root:Mixed
+MGYP003417750563	7	root:Mixed
+MGYP003418012460	6	root:Mixed
+MGYP003418182548	8	root:Mixed
+MGYP003439468818	1	root:Mixed
+MGYP003439649812	3	root:Mixed
+MGYP003487815705	1	root:Mixed
+MGYP003508069113	1	root:Mixed
+MGYP003525809059	1	root:Mixed
+MGYP003561695899	3	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+MGYP003571247909	1	root:Host-associated:Mammals:Digestive system:Midgut
+MGYP003571254219	1	root:Host-associated:Mammals:Digestive system:Midgut
+MGYP003571257895	1	root:Host-associated:Mammals:Digestive system:Midgut
+MGYP003571258258	1	root:Host-associated:Mammals:Digestive system:Midgut
+MGYP003583420273	4	root:Engineered:Wastewater:Water and sludge
+MGYP003584008983	6	root:Engineered:Wastewater:Water and sludge
+MGYP003584208136	5	root:Engineered:Wastewater:Water and sludge
+MGYP003584425436	5	root:Engineered:Wastewater:Water and sludge
+MGYP003584596180	4	root:Engineered:Wastewater:Water and sludge
+MGYP003584602088	1	root:Engineered:Wastewater:Water and sludge
+MGYP003584984683	2	root:Engineered:Wastewater:Water and sludge
+MGYP003585177601	2	root:Engineered:Wastewater:Water and sludge
+MGYP003591772479	1	root:Engineered:Wastewater:Water and sludge
+MGYP003598712058	4	root:Engineered:Wastewater:Water and sludge
+MGYP003605592530	1	root:Engineered:Wastewater:Water and sludge
+MGYP003614871855	2	root:Engineered:Wastewater:Water and sludge
+MGYP003617708354	1	root:Engineered:Wastewater:Water and sludge
+MGYP003624168637	3	root:Environmental:Aquatic:Marine
+MGYP003624183582	9	root:Environmental:Aquatic:Marine
+MGYP003624188252	1	root:Environmental:Aquatic:Marine
+MGYP003624193607	3	root:Environmental:Aquatic:Marine
+MGYP003624197090	1	root:Environmental:Aquatic:Marine
+MGYP003624197271	56	root:Environmental:Aquatic:Marine
+MGYP003624210788	24	root:Environmental:Aquatic:Marine
+MGYP003624216520	8	root:Environmental:Aquatic:Marine
+MGYP003624226484	6	root:Environmental:Aquatic:Marine
+MGYP003624258631	4	root:Environmental:Aquatic:Marine
+MGYP003624265722	9	root:Environmental:Aquatic:Marine
+MGYP003624294312	35	root:Environmental:Aquatic:Marine
+MGYP003624330068	8	root:Environmental:Aquatic:Marine
+MGYP003624347314	5	root:Environmental:Aquatic:Marine
+MGYP003624358200	9	root:Environmental:Aquatic:Marine
+MGYP003624376069	7	root:Environmental:Aquatic:Marine
+MGYP003624381722	1	root:Environmental:Aquatic:Marine
+MGYP003624382026	3	root:Environmental:Aquatic:Marine
+MGYP003624438175	22	root:Environmental:Aquatic:Marine
+MGYP003624463172	2	root:Environmental:Aquatic:Marine
+MGYP003624470077	11	root:Environmental:Aquatic:Marine
+MGYP003624477911	2	root:Environmental:Aquatic:Marine
+MGYP003624483720	5	root:Environmental:Aquatic:Marine
+MGYP003624493621	13	root:Environmental:Aquatic:Marine
+MGYP003624506557	7	root:Environmental:Aquatic:Marine
+MGYP003624514218	24	root:Environmental:Aquatic:Marine
+MGYP003624525850	3	root:Environmental:Aquatic:Marine
+MGYP003624549103	9	root:Environmental:Aquatic:Marine
+MGYP003624557185	15	root:Environmental:Aquatic:Marine
+MGYP003624558656	14	root:Environmental:Aquatic:Marine
+MGYP003624568872	11	root:Environmental:Aquatic:Marine
+MGYP003624569059	8	root:Environmental:Aquatic:Marine
+MGYP003624603248	6	root:Environmental:Aquatic:Marine
+MGYP003624630923	33	root:Environmental:Aquatic:Marine
+MGYP003624727194	2	root:Environmental:Aquatic:Marine
+MGYP003624849420	28	root:Environmental:Aquatic:Marine
+MGYP003624851484	31	root:Environmental:Aquatic:Marine
+MGYP003624883520	14	root:Environmental:Aquatic:Marine
+MGYP003624910605	10	root:Environmental:Aquatic:Marine
+MGYP003624930978	6	root:Environmental:Aquatic:Marine
+MGYP003624937466	3	root:Environmental:Aquatic:Marine
+MGYP003624947089	1	root:Environmental:Aquatic:Marine
+MGYP003624973262	1	root:Environmental:Aquatic:Marine
+MGYP003624978134	28	root:Environmental:Aquatic:Marine
+MGYP003625121643	21	root:Environmental:Aquatic:Marine
+MGYP003625632346	6	root:Environmental:Aquatic:Marine
+MGYP003625934814	1	root:Environmental:Aquatic:Marine
+MGYP003625971629	3	root:Environmental:Aquatic:Marine
+MGYP003626031653	1	root:Environmental:Aquatic:Marine
+MGYP003626082701	2	root:Environmental:Aquatic:Marine
+MGYP003626114519	6	root:Environmental:Aquatic:Marine
+MGYP003626144734	1	root:Environmental:Aquatic:Marine
+MGYP003626152403	7	root:Environmental:Aquatic:Marine
+MGYP003626196855	2	root:Environmental:Aquatic:Marine
+MGYP003626197691	4	root:Environmental:Aquatic:Marine
+MGYP003626207495	1	root:Environmental:Aquatic:Marine
+MGYP003626247074	4	root:Environmental:Aquatic:Marine
+MGYP003626251844	1	root:Environmental:Aquatic:Marine
+MGYP003626432768	1	root:Environmental:Aquatic:Marine
+MGYP003626493905	6	root:Environmental:Aquatic:Marine
+MGYP003626512906	1	root:Environmental:Aquatic:Marine
+MGYP003626524223	4	root:Environmental:Aquatic:Marine
+MGYP003626607886	1	root:Environmental:Aquatic:Marine
+MGYP003626675501	9	root:Environmental:Aquatic:Marine
+MGYP003626685010	9	root:Environmental:Aquatic:Marine
+MGYP003626701920	12	root:Environmental:Aquatic:Marine
+MGYP003626707788	1	root:Environmental:Aquatic:Marine
+MGYP003626729650	5	root:Environmental:Aquatic:Marine
+MGYP003626751543	5	root:Environmental:Aquatic:Marine
+MGYP003626808622	1	root:Environmental:Aquatic:Marine
+MGYP003626833247	22	root:Environmental:Aquatic:Marine
+MGYP003627349045	7	root:Environmental:Aquatic:Marine
+MGYP003627575321	6	root:Environmental:Aquatic:Marine
+MGYP003627666081	7	root:Environmental:Aquatic:Marine
+MGYP003627698165	6	root:Environmental:Aquatic:Marine
+MGYP003627813110	6	root:Environmental:Aquatic:Marine
+MGYP003629465916	1	root:Environmental:Aquatic:Marine
+MGYP003629515077	4	root:Environmental:Aquatic:Marine
+MGYP003629521487	2	root:Environmental:Aquatic:Marine
+MGYP003629765717	1	root:Environmental:Aquatic:Marine
+MGYP003629788083	8	root:Environmental:Aquatic:Marine
+MGYP003629805353	6	root:Environmental:Aquatic:Marine
+MGYP003629818996	1	root:Environmental:Aquatic:Marine
+MGYP003629841674	2	root:Environmental:Aquatic:Marine
+MGYP003629842636	1	root:Environmental:Aquatic:Marine
+MGYP003629847137	1	root:Environmental:Aquatic:Marine
+MGYP003629856464	3	root:Environmental:Aquatic:Marine
+MGYP003629858794	1	root:Environmental:Aquatic:Marine
+MGYP003629867423	3	root:Environmental:Aquatic:Marine
+MGYP003629909976	1	root:Environmental:Aquatic:Marine
+MGYP003630009956	21	root:Environmental:Aquatic:Marine
+MGYP003630051464	1	root:Environmental:Aquatic:Marine
+MGYP003630084748	8	root:Environmental:Aquatic:Marine
+MGYP003630281003	9	root:Environmental:Aquatic:Marine
+MGYP003630292458	2	root:Environmental:Aquatic:Marine
+MGYP003630302123	1	root:Environmental:Aquatic:Marine
+MGYP003630311414	3	root:Environmental:Aquatic:Marine
+MGYP003630488781	3	root:Environmental:Aquatic:Marine
+MGYP003630507831	8	root:Environmental:Aquatic:Marine
+MGYP003630538787	5	root:Environmental:Aquatic:Marine
+MGYP003630556403	8	root:Environmental:Aquatic:Marine
+MGYP003630613988	9	root:Environmental:Aquatic:Marine
+MGYP003630673280	3	root:Environmental:Aquatic:Marine
+MGYP003630751493	1	root:Environmental:Aquatic:Marine
+MGYP003630773743	2	root:Environmental:Aquatic:Marine
+MGYP003630777285	7	root:Environmental:Aquatic:Marine
+MGYP003630789375	4	root:Environmental:Aquatic:Marine
+MGYP003630813851	1	root:Environmental:Aquatic:Marine
+MGYP003630825227	1	root:Environmental:Aquatic:Marine
+MGYP003630831318	1	root:Environmental:Aquatic:Marine
+MGYP003630857322	3	root:Environmental:Aquatic:Marine
+MGYP003630886785	9	root:Environmental:Aquatic:Marine
+MGYP003630897499	3	root:Environmental:Aquatic:Marine
+MGYP003630974744	2	root:Environmental:Aquatic:Marine
+MGYP003630982898	7	root:Environmental:Aquatic:Marine
+MGYP003631126371	1	root:Environmental:Aquatic:Marine
+MGYP003631127559	4	root:Environmental:Aquatic:Marine
+MGYP003631151970	3	root:Environmental:Aquatic:Marine
+MGYP003631299480	6	root:Environmental:Aquatic:Marine
+MGYP003631326536	1	root:Environmental:Aquatic:Marine
+MGYP003631430997	1	root:Environmental:Aquatic:Marine
+MGYP003631449103	16	root:Environmental:Aquatic:Marine
+MGYP003631570727	2	root:Environmental:Aquatic:Marine
+MGYP003631647751	1	root:Environmental:Aquatic:Marine
+MGYP003631662569	1	root:Environmental:Aquatic:Marine
+MGYP003631731943	2	root:Environmental:Aquatic:Marine
+MGYP003631754286	7	root:Environmental:Aquatic:Marine
+MGYP003631760261	1	root:Environmental:Aquatic:Marine
+MGYP003631795268	6	root:Environmental:Aquatic:Marine
+MGYP003631798119	2	root:Environmental:Aquatic:Marine
+MGYP003631902059	1	root:Environmental:Aquatic:Marine
+MGYP003631905773	4	root:Environmental:Aquatic:Marine
+MGYP003631907802	3	root:Environmental:Aquatic:Marine
+MGYP003631917517	5	root:Environmental:Aquatic:Marine
+MGYP003631978404	3	root:Environmental:Aquatic:Marine
+MGYP003631999817	1	root:Environmental:Aquatic:Marine
+MGYP003632026997	5	root:Environmental:Aquatic:Marine
+MGYP003632042197	4	root:Environmental:Aquatic:Marine
+MGYP003632088162	1	root:Environmental:Aquatic:Marine
+MGYP003632254601	3	root:Environmental:Aquatic:Marine
+MGYP003632366658	4	root:Environmental:Aquatic:Marine
+MGYP003632507320	6	root:Environmental:Aquatic:Marine
+MGYP003632619538	3	root:Environmental:Aquatic:Marine
+MGYP003632672825	2	root:Environmental:Aquatic:Marine
+MGYP003632769873	3	root:Environmental:Aquatic:Marine
+MGYP003632815236	1	root:Environmental:Aquatic:Marine
+MGYP003632817224	5	root:Environmental:Aquatic:Marine
+MGYP003632863261	3	root:Environmental:Aquatic:Marine
+MGYP003632958549	3	root:Environmental:Aquatic:Marine
+MGYP003632975392	1	root:Environmental:Aquatic:Marine
+MGYP003633012900	1	root:Environmental:Aquatic:Marine
+MGYP003633037649	1	root:Environmental:Aquatic:Marine
+MGYP003633038960	4	root:Environmental:Aquatic:Marine
+MGYP003633071237	4	root:Environmental:Aquatic:Marine
+MGYP003633099443	2	root:Environmental:Aquatic:Marine
+MGYP003633151771	2	root:Environmental:Aquatic:Marine
+MGYP003633222652	3	root:Environmental:Aquatic:Marine
+MGYP003633225274	2	root:Environmental:Aquatic:Marine
+MGYP003633654069	1	root:Environmental:Aquatic:Marine
+MGYP003633757380	14	root:Environmental:Aquatic:Marine
+MGYP003634397047	1	root:Environmental:Aquatic:Marine
+MGYP003634417012	1	root:Environmental:Aquatic:Marine
+MGYP003634715665	2	root:Environmental:Aquatic:Marine
+MGYP003635397750	1	root:Environmental:Aquatic:Marine
+MGYP003635721123	1	root:Environmental:Aquatic:Marine
+MGYP003635766129	1	root:Environmental:Aquatic:Marine
+MGYP003635994791	1	root:Environmental:Aquatic:Marine
+MGYP003636030588	1	root:Environmental:Aquatic:Marine
+MGYP003636133683	8	root:Environmental:Aquatic:Marine
+MGYP003636214113	2	root:Environmental:Aquatic:Marine
+MGYP003636312911	1	root:Environmental:Aquatic:Marine
+MGYP003636390437	2	root:Environmental:Aquatic:Marine
+MGYP003636475424	1	root:Environmental:Aquatic:Marine
+MGYP003636498751	2	root:Environmental:Aquatic:Marine
+MGYP003636515808	1	root:Environmental:Aquatic:Marine
+MGYP003636552813	1	root:Environmental:Aquatic:Marine
+MGYP003636591556	2	root:Environmental:Aquatic:Marine
+MGYP003636594102	2	root:Environmental:Aquatic:Marine
+MGYP003636681421	2	root:Environmental:Aquatic:Marine
+MGYP003636822606	1	root:Environmental:Aquatic:Marine
+MGYP003636907381	1	root:Environmental:Aquatic:Marine
+MGYP003636931262	1	root:Environmental:Aquatic:Marine
+MGYP003637047435	4	root:Environmental:Aquatic:Marine
+MGYP003637280897	1	root:Environmental:Aquatic:Marine
+MGYP003637607232	1	root:Environmental:Aquatic:Marine
+MGYP003637788098	4	root:Environmental:Aquatic:Marine
+MGYP003637833307	1	root:Environmental:Aquatic:Marine
+MGYP003637843795	1	root:Environmental:Aquatic:Marine
+MGYP003638012395	1	root:Environmental:Aquatic:Marine
+MGYP003638109384	1	root:Environmental:Aquatic:Marine
+MGYP003638149797	1	root:Environmental:Aquatic:Marine
+MGYP003638283004	3	root:Environmental:Aquatic:Marine
+MGYP003638283103	1	root:Environmental:Aquatic:Marine
+MGYP003638320481	1	root:Environmental:Aquatic:Marine
+MGYP003638374876	2	root:Environmental:Aquatic:Marine
+MGYP003638549746	1	root:Environmental:Aquatic:Marine
+MGYP003638900426	2	root:Environmental:Aquatic:Marine
+MGYP003638930207	1	root:Environmental:Aquatic:Marine
+MGYP003639171433	1	root:Environmental:Aquatic:Marine
+MGYP003639185136	4	root:Environmental:Aquatic:Marine
+MGYP003639502842	5	root:Environmental:Aquatic:Marine
+MGYP003639530251	1	root:Environmental:Aquatic:Marine
+MGYP003639982947	1	root:Environmental:Aquatic:Marine
+MGYP003640120576	3	root:Environmental:Aquatic:Marine
+MGYP003640479465	2	root:Environmental:Aquatic:Marine
+MGYP003640545836	4	root:Environmental:Aquatic:Marine
+MGYP003640629872	1	root:Environmental:Aquatic:Marine
+MGYP003640677375	1	root:Environmental:Aquatic:Marine
+MGYP003640703115	1	root:Environmental:Aquatic:Marine
+MGYP003640758052	1	root:Environmental:Aquatic:Marine
+MGYP003640767035	5	root:Environmental:Aquatic:Marine
+MGYP003640785656	1	root:Environmental:Aquatic:Marine
+MGYP003640887170	3	root:Environmental:Aquatic:Marine
+MGYP003640926796	1	root:Environmental:Aquatic:Marine
+MGYP003641001690	1	root:Environmental:Aquatic:Marine
+MGYP003641039823	1	root:Environmental:Aquatic:Marine
+MGYP003641210978	1	root:Environmental:Aquatic:Marine
+MGYP003641235505	1	root:Environmental:Aquatic:Marine
+MGYP003641351059	2	root:Environmental:Aquatic:Marine
+MGYP003641358053	1	root:Environmental:Aquatic:Marine
+MGYP003641811597	1	root:Environmental:Aquatic:Marine
+MGYP003641947235	1	root:Environmental:Aquatic:Marine
+MGYP003642658413	2	root:Environmental:Aquatic:Marine
+MGYP003643222564	1	root:Environmental:Aquatic:Marine
+MGYP003643223497	1	root:Environmental:Aquatic:Marine
+MGYP003643710131	1	root:Environmental:Aquatic:Marine
+MGYP003643758905	1	root:Environmental:Aquatic:Marine
+MGYP003644263450	1	root:Environmental:Aquatic:Marine
+MGYP003644377193	1	root:Environmental:Aquatic:Marine
+MGYP003644485079	1	root:Environmental:Aquatic:Marine
+MGYP003644569838	1	root:Environmental:Aquatic:Marine
+MGYP003644684321	2	root:Environmental:Aquatic:Marine
+MGYP003644742191	1	root:Environmental:Aquatic:Marine
+MGYP003645041815	2	root:Environmental:Aquatic:Marine
+MGYP003645114312	1	root:Environmental:Aquatic:Marine
+MGYP003645388886	1	root:Environmental:Aquatic:Marine
+MGYP003645550268	1	root:Environmental:Aquatic:Marine
+MGYP003645650826	1	root:Environmental:Aquatic:Marine
+MGYP003646519450	2	root:Environmental:Aquatic:Marine
+MGYP003646749732	2	root:Environmental:Aquatic:Marine
+MGYP003662477660	2	root:Environmental:Aquatic:Marine
+MGYP003662629166	1	root:Environmental:Aquatic:Marine
+MGYP003662771788	1	root:Environmental:Aquatic:Marine
+MGYP003662916668	1	root:Environmental:Aquatic:Marine
+MGYP003663342899	2	root:Environmental:Aquatic:Marine
+MGYP003663360731	1	root:Environmental:Aquatic:Marine
+MGYP003663605661	1	root:Environmental:Aquatic:Marine
+MGYP003663720320	2	root:Environmental:Aquatic:Marine
+MGYP003664033106	1	root:Environmental:Aquatic:Marine
+MGYP003664292513	1	root:Environmental:Aquatic:Marine
+MGYP003664419615	1	root:Environmental:Aquatic:Marine
+MGYP003667212087	1	root:Environmental:Aquatic:Marine
+MGYP003667787347	1	root:Environmental:Aquatic:Marine
+MGYP003668066890	1	root:Environmental:Aquatic:Marine
+MGYP003668196299	1	root:Environmental:Aquatic:Marine
+MGYP003668355250	1	root:Environmental:Aquatic:Marine
+MGYP003668613640	1	root:Environmental:Aquatic:Marine
+MGYP003668719373	1	root:Environmental:Aquatic:Marine
+MGYP003668772704	1	root:Environmental:Aquatic:Marine
+MGYP003668871406	1	root:Environmental:Aquatic:Marine
+MGYP003669077280	1	root:Environmental:Aquatic:Marine
+MGYP003669342811	2	root:Environmental:Aquatic:Marine
+MGYP003669751008	1	root:Environmental:Aquatic:Marine
+MGYP003669773156	1	root:Environmental:Aquatic:Marine
+MGYP003669909241	1	root:Environmental:Aquatic:Marine
+MGYP003670022724	1	root:Environmental:Aquatic:Marine
+MGYP003670052895	1	root:Environmental:Aquatic:Marine
+MGYP003670114767	1	root:Environmental:Aquatic:Marine
+MGYP003670902183	1	root:Environmental:Aquatic:Marine
+MGYP003671045276	1	root:Environmental:Aquatic:Marine
+MGYP003671104683	1	root:Environmental:Aquatic:Marine
+MGYP003672330214	1	root:Environmental:Aquatic:Marine
+MGYP003681970701	4	root:Environmental:Aquatic:Marine:Marginal Sea
+MGYP003703364957	1	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003879864571	8	root:Environmental:Aquatic:Lentic:Brackish
+MGYP003879864571	1	root:Host-associated:Algae
+MGYP003959213441	4	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003961632451	13	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003962813627	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003962894435	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003964140817	6	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003964370039	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003964952687	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003965023667	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003965067489	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003965108023	2	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003966949055	3	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003967095805	5	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003967452453	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003968146765	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003968972085	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003969045689	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003969256679	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003971474241	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003976833229	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003981698273	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003996285317	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003996594435	3	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP004105453633	1	root:Environmental:Aquatic:Marine:Oceanic
