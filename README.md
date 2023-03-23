@@ -125,7 +125,11 @@ Requires download of UniRef90 (can be downloaded using AF2 DB download script)
     mmseqs createindex /blockstorage/sequence_DBs/uniref90/UniRef90 /blockstorage/sequence_DBs/tmp
 
     mmseqs search /blockstorage/sequence_DBs/encapsulin_hits/v0_encapsulin_hits blockstorage/sequence_DBs/uniref90/UniRef90 /blockstorage/sequence_DBs/encapsulin_hits/encapsulin_UniRef90_hits tmp -a  --start-sens 1 --sens-steps 3 -s 7 --max-accept 1 
-    mmseqs convertalis /blockstorage/sequence_DBs/encapsulin_hits/v0_encapsulin_hits blockstorage/sequence_DBs/uniref90/UniRef90 /blockstorage/sequence_DBs/encapsulin_hits/encapsulin_UniRef90_hits encapsulin_metagenomics/encapsulin_UniRef90_hits.m8
+
+    mmseqs convertalis /blockstorage/sequence_DBs/encapsulin_hits/v0_encapsulin_hits /blockstorage/sequence_DBs/uniref90/UniRef90 \
+    /blockstorage/sequence_DBs/encapsulin_hits/encapsulin_UniRef90_hits  \
+    encapsulin_UniRef90_hits.tsv \
+    --format-output "query,theader,fident,alnlen,mismatch,gapopen,qstart,qend,tstart,tend,evalue,bits"
 
 Note here that `v0_encapsulin_hits` refers to the initial encapsulin hit dataset before any large scale filtering or searches using Oracle Cloud.
 
@@ -230,8 +234,11 @@ Search HMMs against cargo proteins:
     mmseqs createdb /blockstorage/sequence_DBs/blast_nr/nr.fasta /blockstorage/sequence_DBs/blast_nr/blast_nr
     mmseqs createindex /blockstorage/sequence_DBs/blast_nr/blast_nr /blockstorage/sequence_DBs/tmp
 
-    mmseqs search /blockstorage/sequence_DBs/encapsulin_hits/v0_all_cargo_proteins blockstorage/sequence_DBs/blast_nr/blast_nr /blockstorage/sequence_DBs/encapsulin_hits/cargo_blast_nr_hits tmp -a  --start-sens 1 --sens-steps 3 -s 7 --max-accept 1 
-    mmseqs convertalis /blockstorage/sequence_DBs/encapsulin_hits/v0_all_cargo_proteins blockstorage/sequence_DBs/blast_nr/blast_nr /blockstorage/sequence_DBs/encapsulin_hits/cargo_blast_nr_hits encapsulin_metagenomics/cargo_blast_nr_hits.m8
+    mmseqs search /blockstorage/sequence_DBs/encapsulin_hits/v0_all_cargo_proteins blockstorage/sequence_DBs/blast_nr/blast_nr /blockstorage/sequence_DBs/encapsulin_hits/cargo_blast_nr_hits tmp -a  --start-sens 1 --sens-steps 3 -s 7 --max-accept 30 
+    mmseqs convertalis /blockstorage/sequence_DBs/encapsulin_hits/v0_all_cargo_proteins /blockstorage/sequence_DBs/blast_nr/blast_nr \
+    /blockstorage/sequence_DBs/encapsulin_hits/cargo_blast_nr_hits \
+    cargo_blast_nr_hits.tsv \
+    --format-output "query,theader,fident,alnlen,mismatch,gapopen,qstart,qend,tstart,tend,evalue,bits"
 
 ### Run disorder predictions using ADOPT
 
