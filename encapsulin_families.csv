@@ -11,6 +11,19 @@ MGYP000421531091,DyP Peroxidase,Manually curated (Pfam)
 MGYP000520525852,DyP Peroxidase,Manually curated (Pfam)
 MGYP000126911704,DyP Peroxidase,Manually curated (Pfam)
 MGYP001556476986,DyP Peroxidase,Manually curated (Pfam)
+MGYP003365459109,Dyp-type peroxidase,Sequence similarity
+MGYP003361980941,Dyp-type peroxidase,Sequence similarity
+MGYP003361793332,Dyp-type peroxidase,Sequence similarity
+MGYP003362106639,Dyp-type peroxidase,Sequence similarity
+MGYP000464535878,Dyp-type peroxidase,Sequence similarity
+MGYP000271170847,Dyp-type peroxidase,Sequence similarity
+MGYP000947173517,Dyp-type peroxidase,Sequence similarity
+MGYP003365230747,Dyp-type peroxidase,Sequence similarity
+MGYP000934677593,Dyp-type peroxidase,Sequence similarity
+MGYP001388136034,Dyp-type peroxidase,Sequence similarity
+MGYP000930758271,Dyp-type peroxidase,Sequence similarity
+MGYP003365006076,Dyp-type peroxidase,Sequence similarity
+MGYP000598759126,Dyp-type peroxidase,Sequence similarity
 MGYP001383146917,Alternative oxidase,Manually curated (Pfam)
 MGYP003110546203,Amine oxidoreductase,Manually curated (Pfam)
 MGYP003583420273,Ferritin,all_cargo_clp_consensus
@@ -31,6 +44,27 @@ MGYP001508311700,Ferritin,Manually curated (Pfam)
 MGYP003110657904,Ferritin,Manually curated (Pfam)
 MGYP003302485682,Ferritin,Manually curated (Pfam)
 MGYP003636907381,Ferritin,Manually curated (Pfam)
+MGYP000848319187,Ferritin,Sequence similarity
+MGYP000458177489,Ferritin,Sequence similarity
+MGYP000167284497,Ferritin,Sequence similarity
+MGYP001809770021,Ferritin,Sequence similarity
+MGYP001809730377,Ferritin,Sequence similarity
+MGYP000292815046,Ferritin,Sequence similarity
+MGYP000616299448,Ferritin,Sequence similarity
+MGYP000710572512,Ferritin,Sequence similarity
+MGYP001051553792,Ferritin,Sequence similarity
+MGYP002875673093,Ferritin,Sequence similarity
+MGYP003111894484,Ferritin,Sequence similarity
+MGYP003584008983,Ferritin,Sequence similarity
+MGYP000215260709,Ferritin,Sequence similarity
+MGYP000951296572,Ferritin,Sequence similarity
+MGYP000914502379,Ferritin,Sequence similarity
+MGYP000336767234,Ferritin,Sequence similarity
+MGYP000871613206,Ferritin,Sequence similarity
+MGYP003276472124,Ferritin,Sequence similarity
+MGYP001765971991,Ferritin,Sequence similarity
+MGYP001269526620,Ferritin,Sequence similarity
+MGYP003636591556,Ferritin,Sequence similarity
 MGYP000469965527,Ubiquinone biosynthesis protein COQ7,all_cargo_clp_consensus
 MGYP000906978198,Ubiquinone biosynthesis protein COQ7,Manually curated (Pfam)
 MGYP000937350499,Ubiquinone biosynthesis protein COQ7,Manually curated (Pfam)
@@ -50,6 +84,17 @@ MGYP001626153899,Rubrerythrin,Manually curated (Pfam)
 MGYP003370124888,Rubrerythrin,Manually curated (Pfam)
 MGYP003370219555,Rubrerythrin,Manually curated (Pfam)
 MGYP003371163271,Rubrerythrin,Manually curated (Pfam)
+MGYP001626159621,Rubrerythrin,Sequence similarity
+MGYP001770651498,Rubrerythrin,Sequence similarity
+MGYP001626327972,Rubrerythrin,Sequence similarity
+MGYP001772598765,Rubrerythrin,Sequence similarity
+MGYP000403980963,Rubrerythrin,Sequence similarity
+MGYP001772626497,Rubrerythrin,Sequence similarity (Fusion)
+MGYP001772615312,Rubrerythrin,Sequence similarity (Fusion)
+MGYP001772614567,Rubrerythrin,Sequence similarity (Fusion)
+MGYP001772554294,Rubrerythrin,Sequence similarity (Fusion)
+MGYP001772539121,Rubrerythrin,Sequence similarity (Fusion)
+MGYP001626330305,Rubrerythrin,Sequence similarity (Fusion)
 MGYP000256924453,Manganese containing catalase,Manually curated (Pfam)
 MGYP000369174624,Manganese containing catalase,Manually curated (Pfam)
 MGYP001622861810,Manganese containing catalase,Manually curated (Pfam)
@@ -89,6 +134,11 @@ MGYP001806805357,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP003638149797,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP001365287079,Cysteine Desulfurase,Manually curated (Pfam)
 MGYP003598712058,Cysteine Desulfurase,Manually curated (Pfam)
+MGYP001805949054,Cysteine Desulfurase,Sequence similarity
+MGYP001166290498,Cysteine Desulfurase,Sequence similarity
+MGYP001573638360,Cysteine Desulfurase,Sequence similarity
+MGYP001544515232,Cysteine Desulfurase,Sequence similarity
+MGYP003614871855,Cysteine Desulfurase,Sequence similarity
 MGYP000274412832,Polyprenyl Transferase,Manually curated (Pfam)
 MGYP000383995054,Polyprenyl Transferase,Manually curated (Pfam)
 MGYP000448240885,Polyprenyl Transferase,Manually curated (Pfam)
