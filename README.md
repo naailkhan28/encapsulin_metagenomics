@@ -435,3 +435,7 @@ Cluster all new unannotated encapsulins at 30% identity:
     cd seqs
     mkdir tmp
     mmseqs easy-cluster unannotated.fasta unannotated.fasta tmp --min-seq-id 0.3
+
+# Large-Scale Searches against the full-size ESM Atlas
+
+    foldseek easy-search natural_structures/*.pdb /confident_structure_DB ./esm_atlas_hits.m8 tmp --max-seqs 1000000 -c 0.5 
