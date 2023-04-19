@@ -33,6 +33,8 @@ Requires download of UniRef90 (can be downloaded using AF2 DB download script)
 
 Note here that `v0_encapsulin_hits` refers to the initial encapsulin hit dataset before any large scale filtering or searches using Oracle Cloud.
 
+Analysis of these hits is in `notebooks/encapsulin_uniref90_hits.ipynb` and use of this hit data to remove viral sequences is in `notebooks/encapsulin_filtering_by_sequence_identity.ipynb`
+
 ## Search Existing Natural Encapsulins against Phage HK97 Proteins
 
 This requires the file `family_1_2_3_natural_encapsulins.fasta` which is included in the repo. This contains all family 1, 2, and 3 encapsulins from Andreas and Giessen, 2021.
@@ -49,3 +51,14 @@ And finally, we can download these sequences from UniProt directly:
     mkdir seqs/phage_capsids
     python scripts/download_phage_capsid_sequences.py
     cat seqs/phage_capsids/*.fasta > seqs/phage_capsids.fasta
+
+Now let's build mmseqs databases and search:
+
+    conda activate mmseqs2
+    mkdir tmp
+    mmseqs createdb family_1_2_3_natural_encapsulins.fasta DBs/natural_encapsulin_sequences
+    mmseqs createdb seqs/phage_capsid_sequences.fasta DBs/phage_capsids
+    mmseqs search DBs/natural_encapsulin_sequences DBs/phage_capsids DBs/natural_encapsulin_phage_hits tmp -a  --start-sens 1 --sens-steps 3 -s 7 --max-accept 1
+    mmseqs convertalis DBs/natural_encapsulin_sequences DBs/phage_capsids DBs/natural_encapsulin_phage_hits natural_encapsulin_phage_hits.tsv --format-output "query,theader,fident,alnlen,mismatch,gapopen,qstart,qend,tstart,tend,evalue,bits"
+
+Analysis of this data is in `notebooks/encapsulin_phage_hits.ipynb` 
