@@ -48,6 +48,7 @@ Then, we can query the InterPro API again and get all UniProt accessions in CL03
     python scripts/download_phage_capsid_accessions.py
 
 And finally, we can download these sequences from UniProt directly:
+
     mkdir seqs/phage_capsids
     python scripts/download_phage_capsid_sequences.py
     cat seqs/phage_capsids/*.fasta > seqs/phage_capsids.fasta
