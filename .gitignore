@@ -27,7 +27,6 @@
 /seqs/unannotated.fasta_rep_seq.fasta
 /seqs/all_putative_cargo_proteins.fasta
 /seqs/filtered_cargo_proteins.fasta
-/metadata
 /natural_encapsulin_hits.m8
 /operon_df_filtered.csv
 /response_regulator_domains.txt
@@ -38,3 +37,14 @@
 /non_RiPP-like_antiSMASH_clusters/*
 /foldseek/DBs/
 /foldseek/tmp/
+/seqs/phage_capsids/
+metadata/cargo_seq_metadata_filtered.csv
+metadata/mgy_seq_metadata_with_contigs_mgya_filtered_nonans.csv
+metadata/phage_hits_df.csv
+metadata/final_mgy_seq_metadata_table.csv
+metadata/mgy_seq_metadata_with_contigs_filtered_nonans.csv
+metadata/mgy_contigs_filtered.tsv
+metadata/final_orphan_sequences.csv
+metadata/orphan_sequences.csv
+metadata/cargo_MGYPs.txt
+metadata/all_MGYCs.txt
