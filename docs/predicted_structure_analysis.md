@@ -1,5 +1,7 @@
 # Metagenomic Encapsulin Predicted Structures
 
+## Predict Structures
+
 ### Download All Available Structures From ESM Atlas
 
     mkdir structures
@@ -26,6 +28,8 @@ Rinse and repeat until all structure data is present!
     mkdir structures/confident
     cd structures
     sh ../scripts_34_move_confident_structure_predictions.sh
+
+## Cluster Structures
 
 ### Install DALI
 
@@ -94,3 +98,18 @@ Cluster all structures using Foldseek with a minumum alignment length cutoff of 
     foldseek search DBs/confident_esmfold_predictions_foldseek_db DBs/confident_esmfold_predictions_foldseek_db DBs/all_against_all tmp -c 0.8 
     foldseek clust DBs/confident_esmfold_predictions_foldseek_db DBs/all_against_all DBs/clusters
     foldseek createtsv DBs/confident_esmfold_predictions_foldseek_db DBs/confident_esmfold_predictions_foldseek_db DBs/clusters clusters.tsv
+
+## Compare AF2 and ESMFold Predictions
+
+Write a list of cluster representatives:
+
+    mkdir seqs/AF2_vs_ESMfold
+    python scripts/write_structure_cluster_centres.py
+
+See `notebooks/AlphaFold2_vs_ESMFold_comparison.ipynb` for more information about these cluster "centre" sequences.
+
+Predict the structure of these sequences using AF2:
+
+    mkdir AF2_predictions
+    cd ~/alphafold
+    sh /blockstorage/encapsulin_metagenomics/scripts/af2_predictions.sh
