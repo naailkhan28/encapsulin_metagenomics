@@ -54,3 +54,4 @@ relax_metrics.json
 ranking_debug.json
 unrelaxed_model_*.pdb
 relaxed_model_*.pdb
+TMalign
