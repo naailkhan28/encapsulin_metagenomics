@@ -1,0 +1,748 @@
+Query         MGYP003630538787 FL=1
+Match_columns 425
+No_of_seqs    190 out of 304
+Neff          5.8185
+Searched_HMMs 80799
+Date          Thu Dec 21 17:45:04 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmprlq0ejnm/query.a3m -o /tmp/tmprlq0ejnm/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5UU5_B Major capsid protein; P 100.0 5.9E-66 7.3E-71  536.5   0.0  414    1-425     1-429 (430)
+  2 5L35_C Gene 2 protein; phage,  100.0 9.8E-57 1.2E-61  465.6   0.0  395    2-423     1-421 (422)
+  3 2M5S_A I-domain; telokin-like   99.9 2.5E-29 3.1E-34  220.9   0.0  118  224-344    11-130 (130)
+  4 6MNT_A Putative coat protein;   99.9 1.1E-27 1.4E-32  209.8   0.0  111  225-344     8-118 (126)
+  5 6MPO_A Gene 5 protein; coat pr  99.6 8.1E-20   1E-24  162.2   0.0   78  263-344    36-123 (132)
+  6 3J7V_E Major capsid protein 10  97.2 3.7E-06 4.6E-11   85.7   0.0  198    9-218    29-257 (345)
+  7 3J7W_D Major capsid protein 10  97.2 3.7E-06 4.6E-11   85.7   0.0  198    9-218    29-257 (345)
+  8 2XD8_B T7-LIKE CAPSID PROTEIN;  96.9 1.5E-05 1.8E-10   82.8   0.0  200    9-218    31-261 (375)
+  9 4BML_B MAJOR CAPSID PROTEIN; V  96.5 6.1E-05 7.5E-10   75.8   0.0  198    9-217    30-250 (332)
+ 10 6R3A_A Major capsid protein; B  92.4   0.042 5.2E-07   56.2   0.0  204    3-218     6-225 (323)
+ 11 6RTL_E Major capsid protein; B  92.4   0.042 5.2E-07   56.2   0.0  204    3-218     6-225 (323)
+ 12 2XD8_B T7-LIKE CAPSID PROTEIN;  51.6      12 0.00015   39.7   0.0   60  347-424   309-369 (375)
+ 13 3J1A_B capsid protein; halopha  35.8      31 0.00038   32.1   0.0  121   89-216     8-140 (199)
+ 14 3J1A_G capsid protein; halopha  34.6      33 0.00041   31.9   0.0  121   88-215     7-139 (199)
+ 15 3J7V_E Major capsid protein 10  30.9      42 0.00052   35.0   0.0   56  347-422   287-342 (345)
+ 16 3J7W_D Major capsid protein 10  30.9      42 0.00052   35.0   0.0   56  347-422   287-342 (345)
+ 17 3JB5_D major capsid protein; a  30.1      44 0.00055   34.1   0.0  198    9-217    14-230 (315)
+ 18 6OMA_F Major capsid protein; c  29.2      47 0.00058   33.4   0.0  199    9-216    16-236 (299)
+ 19 6OMC_B Major capsid protein; c  29.2      47 0.00058   33.4   0.0  199    9-216    16-236 (299)
+ 20 1IF0_G MAJOR CAPSID PROTEIN GP  25.8      59 0.00073   31.5   0.0  135   74-216    48-194 (256)
+ 21 6B0X_F Major head protein, Sca  21.2      83   0.001   32.5   0.0  188    9-215    40-238 (324)
+ 22 6B23_C Major head protein, Cap  21.2      83   0.001   32.5   0.0  188    9-215    40-238 (324)
+ 23 4BML_B MAJOR CAPSID PROTEIN; V  20.4      89  0.0011   32.1   0.0   54  350-421   276-330 (332)
+
+No 1
+>5UU5_B Major capsid protein; P22 Bacteriophage, VIRUS; 3.3A {Salmonella phage P22}
+Probab=100.00  E-value=5.9e-66  Score=536.51  Aligned_cols=414  Identities=26%  Similarity=0.349  Sum_probs=351.1  Template_Neff=8.000
+
+Q MGYP0036305387    1 MANSFSKEERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALYSDYVQLAVPS   80 (425)
+Q Consensus         1 man~~~k~~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~~d~~e~svp~   80 (425)
+                      |+|+|+|++|+|++++++.|++++++.+.++++.+|++++.+.||+|+||.++.....+   ....+..+++.+++.++|
+T Consensus         1 m~n~~~~~~ev~~~~vl~~l~~~lv~~~~~~~~~~~~~~~~~~GdTV~Ip~~~~~~~~~---~~~~~~~~~~~t~t~v~v   77 (430)
+T 5UU5_B            1 MALNEGQIVTLAVDEIIETISAITPMAQKAKKYTPPAASMQRSSNTIWMPVEQESPTQE---GWDLTDKATGLLELNVAV   77 (430)
+T ss_dssp             CCCCCCCCCEECSSCCCCCBCCCCGGGTTSEEECCCHHHHHHTTSCEEEEBCCCCCCEE---SSCCCSCCBCCCCCEEEE
+T ss_pred             CCCchhhhHHHHHHHHHHHHHHhCchhhcccCCCCCchHccCCCCEEEEccccCCCccc---CCcCCCCcccccceeEEE
+Confidence            99999976899999999999999999999987543455555689999999999976432   222224578899999999
+
+
+Q MGYP0036305387   81 SISYSKAVPFTLNALELRDALQEDRLGAAAKNKLASDINVAIMDVAAAQ-------GTLVVKRTAAATGYDDVAQCDAIM  153 (425)
+Q Consensus        81 ~l~~~k~v~~~~~a~eLrd~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-------gs~vv~~~~~~~~~d~~a~a~a~m  153 (425)
+                      +||++++++|+|+|+|+.+.+++++++++++++|+++||.+++..+...       .+.++++  .+.+++.|++++++|
+T Consensus        78 tId~~~~~a~~Itd~e~~~~d~~~~~~~~a~~aLA~~vd~~v~~~~~~~~~~~~~~~~~~g~~--~~~~~~~i~~a~~~L  155 (430)
+T 5UU5_B           78 NMGEPDNDFFQLRADDLRDETAYRRRIQSAARKLANNVELKVANMAAEMGSLVITSPDAIGTN--TADAWNFVADAEEIM  155 (430)
+T ss_dssp             CCCCCEEEEEEEEGGGGSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCEEEECSSCTTSS--SSHHHHHHHHHHHHH
+T ss_pred             EeCCCcceeEEecHHHhcCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhccEecCCCCCCCC--chhHHHHHHHHHHHH
+Confidence            9999999999999999875667889999999999999999999886322       2333322  347899999999999
+
+
+Q MGYP0036305387  154 -NEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMV-AGF-DTLKLDYANRLTAAAGGGSLTIDT  230 (425)
+Q Consensus       154 -~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~v-AGf-dt~~~d~~~~~t~~~~~gt~tv~t  230 (425)
+                       +++++|.++|+++|+|+++..|++++.+.+  ..+....+++++|.||++ +|| +||+|+++|.|+.|++ +++++++
+T Consensus       156 ~~~~~vP~~~R~lvl~p~~~~~Ll~~~~~~~--~~~~~~~~~lr~G~IG~~i~Gf~~v~~S~~lp~~~~gt~-~~~~v~~  232 (430)
+T 5UU5_B          156 FSRELNRDMGTSYFFNPQDYKKAGYDLTKRD--IFGRIPEEAYRDGTIQRQVAGFDDVLRSPKLPVLTKSTA-TGITVSG  232 (430)
+T ss_dssp             HHTTBCCTTCEEEEECHHHHHHHHHHHHSSS--SCCHHHHHHHHSCCCCSCTTTCSCEEECTTCCEECCCCC-CSCBBCS
+T ss_pred             hhcCcCCcCCcEEEeCHHHHHHHHhcccccc--cCCCCcHHHHHhCcccceecCceeeEEcCCCCcCCCCCC-cceeecc
+Confidence             999999989999999999999999855544  333123678999999998 999 8999999999999998 5667766
+
+
+Q MGYP0036305387  231 RDAATNYLVPAATQAVTGGTTNVDNRTQSVTISSTTGVAAGDAFTIAGVEACHHITKQSTGQLKTFRVISVTNGTTMVIS  310 (425)
+Q Consensus       231 ~~~a~~~~v~~at~~~tg~~~nvDnr~~~~tvsat~~lk~GDvFTIAGV~aVnp~tK~~tg~L~tF~V~a~~~gtti~is  310 (425)
+                         +++++++++..+..+...+++++..++..+++++||+||+|||+|||+|||++|+++|++|||||+++.+|++|+|+
+T Consensus       233 ---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GD~~tiagv~~v~~~~~~~~~~~~~fvv~~~~~~~~i~i~  309 (430)
+T 5UU5_B          233 ---AQSFKPVAWQLDNDGNKVNVDNRFATVTLSATTGMKRGDKISFAGVKFLGQMAKNVLAQDATFSVVRVVDGTHVEIT  309 (430)
+T ss_dssp             ---CBCCCCCSEEECTTCCEEECCSSCEEEEBSCCCSCCTTCEEEETTCEEECTTTCCEEEEECCEEEEECCSSSEEEES
+T ss_pred             ---CcccccccceecCCCCcccccCceEEEEeccCCCccCCCEEEEeccceeccccccCcCCCeEEEEEEeecCCeeEee
+Confidence               45555555555556667888888776666788999999999999999999999999999999999999766899999
+
+
+Q MGYP0036305387  311 PGIISNQVA--SDAAAQYQNCIVTGAAAAAITFLNTVTTSVNPFWQRDSLELLPGRYSVPADAG-AA--VLRGTTDNGIE  385 (425)
+Q Consensus       311 P~ii~~~~~--~~a~~~yqNV~a~pA~~AaIt~lnt~s~~~N~f~~kdAi~lv~~~l~~p~~~G-~~--~~~~~t~~Gis  385 (425)
+                      |+|++.+.+  ...+++|+||++.|+++++||++++.+|.+|++|||+||+|++|||++|.++. +.  .+.+++++||+
+T Consensus       310 p~i~~~~~~~~~~~~~~~~~v~~~~~~~aait~~~~~~~~~n~~fh~~A~~l~~~~l~~p~~~~~~~~~~~~~~~~~Gls  389 (430)
+T 5UU5_B          310 PKPVALDDVSLSPEQRAYANVNTSLADAMAVNILNVKDARTNVFWADDAIRIVSQPIPANHELFAGMKTTSFSIPDVGLN  389 (430)
+T ss_dssp             SCCCCSSCTTSCTTTGGGCCSSSCBCTTCBEEESCCSCEECEEEEEGGGEEEECCCCCCCSTTCCSCEEEEEECSSSCCE
+T ss_pred             cceeccCCCCCChhhhcccccccccccCCcEEEecccccccceeecCCcEEEEeccccCCcccccCceeEEEEcCCCCeE
+Confidence            999965444  22377899999999999999999999999999999999999999999997543 22  26778899999
+
+
+Q MGYP0036305387  386 LVMQKFYDINTMTTKYRCDTLFGVVNKQPEMSGIMLFSQT  425 (425)
+Q Consensus       386 i~~~~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l~~Qt  425 (425)
+                      ||++++||+++++++||||+|||+++++|||+||++.+|+
+T Consensus       390 lr~~~~~d~~~~~~~~~~d~l~G~~~~~p~~~~~~~~~~~  429 (430)
+T 5UU5_B          390 GIFATQGDISTLSGLCRIALWYGVNATRPEAIGVGLPGQT  429 (430)
+T ss_dssp             EEEEEECCTTTTEEEEEEEECCEEEESCTTTCEEEETTCC
+T ss_pred             EEEEEeeccccCceEEEEEEEEeceeeCHHHhhccCCCCC
+Confidence            9999999999999999999999999999999999999996
+
+
+No 2
+>5L35_C Gene 2 protein; phage, Sf6, VIRUS; 2.89A {Shigella phage Sf6}
+Probab=100.00  E-value=9.8e-57  Score=465.64  Aligned_cols=395  Identities=19%  Similarity=0.192  Sum_probs=337.2  Template_Neff=8.400
+
+Q MGYP0036305387    2 ANSFSKEE--RVAFENILEGFQDALVLSKNVGIYTTDQV-MME-RTNDTIWRPMPYIGTSINAAPGT-DISALYSDYVQL   76 (425)
+Q Consensus         2 an~~~k~~--~v~fe~~le~fe~~lv~s~~v~~~~~~~~-~mq-r~~~tiwrP~~~~a~~~~~~~G~-D~t~~~~d~~e~   76 (425)
+                      +|+|++ +  ++|++++++.|+++++|.++++++  |+. +++ +.||+|+||+|..+...++. .. .....++++.++
+T Consensus         1 ~n~~lt-~~~~~i~~~~l~~l~~~~v~~~~v~r~--~~~~e~~~~~GdtV~i~~p~~~~~~~~~-~~~~~~~~~~~~~~~   76 (422)
+T 5L35_C            1 PNNLDS-NVSQIVLKKFLPGFMSDLVLAKTVDRQ--LLAGEINSSTGDSVSFKRPHQFSSLRTP-TGDISGQNKNNLISG   76 (422)
+T ss_dssp             CCCCGG-GSCCCEEEEECCCCCCCCCHHHHSBCS--TTTTCCCTTTTTCEEEECCCCCCCBCCS-SCCCSSSCCBCCCCC
+T ss_pred             CCcccc-hHHHHHHHHHHHHHHHHcceeccccCC--CCcchhhhcCCCEEEEEcCCceEeeecC-CCCccCCccccccee
+Confidence            689998 8  999999999999999999999999  888 776 68999999999998876654 33 122356889999
+
+
+Q MGYP0036305387   77 AVPSSISYSKAVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ-GTLVVKRTAAATGYDDVAQCDAIM  153 (425)
+Q Consensus        77 svp~~l~~~k~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-gs~vv~~~~~~~~~d~~a~a~a~m  153 (425)
+                      +++|+|+++++++++++++|+. + .+ +++++++++++|++++|++++.+++.. .+.++..++.+.+++++++++++|
+T Consensus        77 ~v~vtld~~~~~~~~itd~e~~~~~~d-~~~~~~~a~~aLa~~iD~~i~~~~~~~~~~~vg~~g~~~~~~~~i~~a~~~L  155 (422)
+T 5L35_C           77 KATGRVGNYITVAVEYQQLEEAIKLNQ-LEEILAPVRQRIVTDLETELAHFMMNNGALSLGSPNTPITKWSDVAQTASFL  155 (422)
+T ss_dssp             EEEEEECCEEEEEEEEEHHHHHHTCCS-HHHHSTHHHHHHHHHHHHHHHHHHHTTCCEEESCTTSCCCSTHHHHHHHHHH
+T ss_pred             eEEEEEeceEEeeeEeccHHHHHhhhh-HHHHHHHHHHHHHHHHHHHHHHHHHhhchhccCCCCCCCchHHHHHHHHHHH
+Confidence            9999999999999999999987 6 77 999999999999999999999987655 445555543457899999999999
+
+
+Q MGYP0036305387  154 NEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMV-AGFDTLKLDYANRLTAAAGGGSLTIDTRD  232 (425)
+Q Consensus       154 ~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~v-AGfdt~~~d~~~~~t~~~~~gt~tv~t~~  232 (425)
+                      +++++|.++|+++|+|+++..|++++...+  ..+....+++++|.||++ +||+||++++++.|+.|+.++++++++  
+T Consensus       156 ~~~~vP~~~R~lvv~p~~~~~L~~~~~~~~--~~~~~~~~~lr~G~ig~~~~Gf~v~~s~~l~~~t~g~~~~~~~v~g--  231 (422)
+T 5L35_C          156 KDLGVNEGENYAVMDPWSAQRLADAQTGLH--ASDQLVRTAWENAQIPTNFGGIRALMSNGLASRTQGAFGGTLTVKT--  231 (422)
+T ss_dssp             HHHTCCSSCEEEEECHHHHHHHHHHHTTCS--SCHHHHHHHHHHCCCCSBCSSSEEEECSCCCCEECCCCCSCEEESS--
+T ss_pred             HHcCCCCCCcEEEECHHHHHHHHHhhcccc--CCchHHHHHHHhCccCcccccceEEEECCccccCCCccccceeecC--
+Confidence            999999989999999999999998754444  333224678999999999 999999999999999999988877766  
+
+
+Q MGYP0036305387  233 AATNYLVPAATQAVTGGTTNVDNRTQSV-----TISSTTGVAAGDAFTIAGVEACHHITKQST-----GQLKTFRVISVT  302 (425)
+Q Consensus       233 ~a~~~~v~~at~~~tg~~~nvDnr~~~~-----tvsat~~lk~GDvFTIAGV~aVnp~tK~~t-----g~L~tF~V~a~~  302 (425)
+                       ++.+++.++          +|++..++     ..+++++||+||+|||+|||+|||++|+++     |+++||||+++.
+T Consensus       232 -~~~~~~~~~----------~~~~~~~~~~~~~~~~~~~~~~~GD~~tiagv~~v~~~~~~~~~~~~~~~~~~~~v~~~~  300 (422)
+T 5L35_C          232 -QPTVTYNAV----------KDSYQFTVTLTGATASVTGFLKAGDQVKFTNTYWLQQQTKQALYNGATPISFTATVTADA  300 (422)
+T ss_dssp             -CCCCSTTTS----------TTTCEEEEEEESCCSCCTTSBCTTCEEEEEEEEBBCTTTCCBCBCSSSBCEEEEEECSCB
+T ss_pred             -CCceeecce----------ecceeeEEEeecccccccccccCCCEEEEccceeeccccchhhcCCCCCccEEEEEEecc
+Confidence             233323222          22222222     235668899999999999999999999999     779999999985
+
+
+Q MGYP0036305387  303 N----G-TTMVISPGIISNQVASDAAAQYQNCIVTGAAAAAITFLNT--VTTSVNPFWQRDSLELLPGRYSVPADAGAAV  375 (425)
+Q Consensus       303 ~----g-tti~isP~ii~~~~~~~a~~~yqNV~a~pA~~AaIt~lnt--~s~~~N~f~~kdAi~lv~~~l~~p~~~G~~~  375 (425)
+                      +    | ++|+|+|+|++    ..++++||||++.|+++++||++++  .+|.+|++|||+||+|++|||++|. +.+  
+T Consensus       301 ~~~~~~~~~~~i~p~~~~----~~~~~~~~~v~~~~~~~~~~t~~~~~~~~~~~n~~fh~~A~~l~~~~l~~p~-~~~--  373 (422)
+T 5L35_C          301 NSDSGGDVTVTLSGVPIY----DTTNPQYNSVSRQVEAGDAVSVVGTASQTMKPNLFYNKFFCGLGSIPLPKLH-SID--  373 (422)
+T ss_dssp             CCBTTTEEEEEEESCCCC----CSSCGGGCCBSSCCCTTCEEEESSCSSCEECCEEEEEGGGEEEEECCCCCCT-TSE--
+T ss_pred             cCCCCCcceEEEecceec----CCCCccccccccccccCCeeEEEccCCCCCCccceecCCeEEEEeccccCCC-CCc--
+Confidence            4    3 78999999885    3456789999999999999999998  5799999999999999999999997 444  
+
+
+Q MGYP0036305387  376 LRGTTDNGIELVMQKFYDINTMTTKYRCDTLFGVVNKQPEMSGIMLFS  423 (425)
+Q Consensus       376 ~~~~t~~Gisi~~~~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l~~  423 (425)
+                      +.+++++||+||++++||++++++++|||+|||+++++|||+||++++
+T Consensus       374 ~~~~~~~Glslr~~~~~d~~~~~~~~~~d~l~G~~~~~p~~~~~~~g~  421 (422)
+T 5L35_C          374 SAVATYEGFSIRVHKYADGDANVQKMRFDLLPAYVCFNPHMGGQFFGN  421 (422)
+T ss_dssp             EEEEESSSCEEEEEEEEETTTTEEEEEEEECEEEEESCGGGEEEECCC
+T ss_pred             cEeecCCCeEEEEEEeccCCCCceeEEEEEecccceeCHhheeeecCC
+Confidence            567789999999999999999999999999999999999999999986
+
+
+No 3
+>2M5S_A I-domain; telokin-like domain, extra-density domain, D-loop; NMR {Enterobacteria phage P22}
+Probab=99.91  E-value=2.5e-29  Score=220.94  Aligned_cols=118  Identities=32%  Similarity=0.414  Sum_probs=103.8  Template_Neff=4.000
+
+Q MGYP0036305387  224 GSLTIDTRDAATNYLVPAATQAVTGGTTNVDNRTQSVTISSTTGVAAGDAFTIAGVEACHHITKQSTGQLKTFRVISVTN  303 (425)
+Q Consensus       224 gt~tv~t~~~a~~~~v~~at~~~tg~~~nvDnr~~~~tvsat~~lk~GDvFTIAGV~aVnp~tK~~tg~L~tF~V~a~~~  303 (425)
+                      .+.++++   ++..++.++..+.+|...++|+|.+++..+++++||+||+|||+|||+|||++|+++|+||||+|+++.+
+T Consensus        11 ~~~Tv~g---a~~~~~~~~~~~~~g~~~nvDnr~~~i~vsa~~tlk~GDvFTIAGV~aVnp~tK~~tg~LqqFvVtad~t   87 (130)
+T 2M5S_A           11 TGITVSG---AQSFKPVAWQLDNDGNKVNVDNRFATVTLSATTGMKRGDKISFAGVKFLGQMAKNVLAQDATFSVVRVVD   87 (130)
+T ss_dssp             CCEEBSS---CBCCCCCCSSCSSCCCCSCCSSSCEEEEBSCCTTCCTTCEEEETTCCBTTTTTTCTTCCCEEEEEEEESS
+T ss_pred             eeEEecC---CcccccceeEeCCCCCeecccCCceEEEEecCCCccCCCEEEEeccceeccccccccCCCcEEEEEEecc
+Confidence            4557776   7888888888888888999999999998888899999999999999999999999999999999999987
+
+
+Q MGYP0036305387  304 GTTMVISPGIISNQVA--SDAAAQYQNCIVTGAAAAAITFLNT  344 (425)
+Q Consensus       304 gtti~isP~ii~~~~~--~~a~~~yqNV~a~pA~~AaIt~lnt  344 (425)
+                      +++|.|+|+|++.+.+  +..+++||||++.|+++++||++|.
+T Consensus        88 ~~tv~IsP~ii~~~~a~~s~~~~ay~nVsa~pAngaAiTvln~  130 (130)
+T 2M5S_A           88 GTHVEITPKPVALDDVSLSPEQRAYANVNTSLADAMAVNILNV  130 (130)
+T ss_dssp             SSEEEEESCCCBSSCTTSCHHHHHHCCBSSCBCTTCEEEECCC
+T ss_pred             CCeeEEecCcccccccCCChhhhhccccccccccccceEeecC
+Confidence            7899999999965422  3356789999999999999999863
+
+
+No 4
+>6MNT_A Putative coat protein; anti-parallel beta-barrel, VIRAL PROTEIN; NMR {Enterobacteria phage CUS-3}
+Probab=99.89  E-value=1.1e-27  Score=209.77  Aligned_cols=111  Identities=44%  Similarity=0.617  Sum_probs=91.5  Template_Neff=4.100
+
+Q MGYP0036305387  225 SLTIDTRDAATNYLVPAATQAVTGGTTNVDNRTQSVTISSTTGVAAGDAFTIAGVEACHHITKQSTGQLKTFRVISVTNG  304 (425)
+Q Consensus       225 t~tv~t~~~a~~~~v~~at~~~tg~~~nvDnr~~~~tvsat~~lk~GDvFTIAGV~aVnp~tK~~tg~L~tF~V~a~~~g  304 (425)
+                      +.++++   +++.++.++..+    ..++|||.+++++++ ++||+||+|||+|||+|||++|+++|+||||||+++ +|
+T Consensus         8 g~tv~g---a~~~~~~~~~~~----~~nvDnr~~~i~vs~-~tlk~GDvFTIAGV~aVnp~tk~~tg~LqqFvVtad-sg   78 (126)
+T 6MNT_A            8 SLTVSG---QPEHKVEAKDSN----GMPVDNRQGTITVSA-SGLQVGDAFTIAGVNSVHQITKDTTGQPQVFRVLAV-SG   78 (126)
+T ss_dssp             CCCEES---CCCCCCCSBCTT----SCBCCCCCCEEEEES-TTCCTTCEEEEEEEEBCCTTSSCCCCCEEEEEEEEE-ET
+T ss_pred             ceeccC---ccccccCCccCC----ccccccceeEEEEec-CccCCCCEEEEecceeeCccccCcCCCceEEEEecC-CC
+Confidence            445655   566655554422    789999999997776 999999999999999999999999999999999997 34
+
+
+Q MGYP0036305387  305 TTMVISPGIISNQVASDAAAQYQNCIVTGAAAAAITFLNT  344 (425)
+Q Consensus       305 tti~isP~ii~~~~~~~a~~~yqNV~a~pA~~AaIt~lnt  344 (425)
+                      ++|.|+|+|++.+..+...++||||++.|+++++||++|.
+T Consensus        79 ~tv~IsP~ii~~~~~~~~~~~y~nVsa~pAngaaiT~ln~  118 (126)
+T 6MNT_A           79 TTVTISPKILPVENTDVASRPYANVDAKPAESAAITILNK  118 (126)
+T ss_dssp             TEEEEESCCCBS----STTSTTCSBSCCCSSSEEEEEECC
+T ss_pred             CeeEEeCceecCCcccccCCcccccccCccCCceeeehhc
+Confidence            7899999999765545567789999999999999999987
+
+
+No 5
+>6MPO_A Gene 5 protein; coat protein, insertion domain, VIRAL; NMR {Shigella phage Sf6}
+Probab=99.63  E-value=8.1e-20  Score=162.18  Aligned_cols=78  Identities=26%  Similarity=0.184  Sum_probs=68.6  Template_Neff=4.300
+
+Q MGYP0036305387  263 SSTTGVAAGDAFTIAGVEACHHITKQST-----GQLKTFRVISVTN----G-TTMVISPGIISNQVASDAAAQYQNCIVT  332 (425)
+Q Consensus       263 sat~~lk~GDvFTIAGV~aVnp~tK~~t-----g~L~tF~V~a~~~----g-tti~isP~ii~~~~~~~a~~~yqNV~a~  332 (425)
+                      +.+..||+||+|||+|||+|||++|+++     |+||+|+|+++.+    | .+|.|+|+|++    ..++.+||||++.
+T Consensus        36 ~~t~~lk~GDvftIagV~~Vnp~tk~~~~~~~~g~lr~fvVtad~~adgsG~~tl~I~P~ii~----~~~~~~y~nVsa~  111 (132)
+T 6MPO_A           36 SVTGFLKAGDQVKFTNTYWLQQQTKQALYNGATPISFTATVTADANSDSGGDVTVTLSGVPIY----DTTNPQYNSVSRQ  111 (132)
+T ss_pred             ccCCcccCCCEEEEeccceeCcccccccCCCCCCceEEEEEEeeecCCCCCcceEEEeCceeC----CCCcccccccccC
+Confidence            4557899999999999999999999999     9999999999875    2 68999999984    2223579999999
+
+
+Q MGYP0036305387  333 GAAAAAITFLNT  344 (425)
+Q Consensus       333 pA~~AaIt~lnt  344 (425)
+                      |+++++|||+|.
+T Consensus       112 pa~~aavt~~~~  123 (132)
+T 6MPO_A          112 VEAGDAVSVVGT  123 (132)
+T ss_pred             CcCCceeEEecc
+Confidence            999999999987
+
+
+No 6
+>3J7V_E Major capsid protein 10A; maturation, DNA packaging, Procapsid, Non-covalent; 4.5A {Enterobacteria phage T7}
+Probab=97.15  E-value=3.7e-06  Score=85.69  Aligned_cols=198  Identities=12%  Similarity=0.031  Sum_probs=142.5  Template_Neff=9.600
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALY--SDYVQLAVPSSISYSK   86 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~--~d~~e~svp~~l~~~k   86 (425)
+                      +++|..++++.+++.+++.+.+     +..++. .|++++||++...... +.... .....  ++.+...+.++++++.
+T Consensus        29 ~~~~~~~~~~~~~~~~~l~~~~-----~~~~~~-~g~~v~ip~~~~~~~~-~~~eg-~~~~~~~~~~t~~~~~l~~~~~~  100 (345)
+T 3J7V_E           29 LKVFGGEVLTAFARTSVTTSRH-----MVRSIS-SGKSAQFPVLGRTQAA-YLAPG-ENLDDKRKDIKHTEKVITIDGLL  100 (345)
+T ss_dssp             HHHHHHHHHHHHHTSCSCSSSS-----CCCCCS-SCCEECCCCCCCCCCC-CCCTT-CCCCCHHHHHCCCCCCEECCSCC
+T ss_pred             HHHHHHHHHHHHHhhccccccc-----eeEEec-CCcEEEEccccceeeE-EecCC-CCCCCcccccccceEEEEecceE
+Confidence            5789999999999999987643     122232 3889999998876532 22011 22344  6778889999999877
+
+
+Q MGYP0036305387   87 AVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ-G-------TLVVK------------------RTA  138 (425)
+Q Consensus        87 ~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-g-------s~vv~------------------~~~  138 (425)
+                      +..+.|+++++. . .++.+.+.++++++|++++|+.++..+... .       +..+.                  ...
+T Consensus       101 ~~~~~is~~~~~~~~~~~~~~~~~~~~~al~~~~d~~i~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~  180 (345)
+T 3J7V_E          101 TADVLIYDIEDAMNHYDVRSEYTSQLGESLAMAADGAVLAEIAGLCNVESKYNENIEGLGTATVIETTQNKAALTDQVAL  180 (345)
+T ss_dssp             CCCCEECCTTSSSCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTSSCC----------CCSCCCCCTTTTTSCCCTTTS
+T ss_pred             EEeeEeecHHHHhcccchHHHHhHHHHHHHHHHHHHHHHHHHHHHccccccccccccCCCCceEEeeccchhhccchhhc
+Confidence            788999998876 4 788999999999999999999999886422 1       11111                  011
+
+
+Q MGYP0036305387  139 AATGYDDVAQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSK-ASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANRL  217 (425)
+Q Consensus       139 ~~~~~d~~a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~-~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~~  217 (425)
+                      ...++++|.++++.|.+.++|.++++++++|..+..|+..+.. ..  ..  .....+.+|.+++++||+|+++++++..
+T Consensus       181 ~~~~~~~i~~~~~~l~~~~~~~~~~~~v~~p~~~~~L~~~~~~~~~--~~--~~~~~~~~g~~~~i~G~~v~~s~~l~~~  256 (345)
+T 3J7V_E          181 GKEIIAALTKARAALTKNYVPAADRVFYCDPDSYSAILAALMPNAA--NY--AALIDPEKGSIRNVMGFEVVEVPHLTAG  256 (345)
+T ss_dssp             SHHHHHHHHHHHHHHHHTCCCCSSCCCEECSSSHHHHHHHHSSSCC--CC--SSSCCSSSSCBCCTTSSCBEECSCC---
+T ss_pred             HHHHHHHHHHHHHHHHHcCCCccceEEEECHHHHHHHHHHhhhhcc--cc--ccccCCccCeEEEEcCEEEEEecccccC
+Confidence            2357889999999999999997779999999999999983221 11  11  1235578899999999999999999876
+
+
+Q MGYP0036305387  218 T  218 (425)
+Q Consensus       218 t  218 (425)
+                      .
+T Consensus       257 ~  257 (345)
+T 3J7V_E          257 G  257 (345)
+T ss_dssp             -
+T ss_pred             C
+Confidence            4
+
+
+No 7
+>3J7W_D Major capsid protein 10A; maturation, DNA packaging, Procapsid, Non-covalent; 3.5A {Enterobacteria phage T7}
+Probab=97.15  E-value=3.7e-06  Score=85.69  Aligned_cols=198  Identities=12%  Similarity=0.031  Sum_probs=146.0  Template_Neff=9.600
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALY--SDYVQLAVPSSISYSK   86 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~--~d~~e~svp~~l~~~k   86 (425)
+                      +++|..++++.+++.+++.+.+     +..++. .|++++||++...... +.... .....  ++.+...+.++++++.
+T Consensus        29 ~~~~~~~~~~~~~~~~~l~~~~-----~~~~~~-~g~~v~ip~~~~~~~~-~~~eg-~~~~~~~~~~t~~~~~l~~~~~~  100 (345)
+T 3J7W_D           29 LKVFGGEVLTAFARTSVTTSRH-----MVRSIS-SGKSAQFPVLGRTQAA-YLAPG-ENLDDKRKDIKHTEKVITIDGLL  100 (345)
+T ss_dssp             CEEECSCCBCCCCCCCCCSSSS-----CEEECC-SCSEEEEEEECCCCCC-BCCSS-CCGGGCCCCCCEEEEEEECCCEE
+T ss_pred             HHHHHHHHHHHHHhhccccccc-----eeEEec-CCcEEEEccccceeeE-EecCC-CCCCCcccccccceEEEEecceE
+Confidence            5789999999999999987643     122232 3889999998876532 22011 22344  6778889999999877
+
+
+Q MGYP0036305387   87 AVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ-G-------TLVVK------------------RTA  138 (425)
+Q Consensus        87 ~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-g-------s~vv~------------------~~~  138 (425)
+                      +..+.|+++++. . .++.+.+.++++++|++++|+.++..+... .       +..+.                  ...
+T Consensus       101 ~~~~~is~~~~~~~~~~~~~~~~~~~~~al~~~~d~~i~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~  180 (345)
+T 3J7W_D          101 TADVLIYDIEDAMNHYDVRSEYTSQLGESLAMAADGAVLAEIAGLCNVESKYNENIEGLGTATVIETTQNKAALTDQVAL  180 (345)
+T ss_dssp             EEEEEEEHHHHHHCSCCCHHHHHHHHHHHHHHHHHHHHHCCCCCCHHHSSSCCSSSSSCCCCCBCCSSSHHHHHCSSSHH
+T ss_pred             EEeeEeecHHHHhcccchHHHHhHHHHHHHHHHHHHHHHHHHHHHccccccccccccCCCCceEEeeccchhhccchhhc
+Confidence            788999998876 4 788999999999999999999999886422 1       11111                  011
+
+
+Q MGYP0036305387  139 AATGYDDVAQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSK-ASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANRL  217 (425)
+Q Consensus       139 ~~~~~d~~a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~-~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~~  217 (425)
+                      ...++++|.++++.|.+.++|.++++++++|..+..|+..+.. ..  ..  .....+.+|.+++++||+|+++++++..
+T Consensus       181 ~~~~~~~i~~~~~~l~~~~~~~~~~~~v~~p~~~~~L~~~~~~~~~--~~--~~~~~~~~g~~~~i~G~~v~~s~~l~~~  256 (345)
+T 3J7W_D          181 GKEIIAALTKARAALTKNYVPAADRVFYCDPDSYSAILAALMPNAA--NY--AALIDPEKGSIRNVMGFEVVEVPHLTAG  256 (345)
+T ss_dssp             HHHHHHHHHHHHHHHHTTCCCSSCCEEEECHHHHHHHHHHHSSSSS--SS--CCSBCSSSCCBCCSSSSCBCCCTTCSCC
+T ss_pred             HHHHHHHHHHHHHHHHHcCCCccceEEEECHHHHHHHHHHhhhhcc--cc--ccccCCccCeEEEEcCEEEEEecccccC
+Confidence            2357889999999999999997779999999999999983221 11  11  1235578899999999999999999876
+
+
+Q MGYP0036305387  218 T  218 (425)
+Q Consensus       218 t  218 (425)
+                      .
+T Consensus       257 ~  257 (345)
+T 3J7W_D          257 G  257 (345)
+T ss_dssp             C
+T ss_pred             C
+Confidence            4
+
+
+No 8
+>2XD8_B T7-LIKE CAPSID PROTEIN; MARINE PODOVIRUS, T7-LIKE VIRUS, VIRUS; 4.6A {PROCHLOROCOCCUS PHAGE P-SSP7}
+Probab=96.87  E-value=1.5e-05  Score=82.78  Aligned_cols=200  Identities=14%  Similarity=0.050  Sum_probs=152.2  Template_Neff=9.200
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISAL--YSDYVQLAVPSSISYSK   86 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~--~~d~~e~svp~~l~~~k   86 (425)
+                      +++|.+++++.+++.+++.+.+.+.     ++ ..|++++||+........+. .......  .+++....+.+++++++
+T Consensus        31 ~~~~~~~v~~~~~~~~~~~~~~~~~-----~~-~~G~~i~i~~~~~~~~~~~~-~g~~~~~~~~~~~~~~~~~v~i~~~~  103 (375)
+T 2XD8_B           31 LKLFSGEMFKGFQHETIARDLVTKR-----TL-KNGKSLQFIYTGRMTSSFHT-PGTPILGNADKAPPVAEKTIVMDDLL  103 (375)
+T ss_pred             HHHHHHHHHHHHHhhhceecceeee-----ec-CCCCEEEEEEeccccceeec-CCCccCCCCCCCCCCCccEEEeccee
+Confidence            5899999999999999998888543     23 24899999999876654443 3311122  36788889999999988
+
+
+Q MGYP0036305387   87 AVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ-GT--------LVVKR---------------TAAA  140 (425)
+Q Consensus        87 ~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-gs--------~vv~~---------------~~~~  140 (425)
+                      +..+.++++++. . .++++++.++++++|++++|++++..+... ..        .....               ....
+T Consensus       104 ~~~~~is~~d~~~~~~d~~~~~~~~~~~al~r~iD~~i~~~l~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~  183 (375)
+T 2XD8_B          104 ISSAFVYDLDETLAHYELRGEISKKIGYALAEKYDRLIFRSITRGARSASPVSATNFVEPGGTQIRVGSGTNESDAFTAS  183 (375)
+T ss_pred             eeeeeeccHHHHhcchhHHHHHHHHHHHHHHHHHHHHHHHHHHhhhccCCCCCCCCCCCCCCeeeeccCCCCccccCCHH
+Confidence            889999999887 5 788999999999999999999999987543 11        11100               1124
+
+
+Q MGYP0036305387  141 TGYDDVAQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSK--ASRSFGNEK-SDSAYERSRVGMVAGFDTLKLDYANRL  217 (425)
+Q Consensus       141 ~~~d~~a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~--~~~~~~~~~-~~~AY~~g~iG~vAGfdt~~~d~~~~~  217 (425)
+                      .++++|.++++.|+++++|.++|+++++|.++..|+.+...  +.  ..... ....+.+|.++ ++||+|+++++++..
+T Consensus       184 ~~~~~i~~a~~~L~~~~vp~~~~~~vv~p~~~~~L~~~~~~~~~~--~~~~~~~~~~~~~G~vg-~~G~~vi~s~~l~~~  260 (375)
+T 2XD8_B          184 ALVNAFYDAAAAMDEKGVSSQGRCAVLNPRQYYALIQDIGSNGLV--NRDVQGSALQSGNGVIE-IAGIHIYKSMNIPFL  260 (375)
+T ss_pred             HHHHHHHHHHHHHHHcCCCCCCeEEEECHHHHHHHHhhhcccccc--ccccccCCCcccCCeeE-EcCEEEEEeCCCCcc
+Confidence            68899999999999999997779999999999999987422  11  11111 23457789999 999999999999876
+
+
+Q MGYP0036305387  218 T  218 (425)
+Q Consensus       218 t  218 (425)
+                      +
+T Consensus       261 ~  261 (375)
+T 2XD8_B          261 G  261 (375)
+T ss_pred             c
+Confidence            4
+
+
+No 9
+>4BML_B MAJOR CAPSID PROTEIN; VIRUS, MARINE VIRUS, OUTER CAPSID; 4.7A {SYNECHOCOCCUS PHAGE SYN5}
+Probab=96.53  E-value=6.1e-05  Score=75.81  Aligned_cols=198  Identities=13%  Similarity=0.081  Sum_probs=147.1  Template_Neff=10.200
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISAL-YSDYVQLAVPSSISYSKA   87 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~-~~d~~e~svp~~l~~~k~   87 (425)
+                      +++|.+++++.+++.+++.+++ +.  .+.   ..|++++||+........+. .. .... .+..+...++++++++++
+T Consensus        30 p~~~~~~~~~~~~~~~~l~~~~-~~--~~~---~~g~~v~i~~~~~~~~~~~~-eg-~~~~~~~~~~~~~~~~~~~~~~~  101 (332)
+T 4BML_B           30 LKLFSGEVFTAFNNASIFKGLV-RS--YDL---RGGKSKQFMFTGKLSAGYHT-PG-TPIVGDAGIKANEKTLVMDDLLV  101 (332)
+T ss_pred             HHHHhHHHHHHHHHhhhhhhce-eE--EEc---CCCceeEEeecccceeeeec-CC-CCCccccCCccceEEEEecceee
+Confidence            6899999999999999999988 44  332   36899999988775443333 22 1122 367778899999998777
+
+
+Q MGYP0036305387   88 VPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ-GTLVV---------------KRTAAATGYDDVAQC  149 (425)
+Q Consensus        88 v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~-gs~vv---------------~~~~~~~~~d~~a~a  149 (425)
+                      ..+.|+++++. . .++.+.+.+.++++|++++|..++..+... ....+               ...+...++++|.++
+T Consensus       102 ~~~~is~~~~~~~~~~~~~~~~~~~~~a~a~~~d~~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~  181 (332)
+T 4BML_B          102 SSQFVYSLDEIFSQYSTRAEVSKQIGEALATHYDERIARVLAKASAEASPVTGEPGGFHVNIGAGNTNDAQAIVDGFFEA  181 (332)
+T ss_pred             eeeecccHHHHhcChhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcCCCCCCCCceeeeccCCCCCCHHHHHHHHHHH
+Confidence            88999999887 4 788999999999999999999999887533 11100               001223578899999
+
+
+Q MGYP0036305387  150 DAIMNEQGVPDYDRHLALSSRDYNGMANDL-SKASRSFGNEK---SDSAYERSRVGMVAGFDTLKLDYANRL  217 (425)
+Q Consensus       150 ~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L-~~~~~~~~~~~---~~~AY~~g~iG~vAGfdt~~~d~~~~~  217 (425)
+                      ...|.+.++|.++++++++|..+..|+... ....  .....   ....++.|.++ ++||+|++++++|..
+T Consensus       182 ~~~l~~~~~~~~~~~~i~~p~~~~~L~~~~d~~~~--~~~~~~~~~~~~~~~g~~~-~~G~~v~~s~~~~~~  250 (332)
+T 4BML_B          182 AAVLDERSAPQEGRVAVLSPRQYYSLISSVDTNIL--NREIGNSQGDMNSGKGLYS-IAGIRILKSNNLAGL  250 (332)
+T ss_pred             HHHHHHcCCCccCcEEEECHHHHHHHHhhhcchhh--ccccccCCCccccCCeeEE-EeCeEEEEeCCCCcc
+Confidence            999999999877799999999999998864 2211  11111   13446778888 999999999999864
+
+
+No 10
+>6R3A_A Major capsid protein; Bacteriophage, Capsid protein, image processing; 4.0A {Bacillus phage SPP1}
+Probab=92.38  E-value=0.042  Score=56.20  Aligned_cols=204  Identities=5%  Similarity=-0.079  Sum_probs=147.2  Template_Neff=9.400
+
+Q MGYP0036305387    3 NSFSKEERVAFENILEGFQDALVLS--KNVGIYTTDQVMME-R-TNDTIWRPMPYIGTSI-NAAPGTDISALYSDYVQLA   77 (425)
+Q Consensus         3 n~~~k~~~v~fe~~le~fe~~lv~s--~~v~~~~~~~~~mq-r-~~~tiwrP~~~~a~~~-~~~~G~D~t~~~~d~~e~s   77 (425)
+                      .+++. |++|.+.+.+.+++..+|.  ..++++..+++.+. . .|++|+||.+...... ... .......++.++...
+T Consensus         6 ~~~~~-P~~~~~~v~~~~~~~~~~~~sgi~~~~~~~~~~~~~~~~G~tv~ip~~~~l~~~~~~~-~~~~~~~~~~~~~~~   83 (323)
+T 6R3A_A            6 SDVIV-PELFNPYVINTTTQLSAFFQSGIAATDDELNALAKKAGGGSTLNMPYWNDLDGDSQVL-NDTDDLVPQKINAGQ   83 (323)
+T ss_dssp             GGSCC-CCCCCCCCBCCCCCCCCCCSSSSCCCCSHHHHHHSSSSCCSCCBCCEECCCCCCCCCC-CSSCCCCCCCCCCBC
+T ss_pred             hHccc-HHHhHHHHhcchHHchHHHhcCcccCCHHHHHHHHHhCCCceEEeccccCCCCCcccC-CCCCCCCccccccce
+Confidence            34565 8999999999999988887  44444322444342 2 6999999999976533 222 211224567788888
+
+
+Q MGYP0036305387   78 VPSSISYSKAVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQGTL------V-VKR--TAAATGYDDV  146 (425)
+Q Consensus        78 vp~~l~~~k~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~gs~------v-v~~--~~~~~~~d~~  146 (425)
+                      +.+++.++ ...|.++|++.. . .++.+++.+++++.+++++|+.++..+......      . ...  .....+++.|
+T Consensus        84 ~~~~~~~~-~~~~~vtd~~~~~~~~d~~~~~~~~~a~~~~~~~d~~~~a~l~~~~~~~~a~~~~~~~~~~~~~~~~~~~i  162 (323)
+T 6R3A_A           84 DKAVLILR-GNAWSSHDLAATLSGSDPMQAIGSRVAAYWAREMQKIVFAELAGVFSNDDMKDNKLDISGTADGIYSAETF  162 (323)
+T ss_dssp             CBCCCEEE-CCEEEECSHHHHHHTSCHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTCGGGGGGEEECCSSCCCCCTTHH
+T ss_pred             eEEEEEEe-cceEEecHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHhccchhccccccccCCcCCCCCHHHH
+Confidence            88988876 477999999877 5 788899999999999999999999987543111      1 111  0124688999
+
+
+Q MGYP0036305387  147 AQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANRLT  218 (425)
+Q Consensus       147 a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~~t  218 (425)
+                      .+|...|.+++ + ..++++++|..+..|.+.....+  ...   ..  .+|.+++++|++|++++++|...
+T Consensus       163 ~~A~~~l~~~~-~-~~~~~v~h~~~~~~L~~~~~~~~--~~~---~~--~~~~ig~~~G~~vi~sd~~~~~~  225 (323)
+T 6R3A_A          163 VDASYKLGDHE-S-LLTAIGMHSATMASAVKQDLIEF--VKD---SQ--SGIRFPTYMNKRVIVDDSMPVET  225 (323)
+T ss_dssp             HHHHHTSSSCC-S-CCCEECCBHHHHHHHHHHHCCSS--SCS---SS--CCSCCCCSSSSEECCBSCCCEEE
+T ss_pred             HHHHHHhCCch-h-ceEEEEECHHHHHHHHhccchhc--eec---cc--CCccceeeCCEEEEEeCCCCccc
+Confidence            99999999887 2 46899999999999998531111  111   11  36889999999999999998754
+
+
+No 11
+>6RTL_E Major capsid protein; Bacteriophage, maturation process, cryo electron; 4.2A {Bacillus phage SPP1}
+Probab=92.38  E-value=0.042  Score=56.20  Aligned_cols=204  Identities=5%  Similarity=-0.079  Sum_probs=147.2  Template_Neff=9.400
+
+Q MGYP0036305387    3 NSFSKEERVAFENILEGFQDALVLS--KNVGIYTTDQVMME-R-TNDTIWRPMPYIGTSI-NAAPGTDISALYSDYVQLA   77 (425)
+Q Consensus         3 n~~~k~~~v~fe~~le~fe~~lv~s--~~v~~~~~~~~~mq-r-~~~tiwrP~~~~a~~~-~~~~G~D~t~~~~d~~e~s   77 (425)
+                      .+++. |++|.+.+.+.+++..+|.  ..++++..+++.+. . .|++|+||.+...... ... .......++.++...
+T Consensus         6 ~~~~~-P~~~~~~v~~~~~~~~~~~~sgi~~~~~~~~~~~~~~~~G~tv~ip~~~~l~~~~~~~-~~~~~~~~~~~~~~~   83 (323)
+T 6RTL_E            6 SDVIV-PELFNPYVINTTTQLSAFFQSGIAATDDELNALAKKAGGGSTLNMPYWNDLDGDSQVL-NDTDDLVPQKINAGQ   83 (323)
+T ss_dssp             GGSCC-CCCCCCCCBCCCCCCCCCCSSSSCSCCSHHHHHSSSSSCCSCCCCCEEECCCCCCEEC-CTTCCCCCCCCCCBC
+T ss_pred             hHccc-HHHhHHHHhcchHHchHHHhcCcccCCHHHHHHHHHhCCCceEEeccccCCCCCcccC-CCCCCCCccccccce
+Confidence            34565 8999999999999988887  44444322444342 2 6999999999976533 222 211224567788888
+
+
+Q MGYP0036305387   78 VPSSISYSKAVPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQGTL------V-VKR--TAAATGYDDV  146 (425)
+Q Consensus        78 vp~~l~~~k~v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~gs~------v-v~~--~~~~~~~d~~  146 (425)
+                      +.+++.++ ...|.++|++.. . .++.+++.+++++.+++++|+.++..+......      . ...  .....+++.|
+T Consensus        84 ~~~~~~~~-~~~~~vtd~~~~~~~~d~~~~~~~~~a~~~~~~~d~~~~a~l~~~~~~~~a~~~~~~~~~~~~~~~~~~~i  162 (323)
+T 6RTL_E           84 DKAVLILR-GNAWSSHDLAATLSGSDPMQAIGSRVAAYWAREMQKIVFAELAGVFSNDDMKDNKLDISGTADGIYSAETF  162 (323)
+T ss_dssp             CCCCCEEE-ECEEEECSHHHHHHTSCHHHHHHHHGGGHHHHHHHHHHHHHHHHHHTTCGGGGGGEEECCSSSCCSCTTHH
+T ss_pred             eEEEEEEe-cceEEecHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHhccchhccccccccCCcCCCCCHHHH
+Confidence            88988876 477999999877 5 788899999999999999999999987543111      1 111  0124688999
+
+
+Q MGYP0036305387  147 AQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANRLT  218 (425)
+Q Consensus       147 a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~~t  218 (425)
+                      .+|...|.+++ + ..++++++|..+..|.+.....+  ...   ..  .+|.+++++|++|++++++|...
+T Consensus       163 ~~A~~~l~~~~-~-~~~~~v~h~~~~~~L~~~~~~~~--~~~---~~--~~~~ig~~~G~~vi~sd~~~~~~  225 (323)
+T 6RTL_E          163 VDASYKLGDHE-S-LLTAIGMHSATMASAVKQDLIEF--VKD---SQ--SGIRFPTYMNKRVIVDDSMPVET  225 (323)
+T ss_dssp             HHHHHTSSSCC-S-CCCEEECCHHHHHHHHHHSCCCC--BCC---ST--TCCCBCCSSSCEEECCSCCCEEE
+T ss_pred             HHHHHHhCCch-h-ceEEEEECHHHHHHHHhccchhc--eec---cc--CCccceeeCCEEEEEeCCCCccc
+Confidence            99999999887 2 46899999999999998531111  111   11  36889999999999999998754
+
+
+No 12
+>2XD8_B T7-LIKE CAPSID PROTEIN; MARINE PODOVIRUS, T7-LIKE VIRUS, VIRUS; 4.6A {PROCHLOROCOCCUS PHAGE P-SSP7}
+Probab=51.56  E-value=12  Score=39.69  Aligned_cols=60  Identities=8%  Similarity=0.067  Sum_probs=43.1  Template_Neff=9.200
+
+Q MGYP0036305387  347 TSVNPFWQRDSLELLPGRYSVPADAGAAVLRGTTDNGIELVM-QKFYDINTMTTKYRCDTLFGVVNKQPEMSGIMLFSQ  424 (425)
+Q Consensus       347 ~~~N~f~~kdAi~lv~~~l~~p~~~G~~~~~~~t~~Gisi~~-~~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l~~Q  424 (425)
+                      ...+++|||+|+.++...                  ++.++. ..++|...+....++.+.||+..++|+++++|....
+T Consensus       309 ~~~~~~~~~~a~~~~~~~------------------~~~~~~~~~~~~~~~~~~~i~~~~~~g~~~~~~~~~v~i~~~~  369 (375)
+T 2XD8_B          309 KSCGLIFQKEAAGVVEAI------------------GPQVQVTNGDVSVIYQGDVILGRMAMGADYLNPAAAVELYIGA  369 (375)
+T ss_pred             cEEEEEeehhheEEEEEe------------------CCeeeeeCCCceeEeehHHHHHHHhcCCCCCChhhEEEEEecc
+Confidence            345799999988765421                  112221 245666677888999999999999999999987543
+
+
+No 13
+>3J1A_B capsid protein; halophage, bacteriophage HK97, bacteriophage T7; 16.0A {Great Salt Lake bacteriophage CW02}
+Probab=35.83  E-value=31  Score=32.09  Aligned_cols=121  Identities=11%  Similarity=0.066  Sum_probs=75.6  Template_Neff=10.700
+
+Q MGYP0036305387   89 PFTLNALELR-DALQEDRLGAAAKNKLASDINVAIMDVAAAQGT---L---VVKR-----TAAATGYDDVAQCDAIMNEQ  156 (425)
+Q Consensus        89 ~~~~~a~eLr-d~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~gs---~---vv~~-----~~~~~~~d~~a~a~a~m~e~  156 (425)
+                      .+.|+.+.+. +.++...+...+++++++++|..++........   .   .+..     .+....+++|.++...+.+.
+T Consensus         8 ~~~is~e~l~d~~~~~~~i~~~~~~~~~~~~d~~~~~g~~~~~~~~G~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~   87 (199)
+T 3J1A_B            8 WVQASRQVMDDAPMLQSYINNRLMYGLALKEEGQLLNGDGTGDNLEGLNKVATAYDTSLNATGDTRADIIAHAIYQVTES   87 (199)
+T ss_pred             EeeccHHHHhCHHHHHHHHHHHHHHhHHHHHhhchhcCCCCCCCcccceeccccccccccCCCCCHHHHHHHHHHHHHcc
+Confidence            3445554444 367778899999999999999998876421100   0   0000     01234677777888777665
+
+
+Q MGYP0036305387  157 GVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANR  216 (425)
+Q Consensus       157 ~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~  216 (425)
+                      +..  +..++++|..+..|...... .   ....... ...|..++++|.+++.++.++.
+T Consensus        88 ~~~--~~~~~~~~~~~~~l~~~~~~-~---g~~~~~~-~~~~~~~~l~G~~v~~~~~~~~  140 (199)
+T 3J1A_B           88 EFS--ASGIVLNPRDWHNIALLKDN-E---GRYIFGG-PQAFTSNIMWGLPVVPTKAQAA  140 (199)
+T ss_pred             CCC--CCEEEEcHHHHHHHHcccCC-C---CCcccCC-ccCCCCceecCeeeEecCccCC
+Confidence            542  35799999999998664211 1   0001111 2356778899999999988763
+
+
+No 14
+>3J1A_G capsid protein; halophage, bacteriophage HK97, bacteriophage T7; 16.0A {Great Salt Lake bacteriophage CW02}
+Probab=34.62  E-value=33  Score=31.88  Aligned_cols=121  Identities=11%  Similarity=0.062  Sum_probs=75.4  Template_Neff=10.700
+
+Q MGYP0036305387   88 VPFTLNALELR-DALQEDRLGAAAKNKLASDINVAIMDVAAAQGT---L---VVK-----RTAAATGYDDVAQCDAIMNE  155 (425)
+Q Consensus        88 v~~~~~a~eLr-d~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~gs---~---vv~-----~~~~~~~~d~~a~a~a~m~e  155 (425)
+                      ..+.|+.+.+. ..++.+.+.+.+++++++++|..++........   .   .+.     .......+++|.++...+..
+T Consensus         7 ~~~~is~e~l~d~~~~~~~i~~~~~~~~~~~~d~~~~~g~~~~~~~~Gi~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~   86 (199)
+T 3J1A_G            7 HWVQASRQVMDDAPMLQSYINNRLMYGLALKEEGQLLNGDGTGDNLEGLNKVATAYDTSLNATGDTRADIIAHAIYQVTE   86 (199)
+T ss_pred             EeecchHHHHhcCccHHHHHHHHHHHHHHHHhHhhHhcCCCCCCCCCceeeccccchhcchhcccccHHHHHHHHHhccc
+Confidence            33455555444 257778889999999999999998876422100   0   000     00123467778787777765
+
+
+Q MGYP0036305387  156 QGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYAN  215 (425)
+Q Consensus       156 ~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~  215 (425)
+                      .+.  .+..++++|..+..|...... .   ....... ...|..++++|.+++.++.++
+T Consensus        87 ~~~--~~~~~v~~~~~~~~l~~~~~~-~---g~~~~~~-~~~g~~~~l~G~~v~~s~~~~  139 (199)
+T 3J1A_G           87 SEF--SASGIVLNPRDWHNIALLKDN-E---GRYIFGG-PQAFTSNIMWGLPVVPTKAQA  139 (199)
+T ss_pred             cCC--CCcEEEECHHHHHHHHhhhcC-C---CCccccC-CCCCCCCcccCeeEEEcCCCC
+Confidence            554  235789999999998664211 1   0001111 235666789999999998875
+
+
+No 15
+>3J7V_E Major capsid protein 10A; maturation, DNA packaging, Procapsid, Non-covalent; 4.5A {Enterobacteria phage T7}
+Probab=30.90  E-value=42  Score=35.03  Aligned_cols=56  Identities=18%  Similarity=0.250  Sum_probs=40.5  Template_Neff=9.600
+
+Q MGYP0036305387  347 TSVNPFWQRDSLELLPGRYSVPADAGAAVLRGTTDNGIELVMQKFYDINTMTTKYRCDTLFGVVNKQPEMSGIMLF  422 (425)
+Q Consensus       347 ~~~N~f~~kdAi~lv~~~l~~p~~~G~~~~~~~t~~Gisi~~~~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l~  422 (425)
+                      ....++||++++.++.+.-.                  .+  ..+++...+...+|....||+++++|+..+++..
+T Consensus       287 ~~~~~~~~~~a~~~~~~~~~------------------~~--~~~~~~~~~~~~i~~~~~~g~~~~~~~~~~~~~~  342 (345)
+T 3J7V_E          287 NVIGLFMHRSAVGTVKLRDL------------------AL--ERARRANFQADQIIAKYAMGHGGLRPEAAGAVVF  342 (345)
+T ss_dssp             TCEEEECCTTSEECCCSSSC------------------CC--EEEEETTTEEEEEECCCCCCCCEECSSSCEEECC
+T ss_pred             eeEEEEEehhheeeEEEeec------------------cc--eeecchhhheeeEEeeehhccCCCCcceEEEEEE
+Confidence            34678999998877764211                  11  1234566788999999999999999998887653
+
+
+No 16
+>3J7W_D Major capsid protein 10A; maturation, DNA packaging, Procapsid, Non-covalent; 3.5A {Enterobacteria phage T7}
+Probab=30.90  E-value=42  Score=35.03  Aligned_cols=56  Identities=18%  Similarity=0.250  Sum_probs=40.5  Template_Neff=9.600
+
+Q MGYP0036305387  347 TSVNPFWQRDSLELLPGRYSVPADAGAAVLRGTTDNGIELVMQKFYDINTMTTKYRCDTLFGVVNKQPEMSGIMLF  422 (425)
+Q Consensus       347 ~~~N~f~~kdAi~lv~~~l~~p~~~G~~~~~~~t~~Gisi~~~~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l~  422 (425)
+                      ....++||++++.++.+.-.                  .+  ..+++...+...+|....||+++++|+..+++..
+T Consensus       287 ~~~~~~~~~~a~~~~~~~~~------------------~~--~~~~~~~~~~~~i~~~~~~g~~~~~~~~~~~~~~  342 (345)
+T 3J7W_D          287 NVIGLFMHRSAVGTVKLRDL------------------AL--ERARRANFQADQIIAKYAMGHGGLRPEAAGAVVF  342 (345)
+T ss_dssp             CCSEEEECSSSSEEEEEEEE------------------EE--EEEEETTTTEEEEEEEEEEEEECCCCSSCEEECC
+T ss_pred             eeEEEEEehhheeeEEEeec------------------cc--eeecchhhheeeEEeeehhccCCCCcceEEEEEE
+Confidence            34678999998877764211                  11  1234566788999999999999999998887653
+
+
+No 17
+>3JB5_D major capsid protein; acne, bacteriophage, HK97-like, VIRUS; 3.7A {Propionibacterium phage PA6}
+Probab=30.05  E-value=44  Score=34.11  Aligned_cols=198  Identities=8%  Similarity=-0.049  Sum_probs=114.1  Template_Neff=10.000
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALYSDYVQLAVPSSISYSKAV   88 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~~d~~e~svp~~l~~~k~v   88 (425)
+                      |+.+..++++.+++..++.+.+...  .     ..+.++++|+............. .........-..+++++.+. ..
+T Consensus        14 p~~~~~~i~~~~~~~~~l~~~~~~~--~-----~~~~~~~~~~~~~~~~~~~~~Eg-~~~~~~~~~~~~~~~~~~k~-~~   84 (315)
+T 3JB5_D           14 PGSMIGAVRDRAIDSGVLAKLSPEQ--P-----TIFGPVKGAVFSGVPRAKIVGEG-EVKPSASVDVSAFTAQPIKV-VT   84 (315)
+T ss_dssp             CCEECCCCCCCSCCCCSSSSSSCCC--C-----CCSSCEEEEEECCCCCCEEECSS-SCCCCCCCCEEEEEECCEEE-EE
+T ss_pred             CcchHHHHHHHHHhccHHHHhCCcc--C-----CCCCCeeeeEEcCCcceEEecCC-ccccccceeeeeeEeCcEEE-EE
+Confidence            5677899999999999988887543  1     13456777766543211111011 11112223334444444433 34
+
+
+Q MGYP0036305387   89 PFTLNALELR-D-ALQEDRLG----AAAKNKLASDINVAIMDVAAAQ-G----TLVV----K---RTAAATGYDDVAQCD  150 (425)
+Q Consensus        89 ~~~~~a~eLr-d-~~~~~R~~----~~A~~~LA~~Id~~i~~~~~~~-g----s~vv----~---~~~~~~~~d~~a~a~  150 (425)
+                      .+.|+.+.+. . .++...+.    +.+++++++++|+.++...... .    ....    .   ......++++|.++.
+T Consensus        85 ~~~is~e~~~d~~~~~~~~i~~~~~~~l~~~~~~~~d~~~~~g~~~~~~~~~~g~~~~~~~~~~~v~~~~~~~~~l~~~~  164 (315)
+T 3JB5_D           85 QQRVSDEFMWADADYRLGVLQDLISPALGASIGRAVDLIAFHGIDPATGKAASAVHTSLNKTKNIVDATDSATADLVKAV  164 (315)
+T ss_dssp             EEEEEHHHHHHHHTTTCCHCCCCCHHHHHHHHHHHHHHHHHHCBCSSSSSBCSSCCCCTTSCSCBCCCCSCSHHHHHHHH
+T ss_pred             EEEcCHHHHHhCHhhHHHHHHHhcchHHHHHHHHHHHeeeeeccCCCCCCcchhHhhhhccCCCeeecCcchHHHHHHHH
+Confidence            5567776554 3 45556677    9999999999999988764321 0    0100    0   001135788888888
+
+
+Q MGYP0036305387  151 AIMNEQ-GVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANRL  217 (425)
+Q Consensus       151 a~m~e~-~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~~  217 (425)
+                      ..+... +.. . ..++++|..+..|...................+..|..++++|++|+.++.++..
+T Consensus       165 ~~i~~~~~~~-~-~~~v~~~~~~~~l~~~~d~~g~~l~~~~~~~~~~~g~~~~l~G~pv~~s~~~~~~  230 (315)
+T 3JB5_D          165 GLIAGAGLQV-P-NGVALDPAFSFALSTEVYPKGSPLAGQPMYPAAGFAGLDNWRGLNVGASSTVSGA  230 (315)
+T ss_dssp             HHHHTTSCSC-C-CCEEECHHHHTTSCCCBCCSSSSSTTCBSSCCSSSTTCCEETTEEEEECTTTTTT
+T ss_pred             HHHHccCCCC-C-CEEEECHHHHHHHhhccCCCCCCCCCCCCCCcccCCCCcceeceEEEeccccCCC
+Confidence            888765 322 2 3689999999988765211000000000001233466778999999999998763
+
+
+No 18
+>6OMA_F Major capsid protein; capsid, HK97-fold, dsDNA-phage, icosahedral, VIRUS; 7.2A {Escherichia phage T5}
+Probab=29.25  E-value=47  Score=33.45  Aligned_cols=199  Identities=13%  Similarity=0.065  Sum_probs=115.5  Template_Neff=10.300
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDIS---ALYSDYVQLAVPSSISYS   85 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t---~~~~d~~e~svp~~l~~~   85 (425)
+                      ++.|..++++.+++..++.+.+...   .  .  .|+++.+|+................   ........+...++++.+
+T Consensus        16 p~~~~~~i~~~~~~~~~l~~~~~~~---~--~--~~~~~~~~~~~~~~~~~~~~E~~~~~~~~~~~~~~~~~~~~~~~~~   88 (299)
+T 6OMA_F           16 ETIFSQRIIRDLQKELVVGALFEEL---P--M--SSKILTMLVEPDAGKATWVAASTYGTDTTTGEEVKGALKEIHFSTY   88 (299)
+T ss_dssp             CCEEECCCCCSSCCCCCSSSSSCCC---B--C--SSSCCCCCBCCCCCCCCCCCSCCCSSCCCSCCCCCCCCBCCCCCCE
+T ss_pred             cHHHHHHHHHHHHhhhhHHhhhEEe---c--c--CCCeEEEEEccCCCceEEEEeeccCCCCCCccccccceeEEEEecc
+Confidence            5678899999999999988877443   1  1  3568777776542211111011000   002222233344555544
+
+
+Q MGYP0036305387   86 KA-VPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ---GTL--VV-------KR----TAAATGYDDV  146 (425)
+Q Consensus        86 k~-v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~---gs~--vv-------~~----~~~~~~~d~~  146 (425)
+                      ++ .-+.++.+.+. . .++.+.+.+.+++++++++|..++......   +..  ..       ..    ......+++|
+T Consensus        89 k~~~~~~is~e~~~d~~~~~~~~~~~~~~~~~~~~~d~~~~~g~~~~~~~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~i  168 (299)
+T 6OMA_F           89 KLAAKSFITDETEEDAIFSLLPLLRKRLIEAHAVSIEEAFMTGDGSGKPKGLLTLASEDSAKVVTEAKADGSVLVTAKTI  168 (299)
+T ss_dssp             EEEEEEEEETHHHHSSCSCHHHHHHHHHHHHHHHHHHHHTTSCCSSSSCCCGGGSSSSSCCCCCCSSCTTSSCCCCTHHH
+T ss_pred             eEEEEeeeChhHHhccccchHHHHHHHHHHHHHHHHHhhcccCCCCCCcccchhccCccccccccccccCCcceecHHHH
+Confidence            44 44467776555 4 788899999999999999999998764221   000  00       00    0112456788
+
+
+Q MGYP0036305387  147 AQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANR  216 (425)
+Q Consensus       147 a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~  216 (425)
+                      .++...+.....+....++++++..+..++++.....  .........+..|..++++|++++.++.++.
+T Consensus       169 ~~~~~~~~~~~~~~~~~v~~~~~~~~~~~l~~~~~~~--~~~~~~~~~~~~g~~~~l~G~pv~~~~~~~~  236 (299)
+T 6OMA_F          169 SKLRRKLGRHGLKLSKLVLIVSMDAYYDLLEDEEWQD--VAQVGNDSVKLQGQVGRIYGLPVVVSEYFPA  236 (299)
+T ss_dssp             HHHHHHHCTTCCSSSCCEEEEEHHHHHHTTSCCSTTC--SSSSSSSSCCSSSSCSCBTTBCEEEECCCCC
+T ss_pred             HHHHHHHhcCCCccccEEEEechHHHHHHhcCcchhc--hhhhCCccccccCccchhcCeEEEEecccCC
+Confidence            8888787765554445667777775544444421110  0000112334467788999999999988875
+
+
+No 19
+>6OMC_B Major capsid protein; capsid, HK97-fold, dsDNA-phage, icosahedral, VIRUS; 3.8A {Escherichia phage T5}
+Probab=29.25  E-value=47  Score=33.45  Aligned_cols=199  Identities=13%  Similarity=0.065  Sum_probs=115.5  Template_Neff=10.300
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDIS---ALYSDYVQLAVPSSISYS   85 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t---~~~~d~~e~svp~~l~~~   85 (425)
+                      ++.|..++++.+++..++.+.+...   .  .  .|+++.+|+................   ........+...++++.+
+T Consensus        16 p~~~~~~i~~~~~~~~~l~~~~~~~---~--~--~~~~~~~~~~~~~~~~~~~~E~~~~~~~~~~~~~~~~~~~~~~~~~   88 (299)
+T 6OMC_B           16 ETIFSQRIIRDLQKELVVGALFEEL---P--M--SSKILTMLVEPDAGKATWVAASTYGTDTTTGEEVKGALKEIHFSTY   88 (299)
+T ss_dssp             CCCCCCCEECSCCCCCCGGGTSCEE---E--C--SSSEEEEEECCCCCCCEECCSSCCSSCCCCCCCCTTCCEEEEEECC
+T ss_pred             cHHHHHHHHHHHHhhhhHHhhhEEe---c--c--CCCeEEEEEccCCCceEEEEeeccCCCCCCccccccceeEEEEecc
+Confidence            5678899999999999988877443   1  1  3568777776542211111011000   002222233344555544
+
+
+Q MGYP0036305387   86 KA-VPFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ---GTL--VV-------KR----TAAATGYDDV  146 (425)
+Q Consensus        86 k~-v~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~---gs~--vv-------~~----~~~~~~~d~~  146 (425)
+                      ++ .-+.++.+.+. . .++.+.+.+.+++++++++|..++......   +..  ..       ..    ......+++|
+T Consensus        89 k~~~~~~is~e~~~d~~~~~~~~~~~~~~~~~~~~~d~~~~~g~~~~~~~Gi~~~~~~~~~~~~~~~~~~~~~~~~~~~i  168 (299)
+T 6OMC_B           89 KLAAKSFITDETEEDAIFSLLPLLRKRLIEAHAVSIEEAFMTGDGSGKPKGLLTLASEDSAKVVTEAKADGSVLVTAKTI  168 (299)
+T ss_dssp             CEEEEEEECTTTTTTTTSCHHHHHHHHHHHHHHHHHHHHHHSBCCSSSCBCHHHHTTTSCCCCCCSCSSSTTSCCCTTHH
+T ss_pred             eEEEEeeeChhHHhccccchHHHHHHHHHHHHHHHHHhhcccCCCCCCcccchhccCccccccccccccCCcceecHHHH
+Confidence            44 44467776555 4 788899999999999999999998764221   000  00       00    0112456788
+
+
+Q MGYP0036305387  147 AQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANR  216 (425)
+Q Consensus       147 a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~  216 (425)
+                      .++...+.....+....++++++..+..++++.....  .........+..|..++++|++++.++.++.
+T Consensus       169 ~~~~~~~~~~~~~~~~~v~~~~~~~~~~~l~~~~~~~--~~~~~~~~~~~~g~~~~l~G~pv~~~~~~~~  236 (299)
+T 6OMC_B          169 SKLRRKLGRHGLKLSKLVLIVSMDAYYDLLEDEEWQD--VAQVGNDSVKLQGQVGRIYGLPVVVSEYFPA  236 (299)
+T ss_dssp             HHHTTTSSSSTTTCCCCEEEEETTGGGTTTSCCSSSC--SSSSSCSCCTTTTSCCCGGGCCEEEECCSSC
+T ss_pred             HHHHHHHhcCCCccccEEEEechHHHHHHhcCcchhc--hhhhCCccccccCccchhcCeEEEEecccCC
+Confidence            8888787765554445667777775544444421110  0000112334467788999999999988875
+
+
+No 20
+>1IF0_G MAJOR CAPSID PROTEIN GP5; Bacteriophage, Virus, Capsid, cryoEM, Pseudo-atomic; 12.0A {Enterobacteria phage HK97} SCOP: i.14.1.1
+Probab=25.76  E-value=59  Score=31.52  Aligned_cols=135  Identities=10%  Similarity=0.023  Sum_probs=86.0  Template_Neff=10.800
+
+Q MGYP0036305387   74 VQLAVPSSISYSKAVPFTLNALELR-DALQEDRLGAAAKNKLASDINVAIMDVAAAQGT---L---VVK-----RTAAAT  141 (425)
+Q Consensus        74 ~e~svp~~l~~~k~v~~~~~a~eLr-d~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~gs---~---vv~-----~~~~~~  141 (425)
+                      ....+.+++.+. ...+.|+.+.+. ..++.+.+...+++++++++|..++........   .   ...     ..+...
+T Consensus        48 ~~~~~~~~~~~~-~~~~~is~e~~~~~~~~~~~i~~~~~~~~~~~~d~~~~~g~~~~~~~~G~~~~~~~~~~~~~~~~~~  126 (256)
+T 1IF0_G           48 TFSKQTANVKTI-AHWVQASRQVMDDAPMLQSYINNRLMYGLALKEEGQLLNGDGTGDNLEGLNKVATAYDTSLNATGDT  126 (256)
+T ss_pred             ceEEEeeccEEE-EEeeecCHHHHhCHHHHHHHHHHHHHHhHHHHHhhhhhcCCCCCCCcccceecccccccccCCCCCC
+Confidence            334444554443 356677776655 367788999999999999999999986432100   0   000     001235
+
+
+Q MGYP0036305387  142 GYDDVAQCDAIMNEQGVPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYANR  216 (425)
+Q Consensus       142 ~~d~~a~a~a~m~e~~vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~~  216 (425)
+                      .++++..+...+.+.+.  ....++++|..+..|........  .  ..... ...+..+.+.|++++.++.++.
+T Consensus       127 ~~~~l~~~~~~~~~~~~--~~~~~~~~~~~~~~l~~~~~~~g--~--~~~~~-~~~~~~~~i~G~~v~~s~~~~~  194 (256)
+T 1IF0_G          127 RADIIAHAIYQVTESEF--SASGIVLNPRDWHNIALLKDNEG--R--YIFGG-PQAFTSNIMWGLPVVPTKAQAA  194 (256)
+T ss_pred             HHHHHHHHHHHHHhcCC--CCCEEEEcHHHHHHHHcccCCCC--C--cccCC-CCCCCCceecCeeEEEcCccCC
+Confidence            77788888877766654  24589999999999876521100  0  01111 2456677899999999988863
+
+
+No 21
+>6B0X_F Major head protein, Scaffold protein; major capsid protein, HK97-like fold; 3.72A {Staphylococcus phage 80alpha}
+Probab=21.23  E-value=83  Score=32.53  Aligned_cols=188  Identities=7%  Similarity=-0.024  Sum_probs=113.3  Template_Neff=9.700
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALYSDYVQLAVPSSISYSKAV   88 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~~d~~e~svp~~l~~~k~v   88 (425)
+                      |+.+.+++++.+++...+.+.+...   .    ..|.++++|+............. ............+.+++.+. ..
+T Consensus        40 p~~~~~~i~~~~~~~~~l~~~~~~~---~----~~~~~~~ip~~~~~~~~~~v~Eg-~~~~~~~~~~~~v~~~~~k~-~~  110 (324)
+T 6B0X_F           40 MNEFTTPILQEVMENSKIMQLGKYE---P----MEGTEKKFTFWADKPGAYWVGEG-QKIETSKATWVNATMRAFKL-GV  110 (324)
+T ss_dssp             CHHHHHHHHHHHHHHCHHHHHSBCC---C----CSSSEEEECSCCCCCTTSCCSCC-CCEECEEEECCEEEEEECHH-HH
+T ss_pred             ChhhhHHHHHHHHhcCchhhcccEE---e----cCCCeEEEEeecCCCceEEecCC-ccceeccceeeeeEEeeEEE-EE
+Confidence            5667889999999999998888543   1    13567777776542211111011 11112233334444444433 35
+
+
+Q MGYP0036305387   89 PFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ--G--TLVV----K-RTAAATGYDDVAQCDAIMNEQG  157 (425)
+Q Consensus        89 ~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~--g--s~vv----~-~~~~~~~~d~~a~a~a~m~e~~  157 (425)
+                      .+.|+++.+. + .++...+.+..++++++++|..++......  +  ...+    . .......++++.++...|.+..
+T Consensus       111 ~~~is~e~l~~s~~~~~~~i~~~l~~a~~~~~d~~ii~g~g~~p~G~~~~~~~~~~~~~~~~~~~~~~l~~~~~~l~~~~  190 (324)
+T 6B0X_F          111 ILPVTKEFLNYTYSQFFEEMKPMIAEAFYKKFDEAGILNQGNNPFGKSIAQSIEKTNKVIKGDFTQDNIIDLEALLEDDE  190 (324)
+T ss_dssp             HCCCHHHHHHHCHHHHHHHHHHHHHHHHHHHHHHHHTSSCSSCCCSCCHHHHHHHTTCEECSCCCHHHHHHHHHHHHTTS
+T ss_pred             EEeccHHHHhhccccHHHHHHHHHHHHHHHHHHHhccccCCCCCCccccccccccccceecCCCCHHHHHHHHHHhccCc
+Confidence            5667776655 4 688889999999999999999988764211  0  0000    0 0012357788888887776554
+
+
+Q MGYP0036305387  158 VPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYAN  215 (425)
+Q Consensus       158 vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~  215 (425)
+                      .  ..-.++++|..+..|...... .   .+   .-.+. ...++++|++++.++.++
+T Consensus       191 ~--~~~~~vm~~~~~~~l~~~~d~-~---~g---~~l~~-~~~~~l~G~pv~~~~~~~  238 (324)
+T 6B0X_F          191 L--EANAFISKTQNRSLLRKIVDP-E---TK---ERIYD-RNSDSLDGLPVVNLKSSN  238 (324)
+T ss_dssp             C--CCCCEEECTGGGTTTTCCBCS-S---SC---CBSSB-TTTTBSSSSBEEECCSSS
+T ss_pred             c--cccEEEEeHHHHHHHhcccCC-C---CC---Ccccc-CCCCeecCEEEEEeCcCC
+Confidence            3  335789999998887654211 0   11   11122 245678999999988775
+
+
+No 22
+>6B23_C Major head protein, Capsid morphogenesis; major capsid protein, HK97-like fold; 3.76A {Staphylococcus phage 80alpha}
+Probab=21.23  E-value=83  Score=32.53  Aligned_cols=188  Identities=7%  Similarity=-0.024  Sum_probs=113.3  Template_Neff=9.700
+
+Q MGYP0036305387    9 ERVAFENILEGFQDALVLSKNVGIYTTDQVMMERTNDTIWRPMPYIGTSINAAPGTDISALYSDYVQLAVPSSISYSKAV   88 (425)
+Q Consensus         9 ~~v~fe~~le~fe~~lv~s~~v~~~~~~~~~mqr~~~tiwrP~~~~a~~~~~~~G~D~t~~~~d~~e~svp~~l~~~k~v   88 (425)
+                      |+.+.+++++.+++...+.+.+...   .    ..|.++++|+............. ............+.+++.+. ..
+T Consensus        40 p~~~~~~i~~~~~~~~~l~~~~~~~---~----~~~~~~~ip~~~~~~~~~~v~Eg-~~~~~~~~~~~~v~~~~~k~-~~  110 (324)
+T 6B23_C           40 MNEFTTPILQEVMENSKIMQLGKYE---P----MEGTEKKFTFWADKPGAYWVGEG-QKIETSKATWVNATMRAFKL-GV  110 (324)
+T ss_dssp             CHHHHHHHHHHHHHHCSHHHHSBCC---C----CSSSEEEECCCCCCCSSSCCCSS-CCCCCEEEECCEEEEEECTT-GG
+T ss_pred             ChhhhHHHHHHHHhcCchhhcccEE---e----cCCCeEEEEeecCCCceEEecCC-ccceeccceeeeeEEeeEEE-EE
+Confidence            5667889999999999998888543   1    13567777776542211111011 11112233334444444433 35
+
+
+Q MGYP0036305387   89 PFTLNALELR-D-ALQEDRLGAAAKNKLASDINVAIMDVAAAQ--G--TLVV----K-RTAAATGYDDVAQCDAIMNEQG  157 (425)
+Q Consensus        89 ~~~~~a~eLr-d-~~~~~R~~~~A~~~LA~~Id~~i~~~~~~~--g--s~vv----~-~~~~~~~~d~~a~a~a~m~e~~  157 (425)
+                      .+.|+++.+. + .++...+.+..++++++++|..++......  +  ...+    . .......++++.++...|.+..
+T Consensus       111 ~~~is~e~l~~s~~~~~~~i~~~l~~a~~~~~d~~ii~g~g~~p~G~~~~~~~~~~~~~~~~~~~~~~l~~~~~~l~~~~  190 (324)
+T 6B23_C          111 ILPVTKEFLNYTYSQFFEEMKPMIAEAFYKKFDEAGILNQGNNPFGKSIAQSIEKTNKVIKGDFTQDNIIDLEALLEDDE  190 (324)
+T ss_dssp             GGGGHHHHHHHHHHHHHHHHTTTHHHHHHHHHHHHHTCCCSSCCSSCCHHHHHHHSCCEECCCCSHHHHHHHHHHHHTTT
+T ss_pred             EEeccHHHHhhccccHHHHHHHHHHHHHHHHHHHhccccCCCCCCccccccccccccceecCCCCHHHHHHHHHHhccCc
+Confidence            5667776655 4 688889999999999999999988764211  0  0000    0 0012357788888887776554
+
+
+Q MGYP0036305387  158 VPDYDRHLALSSRDYNGMANDLSKASRSFGNEKSDSAYERSRVGMVAGFDTLKLDYAN  215 (425)
+Q Consensus       158 vp~~~R~~~l~p~D~~~~a~~L~~~~~~~~~~~~~~AY~~g~iG~vAGfdt~~~d~~~  215 (425)
+                      .  ..-.++++|..+..|...... .   .+   .-.+. ...++++|++++.++.++
+T Consensus       191 ~--~~~~~vm~~~~~~~l~~~~d~-~---~g---~~l~~-~~~~~l~G~pv~~~~~~~  238 (324)
+T 6B23_C          191 L--EANAFISKTQNRSLLRKIVDP-E---TK---ERIYD-RNSDSLDGLPVVNLKSSN  238 (324)
+T ss_dssp             C--CCCCEECCTTGGGTTSSCBCS-S---SC---CBSSC-SSSCBSSSSBEECCCSTT
+T ss_pred             c--cccEEEEeHHHHHHHhcccCC-C---CC---Ccccc-CCCCeecCEEEEEeCcCC
+Confidence            3  335789999998887654211 0   11   11122 245678999999988775
+
+
+No 23
+>4BML_B MAJOR CAPSID PROTEIN; VIRUS, MARINE VIRUS, OUTER CAPSID; 4.7A {SYNECHOCOCCUS PHAGE SYN5}
+Probab=20.40  E-value=89  Score=32.13  Aligned_cols=54  Identities=6%  Similarity=0.073  Sum_probs=38.4  Template_Neff=10.200
+
+Q MGYP0036305387  350 NPFWQRDSLELLPGRYSVPADAGAAVLRGTTDNGIELVMQ-KFYDINTMTTKYRCDTLFGVVNKQPEMSGIML  421 (425)
+Q Consensus       350 N~f~~kdAi~lv~~~l~~p~~~G~~~~~~~t~~Gisi~~~-~~yDi~~~~~~~RlDvlyGv~~~~Pe~~Gi~l  421 (425)
+                      .++||++++.++...-                  +.++.. ..++...+....++...||+++++|+..+++.
+T Consensus       276 ~~~~~~~a~~~~~~~~------------------~~v~~~~~~~~~~~~~~~i~~~~~~g~~~~~~~a~~~i~  330 (332)
+T 4BML_B          276 GLIFHREAAGCIQSVA------------------PTIQTTSGDFNVQYQGDLIVGKLAMGCGSLRTSVAGSFQ  330 (332)
+T ss_pred             EEEecHhheeeEEeec------------------CccccccCCccchhhHheeeeehhhccCCCChhhEEEEE
+Confidence            8889999887766431                  111111 12456678899999999999999999887764
+
+
