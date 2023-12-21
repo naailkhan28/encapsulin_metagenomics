@@ -48,3 +48,9 @@ metadata/final_orphan_sequences.csv
 metadata/orphan_sequences.csv
 metadata/cargo_MGYPs.txt
 metadata/all_MGYCs.txt
+*.pkl
+timings.json
+relax_metrics.json
+ranking_debug.json
+unrelaxed_model_*.pdb
+relaxed_model_*.pdb

@@ -1,0 +1,180 @@
+Query         MGYP003143863407 FL=0
+Match_columns 446
+No_of_seqs    39 out of 48
+Neff          4.68633
+Searched_HMMs 80799
+Date          Thu Dec 21 10:15:58 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmpuroh875e/query.a3m -o /tmp/tmpuroh875e/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5LII_P Major capsid protein; p  87.8    0.27 3.3E-06   54.4   0.0  182  139-351    93-275 (463)
+  2 1Q3K_C creatininase (E.C.3.5.2   9.4 2.8E+02  0.0035   28.7   0.0   39  259-297    88-126 (259)
+  3 1K8V_A NEUROPEPTIDE F; neurope   8.7 3.1E+02  0.0039   21.6   0.0   25  152-176    12-36  (40)
+  4 1J2T_D creatinine amidohydrola   8.3 3.3E+02  0.0041   28.2   0.0   38  259-296    89-126 (260)
+  5 1V7Z_C creatinine amidohydrola   8.3 3.3E+02  0.0041   28.2   0.0   38  259-296    89-126 (260)
+  6 5WXK_B EarP, Elongation factor   8.2 3.4E+02  0.0041   23.0   0.0   21   84-105     6-26  (70)
+  7 3NO4_A creatinine amidohydrola   7.6 3.7E+02  0.0046   28.2   0.0   38  259-296    98-135 (267)
+  8 3NO4_C creatinine amidohydrola   7.6 3.7E+02  0.0046   28.2   0.0   38  259-296    98-135 (267)
+  9 3LUB_B Putative creatinine ami   7.4 3.8E+02  0.0048   27.6   0.0   37  259-295    89-125 (254)
+ 10 3LUB_F Putative creatinine ami   7.4 3.8E+02  0.0048   27.6   0.0   37  259-295    89-125 (254)
+
+No 1
+>5LII_P Major capsid protein; polyvalent staphylococcal bactoriophage, Myoviridae, tail; 3.8A {Staphylococcus phage 812}
+Probab=87.77  E-value=0.27  Score=54.36  Aligned_cols=182  Identities=13%  Similarity=0.079  Sum_probs=112.1  Template_Neff=7.400
+
+Q MGYP0031438634  139 SAFNQGSLASEVGQNYAYPDTYKNWLTLSRKKTKIMGSDLTDVTWIESNGHRLWYFTKEQQMTDQFMYELEAQRWYGKKS  218 (446)
+Q Consensus       139 saf~e~s~~~~~~~ny~~P~k~rN~lt~~Rksy~iTGsa~~~V~~i~~~G~~~W~~~~E~q~~~qw~~e~E~~~wy~~~t  218 (446)
+                      +++.|+++..+..   ....+.-|++.+++..++|++.+...-- +.     -=+.++..+.+++-+++.|...|++..+
+T Consensus        93 ~~~~Eg~~~~~~~---~~~~~~tn~~qi~~~~~~VS~t~~~v~~-~~-----d~~a~q~~~~~~~i~~~iE~ali~G~~~  163 (463)
+T 5LII_P           93 RFVKEIGVAPVSD---PNIRQKTVSMKYVSDTKNMSIASGLVNN-IA-----DPSQILTEDAIAVVAKTIEWASFYGDAS  163 (463)
+T ss_dssp             TCCSSCCSCCCCC---CEEECCCCCCCCCCCCCCCCHHHHHSCC-SS-----CSHHHHHHHHHHHHHHHHHHHHHSCCCC
+T ss_pred             ceeeecCCCCCCC---CcceEeeeeEEEEEccEEecHHHHHHcc-CC-----CHHHHHHHHHHHHHHHHHHHHhhhcccc
+Confidence            5666776643221   2237788999999999999998543211 21     1233566677888899999999999875
+
+
+Q MGYP0031438634  219 MSNASDYPGDTGAATAGLPIMGDGILAQIDSSNQATYTAGALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDFHR  298 (446)
+Q Consensus       219 ~~~~~~~~~~~~~~~~g~Pv~GaGl~eQI~~sN~~~Yt~~~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF~r  298 (446)
+                      ...    ++  +  .  .+..-+||..+|...|...-....||++.|.+++..+..+  +...+  +++++..-.+.|.+
+T Consensus       164 ~~~----~~--~--~--~~~~fdGL~~~I~~~~~id~~g~~lT~~~L~~~l~~i~~~--gG~p~--~i~m~~~~k~~i~~  229 (463)
+T 5LII_P          164 LTS----EV--E--G--EGLEFDGLAKLIDKNNVINAKGNQLTEKHLNEAAVRIGKG--FGTAT--DAYMPIGVHADFVN  229 (463)
+T ss_dssp             CCS----SS--S--C--CSSCCCSSSTTCSSCCCBCSSCCCCCSHHHHHHHHHHHHT--TCCCC--BCCCCTTTTTTTTT
+T ss_pred             cCC----CC--C--C--CcceechHHHHhhcCCEecCCCCCCCHHHHHHHHHHHHhc--CCCcC--EEEecHHHHHHHHH
+Confidence            310    00  0  1  1125679999998877532222379999999999887532  11122  36778877777776
+
+
+Q MGYP0031438634  299 AMKDLLATVGSGAPMFAGKGGGSVELGANFTEYNIL-GNKMILSYCPVFDDPNL  351 (446)
+Q Consensus       299 am~d~~~~~~~~~~~~~~~sG~~l~lGgqF~~Y~~~-G~~Ltl~~~PlyDD~~~  351 (446)
+                      .+.+... .      .....+....+|.....|.=. | .|.++.++.+.+..+
+T Consensus       230 ~~~~~~r-~------~~~~~~~~~~~G~~V~~y~T~fG-~i~li~~~~m~~~~i  275 (463)
+T 5LII_P          230 SILGRQM-Q------LMQDNSGNVNTGYSVNGFYSSRG-FIKLHGSTVMENELI  275 (463)
+T ss_dssp             TTSSCCC-C------CSSCCSSCCCCCCCCCCCBSSSB-CCCCCCCCCCSSSSC
+T ss_pred             Hhhccee-e------eccCCCCceeeeeEEeEEEcCCc-eeEEeccccCCCCcc
+Confidence            5554311 0      000011235567777778654 4 467777777766544
+
+
+No 2
+>1Q3K_C creatininase (E.C.3.5.2.10); alpha-beta-fold, HYDROLASE; HET: GOL, ZN; 2.1A {Pseudomonas putida} SCOP: c.125.1.1
+Probab=9.35  E-value=2.8e+02  Score=28.67  Aligned_cols=39  Identities=8%  Similarity=0.112  Sum_probs=33.0  Template_Neff=8.300
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDFH  297 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF~  297 (446)
+                      .+..+.+.++|.|+..+....+=++|+++.|-.|-..+.
+T Consensus        88 ~l~~~t~~~~l~di~~sl~~~Gf~~ivivngHGgn~~~~  126 (259)
+T 1Q3K_C           88 SLDGATLTGTVQDIIRELARHGVRRLVLMNGHYENSMFI  126 (259)
+T ss_dssp             CBCHHHHHHHHHHHHHHHHHHTCCEEEEEECSGGGHHHH
+T ss_pred             eeCHHHHHHHHHHHHHHHHHcCCCEEEEEeCCccchhHH
+Confidence            478888999999999887778888999999999987653
+
+
+No 3
+>1K8V_A NEUROPEPTIDE F; neuropeptide F, Moniezia expansa, NPF; NMR {N/A} SCOP: j.6.1.1
+Probab=8.67  E-value=3.1e+02  Score=21.61  Aligned_cols=25  Identities=12%  Similarity=0.179  Sum_probs=22.3  Template_Neff=4.000
+
+Q MGYP0031438634  152 QNYAYPDTYKNWLTLSRKKTKIMGS  176 (446)
+Q Consensus       152 ~ny~~P~k~rN~lt~~Rksy~iTGs  176 (446)
+                      ..|..+..++++|..|..=|.|.|-
+T Consensus        12 ~~f~s~~el~~YL~~L~~YY~i~gR   36 (40)
+T 1K8V_A           12 LVLDNKAALRDYLRQINEYFAIIGR   36 (40)
+T ss_dssp             CSCSSCSHHHHHHHHHHHHHHHHHC
+T ss_pred             hhcCCHHHHHHHHHHHHHHHHHHCC
+Confidence            4788999999999999999999874
+
+
+No 4
+>1J2T_D creatinine amidohydrolase(E.C.3.5.2.10); creatinine, creatine, Hydrolase; HET: SO4; 1.8A {Pseudomonas putida} SCOP: c.125.1.1
+Probab=8.29  E-value=3.3e+02  Score=28.19  Aligned_cols=38  Identities=8%  Similarity=0.167  Sum_probs=32.5  Template_Neff=8.300
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDF  296 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF  296 (446)
+                      .+..+.|.++|.|+..+.....=++||++.|-.|-..+
+T Consensus        89 ~l~~~t~~~~l~di~~sL~~~Gf~~ivivngHGgn~~~  126 (260)
+T 1J2T_D           89 SLDGATLTGTVQDIIRELARHGARRLVLMNGHYENSMF  126 (260)
+T ss_dssp             CBCHHHHHHHHHHHHHHHHHHTCCEEEEEECSGGGHHH
+T ss_pred             eeCHHHHHHHHHHHHHHHHHcCCCEEEEEcCCcchhHH
+Confidence            47888899999999988778888899999999997654
+
+
+No 5
+>1V7Z_C creatinine amidohydrolase(E.C.3.5.2.10); Mn-activated creatininase, substrate complex, hydrolase; HET: CRN, SO4; 1.6A {Pseudomonas sp.} SCOP: c.125.1.1
+Probab=8.29  E-value=3.3e+02  Score=28.19  Aligned_cols=38  Identities=8%  Similarity=0.167  Sum_probs=32.5  Template_Neff=8.300
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDF  296 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF  296 (446)
+                      .+..+.|.++|.|+..+.....=++||++.|-.|-..+
+T Consensus        89 ~l~~~t~~~~l~di~~sL~~~Gf~~ivivngHGgn~~~  126 (260)
+T 1V7Z_C           89 SLDGATLTGTVQDIIRELARHGARRLVLMNGHYENSMF  126 (260)
+T ss_dssp             CBCHHHHHHHHHHHHHHHHHHTCCEEEEEECSGGGHHH
+T ss_pred             eeCHHHHHHHHHHHHHHHHHcCCCEEEEEcCCcchhHH
+Confidence            47888899999999988778888899999999997654
+
+
+No 6
+>5WXK_B EarP, Elongation factor P; glycosyltransferase, GT-B, EF-P, rhamnosylation, translation; HET: GOL, BME, SO4, TYD; 1.801A {Neisseria meningitidis serogroup B / serotype 15 (strain H44/76)}
+Probab=8.21  E-value=3.4e+02  Score=22.97  Aligned_cols=21  Identities=14%  Similarity=0.243  Sum_probs=17.7  Template_Neff=6.800
+
+Q MGYP0031438634   84 NLNVNDVVRFSDGTTALVTNVP  105 (446)
+Q Consensus        84 ~~~~~d~~~~~~g~~a~vt~~~  105 (446)
+                      -+++|.+|.+ +|.+|.|.+..
+T Consensus         6 dlkkG~~i~~-~g~p~~V~~~~   26 (70)
+T 5WXK_B            6 ELRAGNVFMV-GNDPMVVQKTE   26 (70)
+T ss_dssp             GCCTTEEEEE-TTEEEEEEEEE
+T ss_pred             hcCCCCEEEE-CCEEEEEEEEE
+Confidence            3788999998 78999999854
+
+
+No 7
+>3NO4_A creatinine amidohydrolase; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: EDO; 2.0A {Nostoc punctiforme PCC 73102}
+Probab=7.57  E-value=3.7e+02  Score=28.20  Aligned_cols=38  Identities=16%  Similarity=0.216  Sum_probs=32.3  Template_Neff=7.800
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDF  296 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF  296 (446)
+                      .|..+.|.++|.|++.+.....=++||++.|-.|-...
+T Consensus        98 ~l~~~t~~~~l~di~~sl~~~Gf~~ivivngHggn~~~  135 (267)
+T 3NO4_A           98 SLRPSTLIQVVRDYVTCLAKAGFSKFYFINGHGGNIAT  135 (267)
+T ss_dssp             CCCHHHHHHHHHHHHHHHHHHTCCEEEEEECCTTHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHHHcCCCEEEEEeCCcccHHH
+Confidence            47888899999999988777788899999999997544
+
+
+No 8
+>3NO4_C creatinine amidohydrolase; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: EDO, MSE; 2.0A {Nostoc punctiforme PCC 73102}
+Probab=7.57  E-value=3.7e+02  Score=28.20  Aligned_cols=38  Identities=16%  Similarity=0.216  Sum_probs=32.3  Template_Neff=7.800
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRIDF  296 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~eF  296 (446)
+                      .|..+.|.++|.|++.+.....=++||++.|-.|-...
+T Consensus        98 ~l~~~t~~~~l~di~~sl~~~Gf~~ivivngHggn~~~  135 (267)
+T 3NO4_C           98 SLRPSTLIQVVRDYVTCLAKAGFSKFYFINGHGGNIAT  135 (267)
+T ss_dssp             CCCHHHHHHHHHHHHHHHHHHTCCEEEEEECCGGGHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHHHcCCCEEEEEeCCcccHHH
+Confidence            47888899999999988777788899999999997544
+
+
+No 9
+>3LUB_B Putative creatinine amidohydrolase; Putative creatinine amidohydrolase, Structural Genomics; HET: CL, EDO, CA, MSE, ZN; 2.11A {Bacteroides fragilis}
+Probab=7.41  E-value=3.8e+02  Score=27.63  Aligned_cols=37  Identities=5%  Similarity=-0.019  Sum_probs=31.2  Template_Neff=8.300
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRID  295 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~e  295 (446)
+                      .++.+.|.++|.|+..+.....=++||++.|-.|-..
+T Consensus        89 sl~~~t~~~~l~di~~sL~~~Gf~~ivivNgHGGN~~  125 (254)
+T 3LUB_B           89 HTRYATQQAILEDIVSSLHVQGFRKLLILSGHGGNNF  125 (254)
+T ss_dssp             BCCHHHHHHHHHHHHHHHHHTTCCEEEEEESCTTCCC
+T ss_pred             ecCHHHHHHHHHHHHHHHHHcCCCEEEEEeCCchhhH
+Confidence            4778889999999888777777889999999999763
+
+
+No 10
+>3LUB_F Putative creatinine amidohydrolase; Putative creatinine amidohydrolase, Structural Genomics; HET: ZN, CL, EDO, CA; 2.11A {Bacteroides fragilis}
+Probab=7.41  E-value=3.8e+02  Score=27.63  Aligned_cols=37  Identities=5%  Similarity=-0.019  Sum_probs=31.2  Template_Neff=8.300
+
+Q MGYP0031438634  259 ALTEEDIVNFIGTLSKNALSAEGNVFTVFTGTQGRID  295 (446)
+Q Consensus       259 ~LT~~~l~d~l~dLsy~~~~~~~~~~v~~TGe~Gm~e  295 (446)
+                      .++.+.|.++|.|+..+.....=++||++.|-.|-..
+T Consensus        89 sl~~~t~~~~l~di~~sL~~~Gf~~ivivNgHGGN~~  125 (254)
+T 3LUB_F           89 HTRYATQQAILEDIVSSLHVQGFRKLLILSGHGGNNF  125 (254)
+T ss_dssp             BCCHHHHHHHHHHHHHHHHHTTCCEEEEEESCTTCCC
+T ss_pred             ecCHHHHHHHHHHHHHHHHHcCCCEEEEEeCCchhhH
+Confidence            4778889999999888777777889999999999763
+
+

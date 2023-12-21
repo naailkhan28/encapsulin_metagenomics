@@ -1,0 +1,782 @@
+Query         MGYP001770687550 FL=1 CR=1
+Match_columns 94
+No_of_seqs    37 out of 39
+Neff          2.19921
+Searched_HMMs 80799
+Date          Thu Dec 21 04:03:49 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmpep355dhw/query.a3m -o /tmp/tmpep355dhw/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2PK8_A Uncharacterized protein 100.0   5E-48 6.2E-53  273.1   0.0   93    1-93     11-103 (103)
+  2 1FS0_G GAMMA/EPSILON ATP SYNTH  61.3     6.4 7.9E-05   28.8   0.0   33    8-40     77-109 (230)
+  3 3DKT_I Maritimacin, Putative u  60.0       7 8.7E-05   28.2   0.0   66    7-77    147-218 (265)
+  4 5ZWL_G ATP synthase epsilon ch  59.6     7.2 8.9E-05   30.1   0.0   35    7-41     87-121 (280)
+  5 6N2Z_G Bacterial ATP synthase;  58.8     7.6 9.4E-05   29.4   0.0   34    8-41     95-128 (285)
+  6 6N30_G Bacterial ATP synthase;  58.8     7.6 9.4E-05   29.4   0.0   34    8-41     95-128 (285)
+  7 4XD7_G ATP synthase subunit al  58.6     7.7 9.5E-05   29.4   0.0   35    7-41     94-128 (285)
+  8 6FOC_G ATP synthase subunit al  57.4     8.3  0.0001   30.2   0.0   34    8-41     96-129 (307)
+  9 5DN6_G UNK-UNK-UNK-UNK-UNK-UNK  56.0     9.1 0.00011   29.2   0.0   35    8-42     98-132 (290)
+ 10 3OAA_W ATP synthase subunit al  52.9      11 0.00014   28.7   0.0   34    8-41     94-127 (286)
+ 11 6I9G_N Uncharacterized protein  51.8      12 0.00015   27.3   0.0   68    7-77    148-218 (265)
+ 12 3BQW_A Putative capsid protein  51.4      12 0.00015   28.5   0.0   38    8-48    189-228 (351)
+ 13 5FL7_G ATP SYNTHASE SUBUNIT AL  51.2      12 0.00015   29.1   0.0   34    8-41    106-139 (293)
+ 14 2HLD_Y ATP synthase alpha chai  45.1      18 0.00022   27.4   0.0   30   12-41     91-120 (278)
+ 15 3ZIA_G ATP SYNTHASE SUBUNIT AL  45.1      18 0.00022   27.4   0.0   30   12-41     91-120 (278)
+ 16 6CP3_G ATP synthase subunit 9,  45.1      18 0.00022   27.4   0.0   30   12-41     91-120 (278)
+ 17 2XOK_G ATP SYNTHASE SUBUNIT AL  43.5      20 0.00024   28.4   0.0   30   12-41    124-153 (311)
+ 18 6I9E_C Major head protein, Aux  40.9      23 0.00028   28.9   0.0   42    7-48    212-256 (409)
+ 19 6O3H_D Major head protein, P74  40.9      23 0.00028   28.9   0.0   42    7-48    212-256 (409)
+ 20 5LQZ_G ATP synthase subunit f,  40.2      24 0.00029   26.7   0.0   28   14-41     87-114 (269)
+ 21 6FKH_g ATP synthase subunit a,  40.0      24  0.0003   28.8   0.0   35    7-41    136-170 (364)
+ 22 6FKF_g ATP synthase subunit al  40.0      24  0.0003   28.8   0.0   35    7-41    136-170 (364)
+ 23 5HQT_A aspartate/glutamate rac  39.5      25 0.00031   25.5   0.0   69   10-81     20-88  (235)
+ 24 5HRA_B aspartate/glutamate rac  39.5      25 0.00031   25.5   0.0   69   10-81     20-88  (235)
+ 25 6J5I_G ATP synthase subunit al  39.4      25 0.00031   26.7   0.0   34    8-41     85-118 (272)
+ 26 4PT2_B Encapsulin protein; HK9  36.8      29 0.00036   25.2   0.0   71    7-78    160-234 (287)
+ 27 5ELL_B Asp/Glu_racemase family  36.2      30 0.00037   25.0   0.0   68   10-80     20-87  (238)
+ 28 6RDB_S Mitochondrial ATP synth  35.8      31 0.00038   27.7   0.0   35    7-41    118-152 (317)
+ 29 6REB_S ASA-10: Polytomella F-A  35.8      31 0.00038   27.7   0.0   35    7-41    118-152 (317)
+ 30 2E0Z_B Virus-like particle; vi  35.6      31 0.00039   27.6   0.0   71    6-76    226-298 (345)
+ 31 2E0Z_C Virus-like particle; vi  35.6      31 0.00039   27.6   0.0   71    6-76    226-298 (345)
+ 32 5IK2_G ATP synthase subunit al  35.4      32 0.00039   26.3   0.0   20   22-41    108-127 (285)
+ 33 3BJQ_F Phage-related protein;   30.8      42 0.00052   25.5   0.0   34    8-41    158-192 (316)
+ 34 3BJQ_E Phage-related protein;   30.8      42 0.00052   25.5   0.0   34    8-41    158-192 (316)
+ 35 6Q45_O ATP synthase subunit al  30.7      43 0.00053   25.6   0.0   19   23-41    109-127 (282)
+ 36 2JIZ_N ATP SYNTHASE SUBUNIT AL  27.6      52 0.00065   24.9   0.0   32   10-41     87-118 (272)
+ 37 2JDI_G ATP SYNTHASE SUBUNIT AL  27.3      53 0.00066   25.0   0.0   31   11-41     88-118 (273)
+ 38 6F0K_D Cytochrome c family pro  27.2      54 0.00067   25.1   0.0   26    9-34     33-59  (217)
+ 39 6JM4_C Sequestosome-1; PB1, P6  26.4      57  0.0007   22.2   0.0   39   33-76     41-79  (102)
+ 40 1IV0_A hypothetical protein; h  24.7      64 0.00079   20.8   0.0   13   23-35     49-61  (98)
+ 41 6NLH_D Triosephosphate isomera  23.0      73  0.0009   25.5   0.0   39    8-47    102-148 (245)
+ 42 3J1A_G capsid protein; halopha  22.9      73 0.00091   21.6   0.0   69    9-78     74-150 (199)
+ 43 6TDY_G ATP synthase subunit al  22.4      76 0.00094   25.1   0.0   19   23-41    101-119 (306)
+ 44 6TE0_G ATP synthase subunit al  22.4      76 0.00094   25.1   0.0   19   23-41    101-119 (306)
+ 45 4Y68_A Nisin resistance protei  21.4      82   0.001   24.7   0.0   27   18-44    282-310 (312)
+ 46 5TCS_C ?; RWD, CH, coiled-coil  20.8      86  0.0011   22.9   0.0   21   59-79     47-67  (100)
+ 47 3CPF_B Eukaryotic translation   20.8      86  0.0011   22.0   0.0   16   58-73    119-134 (138)
+ 48 4P61_A Triosephosphate isomera  20.7      87  0.0011   25.0   0.0   39    8-47    105-151 (248)
+ 49 2DX7_B aspartate racemase (E.C  20.6      87  0.0011   22.6   0.0   59   20-82     29-88  (228)
+ 50 2LTA_A OR157; Structural Genom  20.1      90  0.0011   23.7   0.0   29   11-39     41-69  (110)
+ 51 3JB5_D major capsid protein; a  20.1      91  0.0011   23.5   0.0   73    9-81    157-251 (315)
+
+No 1
+>2PK8_A Uncharacterized protein PF0899; PF0899, STRUCTURAL GENOMICS, PYROCOCCUS FURIOSUS; 1.85A {Pyrococcus furiosus DSM 3638} SCOP: d.274.1.1
+Probab=100.00  E-value=5e-48  Score=273.15  Aligned_cols=93  Identities=58%  Similarity=0.972  Sum_probs=91.5  Template_Neff=2.400
+
+Q MGYP0017706875    1 MRGELIRVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDSKVLG   80 (94)
+Q Consensus         1 mrgdlIrvls~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDSK~LG   80 (94)
+                      .||||||+|+.|++||||||+|||+||+|||||+||||+++||++|||++++++|.||||||+|+|||+||||+|||+||
+T Consensus        11 ~~~dLiril~~ieekinELK~dG~ePDIvL~G~efyef~~~~l~~e~g~e~~~~e~sgLkIy~ieELG~DAVVaDSk~LG   90 (103)
+T 2PK8_A           11 TRGDLIRILGEIEEKMNELKMDGFNPDIILFGREAYNFLSNLLKKEMEEEGPFTHVSNIKIEILEELGGDAVVIDSKVLG   90 (103)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTTCCCCEEEECHHHHHHHHHHHHHHHTCCCCCCEETTEEEEECGGGTTEEEEECTTTTT
+T ss_pred             cHHHHHHHHHHHHHHHHHHHHcCCCCCeEEECHHHHHHHHHHHHHHhcCCCCcccccCCEEEEehhhCCCEEEEchhHhc
+Confidence            48999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+
+Q MGYP0017706875   81 LGLGGAKRVKVIK   93 (94)
+Q Consensus        81 ~~~g~AKRi~vvk   93 (94)
+                      |.++|||||||++
+T Consensus        91 ~~~~aakRIsIi~  103 (103)
+T 2PK8_A           91 LVPGAAKRIKIIK  103 (103)
+T ss_dssp             TSTTCEEEEECCC
+T ss_pred             cCcCcccceEecC
+Confidence            9999999999985
+
+
+No 2
+>1FS0_G GAMMA/EPSILON ATP SYNTHASE (E.C.3.6.1.34); ATP Synthase, Gamma, epsilon, HYDROLASE; 2.1A {Escherichia coli} SCOP: c.49.2.1
+Probab=61.34  E-value=6.4  Score=28.78  Aligned_cols=33  Identities=15%  Similarity=0.363  Sum_probs=23.9  Template_Neff=9.200
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLK   40 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~   40 (94)
+                      +...+.+.+++++..+-+.+++.+|+.+.+|++
+T Consensus        77 i~k~~~~~~~~~~~~~~~~~~i~iG~k~~~~~~  109 (230)
+T 1FS0_G           77 LFKKLLAEMKTWTDKGVQCDLAMIGSKGVSFFN  109 (230)
+T ss_dssp             HHHHHHHHHHHHHHTTCEEEEEEESHHHHHHHH
+T ss_pred             HHHHHHHHHHhhhhcCCCceEEEEchhHHHHHH
+Confidence            344445555554445678899999999999988
+
+
+No 3
+>3DKT_I Maritimacin, Putative uncharacterized protein; enzyme encapsulation, nanocompartment, oxidative stress; 3.104A {Thermotoga maritima}
+Probab=60.01  E-value=7  Score=28.18  Aligned_cols=66  Identities=17%  Similarity=0.281  Sum_probs=47.2  Template_Neff=10.200
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGF-EPDLVLFGKEAYEFLKEQVNEEFGGEDGIS----EIS-GLKVKIVEEFGKDAVVIDSK   77 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~-ePDvvL~G~eayeFl~eqv~eefggee~~~----els-glkV~ileELG~DAVViDSK   77 (94)
+                      .+++.|.+.++.++..|+ .|+.+++-+..|.++...-    .+...++    +.. |++|.....|.. +++.|.+
+T Consensus       147 ~~~~~i~~a~~~l~~~~~~~p~~l~l~~~~~~~l~~~~----~~~~~~~~~~~~~~~g~~Iv~s~~l~~-~lv~~~~  218 (265)
+T 3DKT_I          147 DLLEAIVRALSIFSKDGIEGPYTLVINTDRWINFLKEE----AGHYPLEKRVEECLRGGKIITTPRIED-ALVVSER  218 (265)
+T ss_dssp             HHHHHHHHHHHHHHTTTCCSSEEEEEEHHHHHHHHHHS----SSSSCHHHHHHHHTTSCEEEEESSCSS-EEEEETT
+T ss_pred             hHHHHHHHHHHHHHHCCCCCCeEEEEcHHHHHHHHHhh----cCCcchHHHHHHHhcCCceEeCCCCCc-EEEEeCC
+Confidence            577788888888888885 6999999999999887643    2233332    333 368888888876 7777654
+
+
+No 4
+>5ZWL_G ATP synthase epsilon chain, ATP; ATP synthase gamma epsilon cyanobacteria; 1.98A {Thermosynechococcus elongatus (strain BP-1)}
+Probab=59.65  E-value=7.2  Score=30.05  Aligned_cols=35  Identities=26%  Similarity=0.591  Sum_probs=25.6  Template_Neff=8.500
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +++..+.+.+++++..+-+++++.+|+.+++|+++
+T Consensus        87 ~i~k~~~~~i~~~~~~~~~~~li~IGkK~~~~l~~  121 (280)
+T 5ZWL_G           87 NVIRRAKERLQELEAEGLKYTLVIVGRKAAQYFQR  121 (280)
+T ss_dssp             HHHHHHHHHHHHHHHTTCEEEEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCCeEEEEECHHHHHHHHH
+Confidence            34445555555554457789999999999999994
+
+
+No 5
+>6N2Z_G Bacterial ATP synthase; Bacterial ATP synthase, HYDROLASE; HET: ADP, ATP; 3.0A {Bacillus sp. PS3}
+Probab=58.75  E-value=7.6  Score=29.42  Aligned_cols=34  Identities=18%  Similarity=0.311  Sum_probs=25.3  Template_Neff=9.100
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +...+.+.+++.+..|-+++++++|+.+.+|+++
+T Consensus        95 i~k~~~~~~~~~~~~~~~~~liviG~k~~~~l~~  128 (285)
+T 6N2Z_G           95 VLRLVYQTIQKRHASPDEYAIIVIGRVGLSFFRK  128 (285)
+T ss_pred             HHHHHHHHHHHhcCCCCccEEEEEchhHHHHHHH
+Confidence            4444555555554567889999999999999984
+
+
+No 6
+>6N30_G Bacterial ATP synthase; Bacterial ATP synthase, HYDROLASE; HET: ADP, ATP; 3.2A {Bacillus sp. PS3}
+Probab=58.75  E-value=7.6  Score=29.42  Aligned_cols=34  Identities=18%  Similarity=0.311  Sum_probs=25.3  Template_Neff=9.100
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +...+.+.+++.+..|-+++++++|+.+.+|+++
+T Consensus        95 i~k~~~~~~~~~~~~~~~~~liviG~k~~~~l~~  128 (285)
+T 6N30_G           95 VLRLVYQTIQKRHASPDEYAIIVIGRVGLSFFRK  128 (285)
+T ss_pred             HHHHHHHHHHHhcCCCCccEEEEEchhHHHHHHH
+Confidence            4444555555554567889999999999999984
+
+
+No 7
+>4XD7_G ATP synthase subunit alpha (E.C.3.6.3.14); F1-ATPASE, ATP SYNTHASE, ROTARY MOTOR; HET: ADP, MSE, SO4; 3.9A {Bacillus sp. PS3}
+Probab=58.63  E-value=7.7  Score=29.40  Aligned_cols=35  Identities=17%  Similarity=0.270  Sum_probs=25.1  Template_Neff=9.100
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      ++...+.+.+++.+..|-+++++++|+.+.+|+++
+T Consensus        94 ~i~k~~~~~~~~~~~~~~~~~livIG~k~~~~l~~  128 (285)
+T 4XD7_G           94 NVLRLVYQTIQKRHACPDEYAIIVIGRVGLSFFRK  128 (285)
+T ss_dssp             HHHHHHHHTTC-CCCCSSCSCEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHhccCCCceEEEEEchHHHHHHHH
+Confidence            34445555555555567789999999999999984
+
+
+No 8
+>6FOC_G ATP synthase subunit alpha (E.C.3.6.3.14); Complex, Mycobacteria, HYDROLASE; HET: ADP; 4.0A {Mycolicibacterium smegmatis MC2 155}
+Probab=57.39  E-value=8.3  Score=30.20  Aligned_cols=34  Identities=29%  Similarity=0.441  Sum_probs=8.1  Template_Neff=8.400
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +...+.+.+.+++..|-+++++.+|+.+++|+..
+T Consensus        96 v~k~~~~~~~~~~~~~~~~~ii~IG~k~~~~l~~  129 (307)
+T 6FOC_G           96 VLRRAEELFSLLRDEGKDPVLYVVGRKALGYFSF  129 (307)
+T ss_dssp             H----HHHHHHHHHHHH-------------H---
+T ss_pred             HHHHHHHHHHHHHHCCCCeEEEEEChHHHHHHHH
+Confidence            3444444444554558899999999999999984
+
+
+No 9
+>5DN6_G UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK, UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK, UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK-UNK, ATP synthase; Hydrolase, Paracoccus denitrificans, ATP synthase; HET: ATP, ADP; 3.98A {Paracoccus denitrificans}
+Probab=56.02  E-value=9.1  Score=29.19  Aligned_cols=35  Identities=23%  Similarity=0.383  Sum_probs=24.9  Template_Neff=9.000
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQ   42 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~eq   42 (94)
+                      +...+.+.+.+++..|-+++++.+|+.+.+|+++.
+T Consensus        98 i~k~~~~~~~~~~~~~~~~~~ivIG~k~~~~l~~~  132 (290)
+T 5DN6_G           98 IVKLARLRLQELQAQGKQVSILTVGKKGREQLKRE  132 (290)
+T ss_pred             HHHHHHHHHHHHHhcCCceEEEEecHHHHHHHHHH
+Confidence            33444444544444588999999999999999843
+
+
+No 10
+>3OAA_W ATP synthase subunit alpha (E.C.3.6.3.14); Rossmann Fold, Hydrolase, Synthase, Hydrolase-Transport; HET: ADP, SO4, MG, ANP; 3.26A {Escherichia coli DH1}
+Probab=52.87  E-value=11  Score=28.68  Aligned_cols=34  Identities=15%  Similarity=0.354  Sum_probs=24.5  Template_Neff=9.000
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +...+.+.+++++..|-+.+++.+|+.+.+|++.
+T Consensus        94 i~k~~~~~~~~~~~~~~~~~ii~IG~k~~~~l~~  127 (286)
+T 3OAA_W           94 LFKKLLAEMKTWTDKGVQCDLAMIGSKGVSFFNS  127 (286)
+T ss_dssp             HHHHHHHHHHHHHTTTCEEEEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHHHhhhhcCCcceEEEEchhHHHHHHh
+Confidence            4444455555554457789999999999999884
+
+
+No 11
+>6I9G_N Uncharacterized protein; Nanocompartment, nanocage, packaging of biocatalysts; HET: GOL, SO4; 2.5A {Mycolicibacterium hassiacum DSM 44199}
+Probab=51.80  E-value=12  Score=27.34  Aligned_cols=68  Identities=19%  Similarity=0.359  Sum_probs=46.2  Template_Neff=9.900
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGF-EPDLVLFGKEAYEFLKEQVNEEFGGE--DGISEISGLKVKIVEEFGKDAVVIDSK   77 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~-ePDvvL~G~eayeFl~eqv~eefgge--e~~~elsglkV~ileELG~DAVViDSK   77 (94)
+                      .+++.|.+.+..|+..|+ .|+.+++-++.|..+.... . .+..  +.+.+..+..|.....+. .++++|..
+T Consensus       148 ~~~~~i~~a~~~l~~~~~~~p~~l~l~~~~~~~l~~~~-~-~~~t~~~~~~~~~~~~Iv~s~~l~-~~lv~~~~  218 (265)
+T 6I9G_N          148 DITDVIAQALSELRLAGVDGPYSVLLSAEVYTKVSETT-E-HGYPIREHLNRLVDGDIIWAPAID-GAFVLSTR  218 (265)
+T ss_dssp             GHHHHHHHHHHHHHHTTCCCCEEEEECHHHHHHHHHCE-E-TTEEHHHHHHHHCSSCEEECTTSS-SEEEEECS
+T ss_pred             hHHHHHHHHHHHHHHCCCCCCeEEEECHHHHHHHHhhc-C-CCccHHHHHHHhcCCCeEEcCCCC-CeEEEECC
+Confidence            577888889999988885 5999999999999988644 2 1211  112223333677777776 67777653
+
+
+No 12
+>3BQW_A Putative capsid protein of prophage; Capsid protein, prophage, structural genomics; 2.2A {Escherichia coli CFT073}
+Probab=51.40  E-value=12  Score=28.47  Aligned_cols=38  Identities=18%  Similarity=0.433  Sum_probs=26.1  Template_Neff=9.900
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE--QVNEEFG   48 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e--qv~eefg   48 (94)
+                      +++.|++.++.   -|+.|+.+++|+++++.+..  ++++.+.
+T Consensus       189 p~~di~~~~~~---~G~~~~~~~~~~~~~~~l~~~~~v~~~~~  228 (351)
+T 3BQW_A          189 PIYDIELYADQ---AGCPANVMIMGAEVWRTLRSFKKFRELYD  228 (351)
+T ss_dssp             THHHHHHHHHT---TSSCCCEEEECHHHHHHHHTCHHHHHHCB
+T ss_pred             hHHHHHHHHHH---hCCCccEEEeCHHHHHHHHcCHHHHHHhc
+Confidence            34445444444   49999999999999998874  3444443
+
+
+No 13
+>5FL7_G ATP SYNTHASE SUBUNIT ALPHA, ATP; HYDROLASE, ATP SYNTHASE FAMILY, NUCLEOTIDE; HET: ATP, ADP; 3.5A {YARROWIA LIPOLYTICA}
+Probab=51.20  E-value=12  Score=29.10  Aligned_cols=34  Identities=18%  Similarity=0.158  Sum_probs=22.7  Template_Neff=8.400
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      ++..+.+.+.++...|-+++++.+|+.+++|++.
+T Consensus       106 i~k~~~~~~~~~~~~~~~~~~ivIG~kg~~~l~~  139 (293)
+T 5FL7_G          106 LARTVRRKLLDFESGEKLIDIVAVGEKIKAQLGR  139 (293)
+T ss_dssp             HHHHHHHHHHC---CTTCCEEEEESHHHHHHHTT
+T ss_pred             HHHHHHHHHHhcccCCCceEEEEeCHHHHHHHHh
+Confidence            3344444454444457789999999999999984
+
+
+No 14
+>2HLD_Y ATP synthase alpha chain, mitochondrial; ATP PHOSPHORYLASE (H+ TRANSPORTING), ATP; HET: ANP, MG; 2.8A {Saccharomyces cerevisiae}
+Probab=45.08  E-value=18  Score=27.41  Aligned_cols=30  Identities=17%  Similarity=0.136  Sum_probs=20.0  Template_Neff=9.100
+
+Q MGYP0017706875   12 VEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        12 vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      |.+.+.+...++-+++++.+|+.+.+|++.
+T Consensus        91 i~k~~~~~~~~~~~~~~iviG~k~~~~l~~  120 (278)
+T 2HLD_Y           91 LAKAVRRHLNDQPNADIVTIGDKIKMQLLR  120 (278)
+T ss_dssp             HHHHHHTTSSSCSCC--CCSSSHHHHHHHH
+T ss_pred             HHHHHHHHhhcCCCCeEEEecHHHHHHHHH
+Confidence            333444444447899999999999999984
+
+
+No 15
+>3ZIA_G ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL; HYDROLASE, NATURAL INHIBITOR, CATALYSIS, INTERMEDIATE; HET: ADP, MG, EDO, ATP; 2.5A {SACCHAROMYCES CEREVISIAE}
+Probab=45.08  E-value=18  Score=27.41  Aligned_cols=30  Identities=17%  Similarity=0.136  Sum_probs=22.0  Template_Neff=9.100
+
+Q MGYP0017706875   12 VEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        12 vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      |.+.+.+...++-+++++.+|+.+.+|++.
+T Consensus        91 i~k~~~~~~~~~~~~~~iviG~k~~~~l~~  120 (278)
+T 3ZIA_G           91 LAKAVRRHLNDQPNADIVTIGDKIKMQLLR  120 (278)
+T ss_dssp             HHHHHHHHHHHCTTCEEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHhhcCCCCeEEEecHHHHHHHHH
+Confidence            333444444447899999999999999984
+
+
+No 16
+>6CP3_G ATP synthase subunit 9, mitochondrial; ATP synthase, BIOSYNTHETIC PROTEIN; HET: FME, ADP, ATP;{Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=45.08  E-value=18  Score=27.41  Aligned_cols=30  Identities=17%  Similarity=0.136  Sum_probs=22.0  Template_Neff=9.100
+
+Q MGYP0017706875   12 VEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        12 vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      |.+.+.+...++-+++++.+|+.+.+|++.
+T Consensus        91 i~k~~~~~~~~~~~~~~iviG~k~~~~l~~  120 (278)
+T 6CP3_G           91 LAKAVRRHLNDQPNADIVTIGDKIKMQLLR  120 (278)
+T ss_pred             HHHHHHHHhhcCCCCeEEEecHHHHHHHHH
+Confidence            333444444447899999999999999984
+
+
+No 17
+>2XOK_G ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL; HYDROLASE, ATP-BINDING, F(O), F(1), ATP; HET: ANP; 3.01A {SACCHAROMYCES CEREVISIAE}
+Probab=43.49  E-value=20  Score=28.37  Aligned_cols=30  Identities=17%  Similarity=0.136  Sum_probs=22.2  Template_Neff=8.300
+
+Q MGYP0017706875   12 VEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        12 vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      |.+++.+...++-+++++++|+.+.+|++.
+T Consensus       124 i~k~~~~~~~~~~~~~livIG~k~~~~l~~  153 (311)
+T 2XOK_G          124 LAKAVRRHLNDQPNADIVTIGDKIKMQLLR  153 (311)
+T ss_pred             HHHHHHHHHHcCCCeEEEEEchHHHHHHHH
+Confidence            334444444457899999999999999984
+
+
+No 18
+>6I9E_C Major head protein, Auxiliary protein; bacteriophage, thermophage, caudovirales, siphoviridae, capsid; 3.74A {Thermus virus P23-45}
+Probab=40.94  E-value=23  Score=28.94  Aligned_cols=42  Identities=12%  Similarity=0.105  Sum_probs=30.6  Template_Neff=8.500
+
+Q MGYP0017706875    7 RVLSAVEEKANELK-MDGFEPDLVLFGKEAYEFLK--EQVNEEFG   48 (94)
+Q Consensus         7 rvls~vEekaNELK-~dG~ePDvvL~G~eayeFl~--eqv~eefg   48 (94)
+                      .+++.+++.++.++ .-|..|+.+++|+++++.+.  .++++.+.
+T Consensus       212 dp~~di~~~~~~i~~~~G~~~~~i~~g~~~~~~l~~n~~v~~~~~  256 (409)
+T 6I9E_C          212 DPIQYFRDLIKAATYFPDRRPVAIIVGPGFDEVLADNTFVQKYVE  256 (409)
+T ss_dssp             CHHHHHHHHHHHTSSSTTSSCCEEEECSCCHHHHHHSHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHhCCCCCceEEEEChhHHHHHhcCHHHHHHHh
+Confidence            34556677777775 46999999999999999766  34555554
+
+
+No 19
+>6O3H_D Major head protein, P74-26 Head; Virus, Virion, Capsid, Major Capsid; 2.8A {Thermus virus P74-26}
+Probab=40.94  E-value=23  Score=28.94  Aligned_cols=42  Identities=12%  Similarity=0.105  Sum_probs=30.6  Template_Neff=8.500
+
+Q MGYP0017706875    7 RVLSAVEEKANELK-MDGFEPDLVLFGKEAYEFLK--EQVNEEFG   48 (94)
+Q Consensus         7 rvls~vEekaNELK-~dG~ePDvvL~G~eayeFl~--eqv~eefg   48 (94)
+                      .+++.+++.++.++ .-|..|+.+++|+++++.+.  .++++.+.
+T Consensus       212 dp~~di~~~~~~i~~~~G~~~~~i~~g~~~~~~l~~n~~v~~~~~  256 (409)
+T 6O3H_D          212 DPIQYFRDLIKAATYFPDRRPVAIIVGPGFDEVLADNTFVQKYVE  256 (409)
+T ss_dssp             CHHHHHHHHHHTTSSCTTSSCCEEEECSTTHHHHHTCSSHHHHHH
+T ss_pred             CHHHHHHHHHHHHHhCCCCCceEEEEChhHHHHHhcCHHHHHHHh
+Confidence            34556677777775 46999999999999999766  34555554
+
+
+No 20
+>5LQZ_G ATP synthase subunit f, ATP; ATP synthase, hydrolase; HET: ATP, ADP; 7.0A {Ogataea angusta}
+Probab=40.17  E-value=24  Score=26.72  Aligned_cols=28  Identities=11%  Similarity=0.109  Sum_probs=20.5  Template_Neff=9.000
+
+Q MGYP0017706875   14 EKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        14 ekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      .++.+...++-+++++.+|+.+.+|++.
+T Consensus        87 k~~~~~~~~~~~~~~i~iG~k~~~~~~~  114 (269)
+T 5LQZ_G           87 KATRAKLQETPNADVVTIGDKIKAQMLR  114 (269)
+T ss_pred             HHHHHHhcCCCCCeEEEeCHHHHHHHHH
+Confidence            3333333346789999999999999874
+
+
+No 21
+>6FKH_g ATP synthase subunit a, chloroplastic; ATP synthase, membrane protein complex; HET: ADP, ATP;{Spinacia oleracea}
+Probab=40.01  E-value=24  Score=28.84  Aligned_cols=35  Identities=23%  Similarity=0.394  Sum_probs=25.2  Template_Neff=7.900
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +++..+.+.+++.+..|-+++++++|+.+.+|+++
+T Consensus       136 ~v~k~~~~~i~~~~~~~~~~~livIGkKg~~~l~~  170 (364)
+T 6FKH_g          136 MLLKKAESRIAELKKLGVDYTIISIGKKGNTYFIR  170 (364)
+T ss_dssp             HHHHHHHHHHHHHHHHTCCEEEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCCeEEEEEcchHHHHHHh
+Confidence            44455555555554456778899999999999984
+
+
+No 22
+>6FKF_g ATP synthase subunit alpha, chloroplastic; ATP synthase, membrane protein complex; HET: ATP, ADP; 3.1A {Spinacia oleracea}
+Probab=40.01  E-value=24  Score=28.84  Aligned_cols=35  Identities=23%  Similarity=0.394  Sum_probs=25.2  Template_Neff=7.900
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +++..+.+.+++.+..|-+++++++|+.+.+|+++
+T Consensus       136 ~v~k~~~~~i~~~~~~~~~~~livIGkKg~~~l~~  170 (364)
+T 6FKF_g          136 MLLKKAESRIAELKKLGVDYTIISIGKKGNTYFIR  170 (364)
+T ss_dssp             HHHHHHHHHHHHHHHTTCCEEEEEESHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHcCCCeEEEEEcchHHHHHHh
+Confidence            44455555555554456778899999999999984
+
+
+No 23
+>5HQT_A aspartate/glutamate racemase; Aspartate/glutamate racemase, PLP-independent racemase, Racemization; HET: NHE; 1.598A {Escherichia coli O157:H7 str. SS52}
+Probab=39.53  E-value=25  Score=25.45  Aligned_cols=69  Identities=12%  Similarity=0.065  Sum_probs=40.2  Template_Neff=9.700
+
+Q MGYP0017706875   10 SAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDSKVLGL   81 (94)
+Q Consensus        10 s~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDSK~LG~   81 (94)
+                      +.+.+.......+...|++++....+..+.......   ..+...+..--.+..++..|+|+|++-+.....
+T Consensus        20 ~~i~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~---~~~~~~~~l~~~~~~l~~~g~d~i~i~C~t~~~   88 (235)
+T 5HQT_A           20 RLINEGIKQRLGGLHSAQVLLHSVDFHEIEECQRRG---EWDKTGDILAEAALGLQRAGAEGIVLCTNTMHK   88 (235)
+T ss_dssp             HHHHHHHHHHHCTTCCCCEEEEECCHHHHHHHHHHT---CHHHHHHHHHHHHHHHHHHTCCEEEESCSGGGG
+T ss_pred             HHHHHHHHHHhCCCcccEEEEEeCCHHHHHHHhhcC---CchHHHHHHHHHHHHHHHcCCCEEEEcCccHhh
+Confidence            344444444444667788999888554444332211   112233333445667788999999998776655
+
+
+No 24
+>5HRA_B aspartate/glutamate racemase; Aspartate/glutamate racemase, PLP-independent racemase, Racemization; HET: DAS; 1.597A {Escherichia coli O157:H7 str. SS52}
+Probab=39.53  E-value=25  Score=25.45  Aligned_cols=69  Identities=12%  Similarity=0.065  Sum_probs=40.2  Template_Neff=9.700
+
+Q MGYP0017706875   10 SAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDSKVLGL   81 (94)
+Q Consensus        10 s~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDSK~LG~   81 (94)
+                      +.+.+.......+...|++++....+..+.......   ..+...+..--.+..++..|+|+|++-+.....
+T Consensus        20 ~~i~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~~---~~~~~~~~l~~~~~~l~~~g~d~i~i~C~t~~~   88 (235)
+T 5HRA_B           20 RLINEGIKQRLGGLHSAQVLLHSVDFHEIEECQRRG---EWDKTGDILAEAALGLQRAGAEGIVLCTNTMHK   88 (235)
+T ss_dssp             HHHHHHHHHHHCTTCCCCEEEEECCHHHHHHHHHHT---CHHHHHHHHHHHHHHHHHHTCCEEEESCSGGGG
+T ss_pred             HHHHHHHHHHhCCCcccEEEEEeCCHHHHHHHhhcC---CchHHHHHHHHHHHHHHHcCCCEEEEcCccHhh
+Confidence            344444444444667788999888554444332211   112233333445667788999999998776655
+
+
+No 25
+>6J5I_G ATP synthase subunit alpha, mitochondrial; membrane protein; HET: ADP, ATP; 3.34A {Sus scrofa}
+Probab=39.35  E-value=25  Score=26.65  Aligned_cols=34  Identities=21%  Similarity=0.296  Sum_probs=24.7  Template_Neff=9.000
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +...+.+.+++++..|-++.++.+|+.+.+|++.
+T Consensus        85 i~k~~~~~~~~~~~~~~~~~ii~iG~k~~~~l~~  118 (272)
+T 6J5I_G           85 VAKQIKSEVANLTAAGKEVKIVGVGDKIRGILHR  118 (272)
+T ss_pred             HHHHHHHHHHhHHhcCCeeEEEEecHHHHHHHHH
+Confidence            4444555555554567889999999999998884
+
+
+No 26
+>4PT2_B Encapsulin protein; HK97 fold, Shell protein, VIRUS; 4.6A {Myxococcus xanthus}
+Probab=36.77  E-value=29  Score=25.23  Aligned_cols=71  Identities=18%  Similarity=0.235  Sum_probs=48.8  Template_Neff=10.400
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGF-EPDLVLFGKEAYEFLKEQVNEEFGG--EDGISEISGLKVKIVEEFGK-DAVVIDSKV   78 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~-ePDvvL~G~eayeFl~eqv~eefgg--ee~~~elsglkV~ileELG~-DAVViDSK~   78 (94)
+                      .+++.|.+.+.++...|+ .|+.+++-+..+.++..... ..|.  -+...+..|++|..-..++. .+++.|++.
+T Consensus       160 ~~~~di~~a~~~l~~~~~~~~~~~~~~~~~~~~l~~~~~-~~g~~~~~~~~~~~g~~i~~s~~~~~~~~~~~d~~~  234 (287)
+T 4PT2_B          160 GGFQAIVEATRKLNEQGHFGPYAVVLSPRLYSQLHRIYE-KTGVLEIETIRQLASDGVYQSNRLRGESGVVVSTGR  234 (287)
+T ss_dssp             CCCHHHHHHHHHHHHTTCCCCEEEEECHHHHHHTSCSCC-SSSSCHHHHHHHHHEEEEEECSSSCSSCEEEEECCT
+T ss_pred             chHHHHHHHHHHHHHCCCCCCEEEEECHHHHHHHHHHhc-cCCccHHHHHHHHhcCCeEEcCCCCCCcEEEEEcCC
+Confidence            456777788888888886 89999999999998875432 1111  11244566778877777754 466667664
+
+
+No 27
+>5ELL_B Asp/Glu_racemase family protein (E.C.5.1.1.13); Asp/Glu racemase, L-form specific racemase; 1.801A {Escherichia coli}
+Probab=36.23  E-value=30  Score=24.98  Aligned_cols=68  Identities=13%  Similarity=0.113  Sum_probs=37.7  Template_Neff=9.800
+
+Q MGYP0017706875   10 SAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDSKVLG   80 (94)
+Q Consensus        10 s~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDSK~LG   80 (94)
+                      +.|.+..+....+...|++++....+..+......   +..+.+....-=.+..++..|+|+|++-+....
+T Consensus        20 ~~i~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~---~~~~~~~~~l~~~~~~l~~~g~d~ivi~C~t~~   87 (238)
+T 5ELL_B           20 RLINEGIKQRLGGLHSAQVLLHSVDFHEIEECQRR---GEWDKTGDILAEAALGLQRAGAEGIVLCTNTMH   87 (238)
+T ss_dssp             HHHHHHHHHHHCTTCCCCEEEEECCHHHHHHHHHT---TCHHHHHHHHHHHHHHHHHTTCCEEEESCSGGG
+T ss_pred             HHHHHHHHHHhCCCcccEEEEEeCCHHHHHHHHhc---CCchHHHHHHHHHHHHHHHcCCCEEEEcCccHH
+Confidence            34444444444456778899888855444433321   111112222222344667789999999877654
+
+
+No 28
+>6RDB_S Mitochondrial ATP synthase subunit c; mitochondrial ATP synthase dimer flexible; HET: ADP, ATP; 2.8A {Polytomella sp. Pringsheim 198.80}
+Probab=35.84  E-value=31  Score=27.70  Aligned_cols=35  Identities=11%  Similarity=0.141  Sum_probs=24.7  Template_Neff=7.900
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +++..+.+.+++++..|-+++++.+|+..++|++.
+T Consensus       118 ~I~k~~~~~~~~~~~~~~~~~ii~IGkKg~~~l~~  152 (317)
+T 6RDB_S          118 NITKYTRATLATTESEGKDVVVVSIGDKGRSQLTR  152 (317)
+T ss_pred             HHHHHHHHHHHccccCCCceEEEEecHHHHHHHHH
+Confidence            34444555555554456778999999999999984
+
+
+No 29
+>6REB_S ASA-10: Polytomella F-ATP synthase associated; mitochondrial ATP synthase dimer flexible; HET: ADP, ATP; 3.2A {Polytomella sp. Pringsheim 198.80}
+Probab=35.84  E-value=31  Score=27.70  Aligned_cols=35  Identities=11%  Similarity=0.141  Sum_probs=24.7  Template_Neff=7.900
+
+Q MGYP0017706875    7 RVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         7 rvls~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      +++..+.+.+++++..|-+++++.+|+..++|++.
+T Consensus       118 ~I~k~~~~~~~~~~~~~~~~~ii~IGkKg~~~l~~  152 (317)
+T 6REB_S          118 NITKYTRATLATTESEGKDVVVVSIGDKGRSQLTR  152 (317)
+T ss_pred             HHHHHHHHHHHccccCCCceEEEEecHHHHHHHHH
+Confidence            34444555555554456778999999999999984
+
+
+No 30
+>2E0Z_B Virus-like particle; virus-like particle, virus, bacteriophage, HK97; 3.6A {Pyrococcus furiosus}
+Probab=35.61  E-value=31  Score=27.59  Aligned_cols=71  Identities=10%  Similarity=0.064  Sum_probs=46.6  Template_Neff=8.400
+
+Q MGYP0017706875    6 IRVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEE-FGGEDGISEISGLKVKIVEEFGKD-AVVIDS   76 (94)
+Q Consensus         6 Irvls~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~ee-fggee~~~elsglkV~ileELG~D-AVViDS   76 (94)
+                      ..+++.|.++++.|....+.|..+++.|..|..+....... .---+.+.+..+.+|+...+|..| |++++.
+T Consensus       226 ~~i~~dv~~a~~~l~~g~~~P~~L~l~p~~~~~L~~~~~~~g~t~le~i~~~~~~~I~~~~~L~~~~~ll~~~  298 (345)
+T 2E0Z_B          226 EEALNDLMNALQEASNASAGPFGLIINPKRYAKLLKIYEKSGKMLVEVLKEIFRGGIIVTLNIDENKVIIFAN  298 (345)
+T ss_dssp             HHHHHHHHHHHHHHHHHCCSCEEEEECHHHHHHTTSEETTTTEEHHHHHTTSCTTEEEECSSSCTTCEEEEEC
+T ss_pred             HHHHHHHHHHHHHHHhcCCCCcEEEECHHHHHHHhHHhCCCCccHHHHHHHHcCCCEEEecccCCCeEEEEEC
+Confidence            35777888888888884555999999999999999666210 001122333333378888888653 555554
+
+
+No 31
+>2E0Z_C Virus-like particle; virus-like particle, virus, bacteriophage, HK97; 3.6A {Pyrococcus furiosus}
+Probab=35.61  E-value=31  Score=27.59  Aligned_cols=71  Identities=10%  Similarity=0.064  Sum_probs=45.1  Template_Neff=8.400
+
+Q MGYP0017706875    6 IRVLSAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEE-FGGEDGISEISGLKVKIVEEFGKD-AVVIDS   76 (94)
+Q Consensus         6 Irvls~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~ee-fggee~~~elsglkV~ileELG~D-AVViDS   76 (94)
+                      ..+++.|.++++.|....+.|..+++.|..|..+....... .---+.+.+..+.+|+...+|..| |++++.
+T Consensus       226 ~~i~~dv~~a~~~l~~g~~~P~~L~l~p~~~~~L~~~~~~~g~t~le~i~~~~~~~I~~~~~L~~~~~ll~~~  298 (345)
+T 2E0Z_C          226 EEALNDLMNALQEASNASAGPFGLIINPKRYAKLLKIYEKSGKMLVEVLKEIFRGGIIVTLNIDENKVIIFAN  298 (345)
+T ss_dssp             TTHHHHHHHHHHHHHTTCCSCEEEEECHHHHHHTCCC--------CCSHHHHCTTEEEECTTSCTTCEEEEEC
+T ss_pred             HHHHHHHHHHHHHHHhcCCCCcEEEECHHHHHHHhHHhCCCCccHHHHHHHHcCCCEEEecccCCCeEEEEEC
+Confidence            35777888888888884555999999999999999666210 001122333333378888888653 555554
+
+
+No 32
+>5IK2_G ATP synthase subunit alpha (E.C.3.6.3.14); Hydrolase, F1-ATPase, Complex; HET: GOL, MG, ADP, PO4; 2.6A {Caldalkalibacillus thermarum TA2.A1}
+Probab=35.44  E-value=32  Score=26.31  Aligned_cols=20  Identities=20%  Similarity=0.328  Sum_probs=17.7  Template_Neff=9.000
+
+Q MGYP0017706875   22 DGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        22 dG~ePDvvL~G~eayeFl~e   41 (94)
+                      ++-+++++.+|+.+.+|+++
+T Consensus       108 ~~~~~~ii~IG~k~~~~l~~  127 (285)
+T 5IK2_G          108 SKDEYVIFAVGRKGRDFFKK  127 (285)
+T ss_dssp             SGGGEEEEEESHHHHHHHHH
+T ss_pred             CCCceEEEEEcHHHHHHHHH
+Confidence            47789999999999999983
+
+
+No 33
+>3BJQ_F Phage-related protein; PHAGE-RELATED PROTEIN, STRUCTURAL GENOMICS, JOINT; HET: PG4, MSE; 2.05A {Bordetella bronchiseptica RB50}
+Probab=30.84  E-value=42  Score=25.53  Aligned_cols=34  Identities=21%  Similarity=0.301  Sum_probs=26.2  Template_Neff=9.600
+
+Q MGYP0017706875    8 VLSAVEEKANELK-MDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK-~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      .+..|...+..++ ..|+.|+.++++++.+..+..
+T Consensus       158 pi~di~~~~~~~~~~~g~~p~~iv~~~~~~~~l~~  192 (316)
+T 3BJQ_F          158 PTKDVETAKEAIADSIGMEPNRLMLSRKALSACKY  192 (316)
+T ss_dssp             HHHHHHHHHHHHHHHHSSCCCEEEEEHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHhhCCCCCEEEECHHHHHHHHh
+Confidence            4455666666664 468999999999999999874
+
+
+No 34
+>3BJQ_E Phage-related protein; PHAGE-RELATED PROTEIN, STRUCTURAL GENOMICS, JOINT; HET: PG4; 2.05A {Bordetella bronchiseptica RB50}
+Probab=30.84  E-value=42  Score=25.53  Aligned_cols=34  Identities=21%  Similarity=0.301  Sum_probs=26.2  Template_Neff=9.600
+
+Q MGYP0017706875    8 VLSAVEEKANELK-MDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus         8 vls~vEekaNELK-~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      .+..|...+..++ ..|+.|+.++++++.+..+..
+T Consensus       158 pi~di~~~~~~~~~~~g~~p~~iv~~~~~~~~l~~  192 (316)
+T 3BJQ_E          158 PTKDVETAKEAIADSIGMEPNRLMLSRKALSACKY  192 (316)
+T ss_dssp             HHHHHHHHHHHHHHHHSSCCCEEEEEHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHhhCCCCCEEEECHHHHHHHHh
+Confidence            4455666666664 468999999999999999874
+
+
+No 35
+>6Q45_O ATP synthase subunit alpha (E.C.3.6.3.14); Complex, Fusobacterium, HYDROLASE, ATPase; HET: ADP, ATP, MG; 3.6A {Fusobacterium nucleatum subsp. nucleatum ATCC 25586}
+Probab=30.71  E-value=43  Score=25.60  Aligned_cols=19  Identities=21%  Similarity=0.562  Sum_probs=15.5  Template_Neff=9.000
+
+Q MGYP0017706875   23 GFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        23 G~ePDvvL~G~eayeFl~e   41 (94)
+                      +-+.+++.+|+.+++|++.
+T Consensus       109 ~~~~~li~iG~k~~~~l~~  127 (282)
+T 6Q45_O          109 NKNITIIPFGRKAIDFITK  127 (282)
+T ss_dssp             CCCEEEEEESHHHHHHHHH
+T ss_pred             CCCeEEEEEcHHHHHHHHh
+Confidence            5556778899999999984
+
+
+No 36
+>2JIZ_N ATP SYNTHASE SUBUNIT ALPHA HEART; HYDROLASE, MITOCHONDRION, PYRROLIDONE CARBOXYLIC ACID; HET: STL, PO4, GOL, MG, ANP, ADP; 2.3A {BOS TAURUS} SCOP: i.3.1.1
+Probab=27.62  E-value=52  Score=24.92  Aligned_cols=32  Identities=19%  Similarity=0.302  Sum_probs=13.1  Template_Neff=9.100
+
+Q MGYP0017706875   10 SAVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        10 s~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      ..+.+.++++...|-++.++.+|+...+|++.
+T Consensus        87 k~~~~~~~~~~~~~~~~~ii~iG~k~~~~l~~  118 (272)
+T 2JIZ_N           87 KQMKSEAANLAAAGKEVKIIGVGDKIRSILHR  118 (272)
+T ss_dssp             HHHC--------------CEEESHHHHHHC--
+T ss_pred             HHHHHHHHHHHHcCCceEEEEEcHHHHHHHHh
+Confidence            33334443333457788999999999999984
+
+
+No 37
+>2JDI_G ATP SYNTHASE SUBUNIT ALPHA HEART; ATP PHOSPHORYLASE, HYDROLASE, ATP SYNTHESIS; HET: ANP; 1.9A {BOS TAURUS} SCOP: c.49.2.1
+Probab=27.30  E-value=53  Score=24.97  Aligned_cols=31  Identities=19%  Similarity=0.310  Sum_probs=11.6  Template_Neff=9.000
+
+Q MGYP0017706875   11 AVEEKANELKMDGFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        11 ~vEekaNELK~dG~ePDvvL~G~eayeFl~e   41 (94)
+                      .+.+.+.++...|-++.++.+|+..++|++.
+T Consensus        88 ~~~~~~~~~~~~~~~~~ii~iG~k~~~~l~~  118 (273)
+T 2JDI_G           88 QMKSEAANLAAAGKEVKIIGVGDKIRSILHR  118 (273)
+T ss_dssp             -----------------CCCBSHHHHHHC--
+T ss_pred             HHHHHHHHHHHcCCceEEEEEcHHHHHHHHh
+Confidence            3333343333457788999999999999884
+
+
+No 38
+>6F0K_D Cytochrome c family protein, Fe-S-cluster-containing; electron transfer, quinol oxidation, respiratory; HET: SF4, HEC;{Rhodothermus marinus (strain ATCC 43812 / DSM 4252 / R-10)}
+Probab=27.16  E-value=54  Score=25.11  Aligned_cols=26  Identities=12%  Similarity=-0.051  Sum_probs=20.1  Template_Neff=7.700
+
+Q MGYP0017706875    9 LSAVEEKANELKMDGFEPDLVL-FGKE   34 (94)
+Q Consensus         9 ls~vEekaNELK~dG~ePDvvL-~G~e   34 (94)
+                      .+..++++++|+..||.||-+- +++.
+T Consensus        33 ~~~A~~A~~~L~~~G~~~~~I~vv~~~   59 (217)
+T 6F0K_D           33 PAALLHAARQVRKAGYRHFDAHSPFPI   59 (217)
+T ss_dssp             SSHHHHHHHHHHHSSCCCCEEBCSSCC
+T ss_pred             HHHHHHHHHHHHHcCCCHHHeecccCC
+Confidence            4567899999999999997654 3443
+
+
+No 39
+>6JM4_C Sequestosome-1; PB1, P62/SQSTM1, autophagy, PB1 dimer; 3.20014839602A {Homo sapiens}
+Probab=26.41  E-value=57  Score=22.25  Aligned_cols=39  Identities=23%  Similarity=0.210  Sum_probs=28.2  Template_Neff=7.500
+
+Q MGYP0017706875   33 KEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDS   76 (94)
+Q Consensus        33 ~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDS   76 (94)
+                      +-.|+-+...+.+.|++-    ....+.+.++++ .+|.|.+.|
+T Consensus        41 ~~s~~~L~~~v~~~f~~l----~~~~~~l~Y~D~-dgD~V~i~s   79 (102)
+T 6JM4_C           41 PGPCERLLSRVAALFPAL----RPGGFQAHYRAE-RGDLVAFSS   79 (102)
+T ss_dssp             -CHHHHHHHHHHHHSTTC----CTTSEEEEEECT-TSCEEEECS
+T ss_pred             CCcHHHHHHHHHHHChhc----CCCceEEEEEcC-CCCEEEecC
+Confidence            345788888888888542    124678889998 679998877
+
+
+No 40
+>1IV0_A hypothetical protein; hypothetical protein, RNaseH-like, YqgF, STRUCTURAL; NMR {Thermus thermophilus} SCOP: c.55.3.8
+Probab=24.72  E-value=64  Score=20.78  Aligned_cols=13  Identities=8%  Similarity=-0.087  Sum_probs=10.6  Template_Neff=8.900
+
+Q MGYP0017706875   23 GFEPDLVLFGKEA   35 (94)
+Q Consensus        23 G~ePDvvL~G~ea   35 (94)
+                      -++||.+++|.-+
+T Consensus        49 ~~~~~~ivig~p~   61 (98)
+T 1IV0_A           49 REGLGKLVVGLPL   61 (98)
+T ss_dssp             HHTCCEEEEECCC
+T ss_pred             HhCCCEEEEeccc
+Confidence            4789999999833
+
+
+No 41
+>6NLH_D Triosephosphate isomerase (E.C.5.3.1.1); isomerase; HET: NA, PO4; 2.199A {Homo sapiens}
+Probab=22.96  E-value=73  Score=25.45  Aligned_cols=39  Identities=13%  Similarity=0.134  Sum_probs=29.9  Template_Neff=6.900
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGKE--------AYEFLKEQVNEEF   47 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~e--------ayeFl~eqv~eef   47 (94)
+                      .-+.|..|+..+...|+.| ++.+|..        .++++.+|++..+
+T Consensus       102 ~~~~i~~Kv~~al~~gl~p-IlCige~~~~~~~~~~~~~l~~Ql~~~l  148 (245)
+T 6NLH_D          102 SDELIGQKVAHALAEGLGV-IACIGEKLDEREAGITEKVVFEQTKVIA  148 (245)
+T ss_dssp             CHHHHHHHHHHHHHTTCEE-EEEECCCHHHHHTTCHHHHHHHHHHHHH
+T ss_pred             cHHHHHHHHHHHHHcCCEE-EEEecCChHHhhhcccHHHHHHHHHHHH
+Confidence            3456779999999999999 8888883        3448888887555
+
+
+No 42
+>3J1A_G capsid protein; halophage, bacteriophage HK97, bacteriophage T7; 16.0A {Great Salt Lake bacteriophage CW02}
+Probab=22.87  E-value=73  Score=21.63  Aligned_cols=69  Identities=9%  Similarity=0.038  Sum_probs=44.9  Template_Neff=10.700
+
+Q MGYP0017706875    9 LSAVEEKANELKMDGFEPDLVLFGKEAYEFLKEQVNEEFGG-------EDGISEISGLKVKIVEEFGK-DAVVIDSKV   78 (94)
+Q Consensus         9 ls~vEekaNELK~dG~ePDvvL~G~eayeFl~eqv~eefgg-------ee~~~elsglkV~ileELG~-DAVViDSK~   78 (94)
+                      .+.+.+.+..+...++.|+++++-|..+..+..... .-|.       ......+.|++|.+.+.+.. ++++.|.+.
+T Consensus        74 ~~~l~~~~~~~~~~~~~~~~~v~~~~~~~~l~~~~~-~~g~~~~~~~~~g~~~~l~G~~v~~s~~~~~~~~~~~d~~~  150 (199)
+T 3J1A_G           74 ADIIAHAIYQVTESEFSASGIVLNPRDWHNIALLKD-NEGRYIFGGPQAFTSNIMWGLPVVPTKAQAAGTFTVGGFDM  150 (199)
+T ss_pred             HHHHHHHHHhccccCCCCcEEEECHHHHHHHHhhhc-CCCCccccCCCCCCCCcccCeeEEEcCCCCCCCeeEEeccc
+Confidence            344555666777778889999999999998855432 1110       01123466888888887754 567777654
+
+
+No 43
+>6TDY_G ATP synthase subunit alpha, ATP; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: ATP, ADP, TRT; 3.04A {Euglena gracilis}
+Probab=22.44  E-value=76  Score=25.09  Aligned_cols=19  Identities=16%  Similarity=0.303  Sum_probs=17.2  Template_Neff=8.400
+
+Q MGYP0017706875   23 GFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        23 G~ePDvvL~G~eayeFl~e   41 (94)
+                      +.+++++++|..+++|++.
+T Consensus       101 ~~~~~~ivIG~k~~~~l~~  119 (306)
+T 6TDY_G          101 NPKMTIISVGKKALDAMTK  119 (306)
+T ss_dssp             CSSCCEECBSTHHHHHHHH
+T ss_pred             CCCeEEEEEcHHHHHHHHH
+Confidence            6788999999999999985
+
+
+No 44
+>6TE0_G ATP synthase subunit alpha, ATP; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: ATP, ADP, TRT; 3.92A {Euglena gracilis}
+Probab=22.44  E-value=76  Score=25.09  Aligned_cols=19  Identities=16%  Similarity=0.303  Sum_probs=17.2  Template_Neff=8.400
+
+Q MGYP0017706875   23 GFEPDLVLFGKEAYEFLKE   41 (94)
+Q Consensus        23 G~ePDvvL~G~eayeFl~e   41 (94)
+                      +.+++++++|..+++|++.
+T Consensus       101 ~~~~~~ivIG~k~~~~l~~  119 (306)
+T 6TE0_G          101 NPKMTIISVGKKALDAMTK  119 (306)
+T ss_pred             CCCeEEEEEcHHHHHHHHH
+Confidence            6788999999999999985
+
+
+No 45
+>4Y68_A Nisin resistance protein; lipoprotein, lantibiotic, peptidase, hydrolase; HET: MES; 2.21A {Streptococcus agalactiae 515}
+Probab=21.35  E-value=82  Score=24.66  Aligned_cols=27  Identities=26%  Similarity=0.303  Sum_probs=18.6  Template_Neff=8.800
+
+Q MGYP0017706875   18 ELKMDGFEPDLVLFGK--EAYEFLKEQVN   44 (94)
+Q Consensus        18 ELK~dG~ePDvvL~G~--eayeFl~eqv~   44 (94)
+                      .....|+.||+.+--.  +|.+|++++.+
+T Consensus       282 ~~~~~Gi~PDi~v~~~~~~a~~~l~~~~~  310 (312)
+T 4Y68_A          282 KYENTPILPDQVTSLPLQESQSWLKSRIN  310 (312)
+T ss_dssp             EESSCCCCCSEECSCHHHHHHHHHHHHC-
+T ss_pred             eeCCCccCCCEEcCCCHHHHHHHHHhhcc
+Confidence            3456899999988654  56677776654
+
+
+No 46
+>5TCS_C ?; RWD, CH, coiled-coil, tetramer, Ndc80; HET: MSE; 2.8313A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=20.83  E-value=86  Score=22.94  Aligned_cols=21  Identities=19%  Similarity=0.295  Sum_probs=14.3  Template_Neff=4.900
+
+Q MGYP0017706875   59 LKVKIVEEFGKDAVVIDSKVL   79 (94)
+Q Consensus        59 lkV~ileELG~DAVViDSK~L   79 (94)
+                      ||..+-..||.+++.-++|++
+T Consensus        47 LrL~lYR~LG~~~~~d~~K~l   67 (100)
+T 5TCS_C           47 ARLKLYRSLGVILDLENDQVL   67 (100)
+T ss_dssp             HHHHHHHHHTEEEETTTTEEE
+T ss_pred             HHHHHHHhcCCEEEcCCCEEE
+Confidence            677777888888776544443
+
+
+No 47
+>3CPF_B Eukaryotic translation initiation factor 5A-1; Structural Genomics Consortium, leukemia, apoptosis; 2.5A {Homo sapiens}
+Probab=20.76  E-value=86  Score=22.01  Aligned_cols=16  Identities=13%  Similarity=0.387  Sum_probs=12.6  Template_Neff=8.200
+
+Q MGYP0017706875   58 GLKVKIVEEFGKDAVV   73 (94)
+Q Consensus        58 glkV~ileELG~DAVV   73 (94)
+                      .+.|.+++.+|.+++|
+T Consensus       119 ~v~v~~~~~~~~~~~~  134 (138)
+T 3CPF_B          119 EILITVLSAMTEEAAV  134 (138)
+T ss_dssp             CCEEEEEEETTEEEEE
+T ss_pred             EEEEEEEecCceEEEE
+Confidence            4778888888888775
+
+
+No 48
+>4P61_A Triosephosphate isomerase (E.C.5.3.1.1); TRIOSEPHOSPHATE ISOMERASE, ISOMERASE; 1.34A {Gallus gallus}
+Probab=20.66  E-value=87  Score=25.02  Aligned_cols=39  Identities=13%  Similarity=0.117  Sum_probs=29.8  Template_Neff=7.000
+
+Q MGYP0017706875    8 VLSAVEEKANELKMDGFEPDLVLFGK--------EAYEFLKEQVNEEF   47 (94)
+Q Consensus         8 vls~vEekaNELK~dG~ePDvvL~G~--------eayeFl~eqv~eef   47 (94)
+                      .-+.|.+|++.+...|+.| ++.+|.        ...+++.+|++.-+
+T Consensus       105 ~~~~i~~Kv~~al~~gl~p-IlCigE~~~~~~~~~~~~~l~~Ql~~~l  151 (248)
+T 4P61_A          105 SDELIGQKVAHALAEGLGV-IACIGEKLDEREAGITEKVVFEQTKAIA  151 (248)
+T ss_dssp             CHHHHHHHHHHHHHTTCEE-EEEECCCHHHHHHTCHHHHHHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHCCCeE-EEEecCChhHhhhcccHHHHHHHHHHHH
+Confidence            3456779999999999999 888888        34447788887544
+
+
+No 49
+>2DX7_B aspartate racemase (E.C.5.1.1.13); aspartate racemase, ISOMERASE; HET: CIT; 2.0A {Pyrococcus horikoshii} SCOP: c.78.2.1
+Probab=20.64  E-value=87  Score=22.55  Aligned_cols=59  Identities=17%  Similarity=0.205  Sum_probs=34.6  Template_Neff=9.800
+
+Q MGYP0017706875   20 KMDGFEPDLVLFG-KEAYEFLKEQVNEEFGGEDGISEISGLKVKIVEEFGKDAVVIDSKVLGLG   82 (94)
+Q Consensus        20 K~dG~ePDvvL~G-~eayeFl~eqv~eefggee~~~elsglkV~ileELG~DAVViDSK~LG~~   82 (94)
+                      +.|.-.|+++++. +..-..... .   .++.+.+.....-.+..++..|+|+|++-+......
+T Consensus        29 ~~~~~~~~i~~~~~~~~~~~~~~-~---~~~~~~~~~~l~~~~~~l~~~g~d~ivi~Cnt~~~~   88 (228)
+T 2DX7_B           29 KRDQEHPKVIIFNNPQIPDRTAY-I---LGKGEDPRPQLIWTAKRLEECGADFIIMPANTAHAF   88 (228)
+T ss_dssp             SSGGGSCCEEEEECTTSCCHHHH-H---HSSCCCCHHHHHHHHHHHHHHTCSEEECCCSGGGGG
+T ss_pred             cCCCCCCcEEEEeCCCcccHHHH-H---cCCCCCcHHHHHHHHHHHHHcCCCEEEEeChhhchh
+Confidence            3455669999998 432222211 1   112233344444456677889999999988776544
+
+
+No 50
+>2LTA_A OR157; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {artificial gene}
+Probab=20.14  E-value=90  Score=23.74  Aligned_cols=29  Identities=31%  Similarity=0.421  Sum_probs=20.3  Template_Neff=1.000
+
+Q MGYP0017706875   11 AVEEKANELKMDGFEPDLVLFGKEAYEFL   39 (94)
+Q Consensus        11 ~vEekaNELK~dG~ePDvvL~G~eayeFl   39 (94)
+                      .++++|+.||..||+---|---.+.-.|+
+T Consensus        41 rleekiqklksqgfevrkvkddddidkwi   69 (110)
+T 2LTA_A           41 RLEEKIQKLKSQGFEVRKVKDDDDIDKWI   69 (110)
+Confidence            47899999999999976554444433443
+
+
+No 51
+>3JB5_D major capsid protein; acne, bacteriophage, HK97-like, VIRUS; 3.7A {Propionibacterium phage PA6}
+Probab=20.13  E-value=91  Score=23.48  Aligned_cols=73  Identities=16%  Similarity=0.103  Sum_probs=47.2  Template_Neff=10.000
+
+Q MGYP0017706875    9 LSAVEEKANELKMD-GFEPDLVLFGKEAYEFLKEQVNEE----FGGE-------DGISEISGLKVKIVEEFGK-------   69 (94)
+Q Consensus         9 ls~vEekaNELK~d-G~ePDvvL~G~eayeFl~eqv~ee----fgge-------e~~~elsglkV~ileELG~-------   69 (94)
+                      ++.|...+..+... ++.|+..++-+..+..+.......    |+..       .....+.|++|.+.+.+..       
+T Consensus       157 ~~~l~~~~~~i~~~~~~~~~~~v~~~~~~~~l~~~~d~~g~~l~~~~~~~~~~~g~~~~l~G~pv~~s~~~~~~~~~~~~  236 (315)
+T 3JB5_D          157 TADLVKAVGLIAGAGLQVPNGVALDPAFSFALSTEVYPKGSPLAGQPMYPAAGFAGLDNWRGLNVGASSTVSGAPEMSPA  236 (315)
+T ss_dssp             HHHHHHHHHHHHTTSCSCCCCEEECHHHHTTSCCCBCCSSSSSTTCBSSCCSSSTTCCEETTEEEEECTTTTTTTTSSSC
+T ss_pred             HHHHHHHHHHHHccCCCCCCEEEECHHHHHHHhhccCCCCCCCCCCCCCCcccCCCCcceeceEEEeccccCCCccCCCC
+Confidence            34445555666555 788899889998888877654321    1111       1244577899999988865       
+
+
+Q MGYP0017706875   70 ---DAVVIDSKVLGL   81 (94)
+Q Consensus        70 ---DAVViDSK~LG~   81 (94)
+                         .+++.|.+.+-.
+T Consensus       237 ~~~~~~~gd~~~~~~  251 (315)
+T 3JB5_D          237 SGVKAIVGDFSRVHW  251 (315)
+T ss_dssp             CCCCEEESCGGGEEE
+T ss_pred             CccEEEEEcccceEE
+Confidence               467788886433
+
+

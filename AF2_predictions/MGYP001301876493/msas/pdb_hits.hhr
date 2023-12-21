@@ -1,0 +1,907 @@
+Query         MGYP001301876493 FL=0
+Match_columns 369
+No_of_seqs    136 out of 1624
+Neff          7.24102
+Searched_HMMs 80799
+Date          Wed Dec 20 22:34:28 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmpport53id/query.a3m -o /tmp/tmpport53id/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5L9W_B Acetophenone carboxylas  98.6 9.7E-11 1.2E-15  127.8   0.0   55  236-291   465-519 (732)
+  2 5M45_H Acetone carboxylase alp  98.6 9.9E-11 1.2E-15  127.5   0.0   56  236-291   465-521 (717)
+  3 5L9W_b Acetophenone carboxylas  98.2   4E-09 4.9E-14  114.3   0.0   57  236-292   428-485 (658)
+  4 3CET_A Conserved archaeal prot  84.8    0.53 6.6E-06   48.1   0.0   41  238-279   278-322 (334)
+  5 3CET_B Conserved archaeal prot  84.8    0.53 6.6E-06   48.1   0.0   41  238-279   278-322 (334)
+  6 6AWJ_A Type II pantothenate ki  68.9     3.6 4.5E-05   39.8   0.0   42  237-278   218-265 (266)
+  7 3QKB_A Uncharacterized protein  64.7       5 6.2E-05   34.3   0.0   52  313-365    56-107 (111)
+  8 3QKB_D Uncharacterized protein  64.7       5 6.2E-05   34.3   0.0   52  313-365    56-107 (111)
+  9 1HUX_A ACTIVATOR OF (R)-2-HYDR  57.3     8.4  0.0001   36.0   0.0   44  238-281   211-256 (270)
+ 10 3CET_A Conserved archaeal prot  55.8     9.3 0.00011   39.4   0.0   30  132-161   222-252 (334)
+ 11 3CET_B Conserved archaeal prot  55.8     9.3 0.00011   39.4   0.0   30  132-161   222-252 (334)
+ 12 5JIC_A TYPE II PANTOTHENATE KI  48.7      14 0.00018   36.1   0.0   43  236-278   217-265 (273)
+ 13 5E26_B Pantothenate kinase 2,   42.3      21 0.00026   37.1   0.0   43  237-279   312-363 (365)
+ 14 5KPR_A Pantothenate kinase 3 (  39.5      25 0.00031   36.9   0.0   44  237-280   323-375 (380)
+ 15 6B3V_A Pantothenate kinase 3 (  39.5      25 0.00031   36.9   0.0   44  237-280   323-375 (380)
+ 16 4APW_M ALP12; STRUCTURAL PROTE  38.1      27 0.00033   34.4   0.0   41  238-278   281-321 (329)
+ 17 6IZR_E Putative plasmid segreg  37.8      27 0.00034   34.6   0.0   41  238-278   305-345 (349)
+ 18 4EHU_A Activator of 2-hydroxyi  36.0      31 0.00038   33.3   0.0   47  236-282   207-255 (276)
+ 19 4EHU_B Activator of 2-hydroxyi  36.0      31 0.00038   33.3   0.0   47  236-282   207-255 (276)
+ 20 4CZF_A ROD SHAPE-DETERMINING P  35.5      32 0.00039   33.9   0.0   46  238-283   282-329 (348)
+ 21 4CZG_A ROD SHAPE-DETERMINING P  35.5      32 0.00039   33.9   0.0   46  238-283   282-329 (348)
+ 22 2LNB_A Z-DNA-binding protein 1  34.3      34 0.00042   27.4   0.0   42   89-130    20-66  (80)
+ 23 2ZGY_B Plasmid segregation pro  33.2      36 0.00045   33.2   0.0   40  238-277   275-317 (320)
+ 24 2ZGZ_A Plasmid segregation pro  33.2      36 0.00045   33.2   0.0   40  238-277   275-317 (320)
+ 25 4A6J_G PLASMID SEGREGATION PRO  33.2      36 0.00045   33.2   0.0   40  238-277   275-317 (320)
+ 26 6IXW_A pCBH ParM; Actin ParM,   31.1      42 0.00052   33.4   0.0   41  237-277   306-346 (352)
+ 27 1JCE_A rod shape-determining p  30.7      43 0.00053   32.9   0.0   43  237-279   279-323 (344)
+ 28 1JCF_A rod shape-determining p  30.7      43 0.00053   32.9   0.0   43  237-279   279-323 (344)
+ 29 5HTV_A Putative xylulose kinas  30.0      45 0.00055   35.2   0.0   40  238-279   388-429 (439)
+ 30 5HTX_A Putative xylulose kinas  30.0      45 0.00055   35.2   0.0   40  238-279   388-429 (439)
+ 31 5OOW_B Chaperone protein DnaK;  29.5      46 0.00057   29.6   0.0   41  238-278   157-199 (207)
+ 32 5EC0_A Alp7A; Actins, Actin-li  29.1      47 0.00059   33.9   0.0   43  238-280   323-374 (388)
+ 33 2L4M_A Uncharacterized protein  28.5      49 0.00061   25.7   0.0   42   89-131    12-59  (69)
+ 34 2D1H_A 109aa long hypothetical  27.7      52 0.00064   27.1   0.0   17  116-132    54-70  (109)
+ 35 2D1H_B 109aa long hypothetical  27.7      52 0.00064   27.1   0.0   17  116-132    54-70  (109)
+ 36 3GBT_A Gluconate kinase (E.C.2  27.6      52 0.00065   35.5   0.0   42  238-280   396-439 (504)
+ 37 3LL3_A Gluconate kinase (E.C.2  27.6      52 0.00065   35.5   0.0   42  238-280   396-439 (504)
+ 38 3H1Q_B Ethanolamine utilizatio  27.6      52 0.00065   31.2   0.0   40  238-277   229-270 (272)
+ 39 1VR4_D hypothetical protein AP  27.2      54 0.00067   27.4   0.0   68  264-336     9-77  (103)
+ 40 1VR4_E hypothetical protein AP  27.2      54 0.00067   27.4   0.0   68  264-336     9-77  (103)
+ 41 3JS6_A Uncharacterized ParM pr  27.0      55 0.00068   32.8   0.0   41  238-278   293-333 (355)
+ 42 3HZ6_A Xylulokinase (E.C.2.7.1  25.7      59 0.00074   35.1   0.0   42  238-279   405-448 (511)
+ 43 3KZB_A Xylulokinase (E.C.2.7.1  25.7      59 0.00074   35.1   0.0   42  238-279   405-448 (511)
+ 44 2JYA_A Uncharacterized protein  25.7      60 0.00074   27.9   0.0   20  304-323    56-75  (106)
+ 45 2LJU_A Putative oxidoreductase  25.4      61 0.00075   28.0   0.0   22  304-325    64-85  (108)
+ 46 3EYI_A Z-DNA-binding protein 1  25.0      62 0.00077   25.4   0.0   42   89-131    11-58  (72)
+ 47 3Q5F_A Transcriptional regulat  24.6      65  0.0008   27.9   0.0   46   86-131    32-82  (147)
+ 48 2ITM_B Xylulose kinase (E.C.2.  23.8      68 0.00084   34.3   0.0   44  238-281   389-434 (484)
+ 49 2NLX_A Xylulose kinase (E.C.2.  23.8      68 0.00084   34.3   0.0   44  238-281   389-434 (484)
+ 50 2NLX_B Xylulose kinase (E.C.2.  23.8      68 0.00084   34.3   0.0   44  238-281   389-434 (484)
+ 51 1Y2I_B Hypothetical Protein S0  23.7      69 0.00085   28.5   0.0   68  264-336    33-101 (133)
+ 52 5XTB_L NADH dehydrogenase [ubi  23.1      72 0.00089   28.0   0.0   20  304-323    69-88  (118)
+ 53 5XTD_L NADH dehydrogenase [ubi  22.7      74 0.00092   28.0   0.0   20  304-323    69-88  (118)
+ 54 3I8B_A Xylulose kinase; Xylulo  21.8      79 0.00098   34.4   0.0   42  238-280   427-470 (515)
+ 55 6UDE_B Glycerol kinase (E.C.2.  21.1      84   0.001   34.0   0.0   42  238-280   413-456 (507)
+ 56 6UDE_D Glycerol kinase (E.C.2.  21.1      84   0.001   34.0   0.0   42  238-280   413-456 (507)
+ 57 2YZT_A Putative uncharacterize  20.7      86  0.0011   23.3   0.0   43  284-326     5-50  (67)
+ 58 4CZM_B ROD SHAPE-DETERMINING P  20.5      88  0.0011   30.8   0.0   45  238-282   282-328 (348)
+ 59 4BC2_A XYLULOSE KINASE (E.C.2.  20.4      89  0.0011   34.2   0.0   41  238-279   437-479 (538)
+ 60 4BC3_B XYLULOSE KINASE (E.C.2.  20.4      89  0.0011   34.2   0.0   41  238-279   437-479 (538)
+
+No 1
+>5L9W_B Acetophenone carboxylase delta subunit (E.C.6.4.1.8); Acetophenone carboxylase, ligase; HET: EPE, ADP; 2.9A {Aromatoleum aromaticum (strain EbN1)}
+Probab=98.57  E-value=9.7e-11  Score=127.82  Aligned_cols=55  Identities=11%  Similarity=-0.010  Sum_probs=47.9  Template_Neff=7.000
+
+Q MGYP0013018764  236 SANIAVVGAPALILNKELDEILKASCDIPDTYEVANAFGAAVGRVTVSSEIVVSAP  291 (369)
+Q Consensus       236 ~~PiVgIGAPa~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~~~~v~I~~~  291 (369)
+                      ++.|+++||+++.|.+.+|+.++ +++||+|++|+||+|++++++++..+.++...
+T Consensus       465 ~f~L~afGGaGplha~~iA~~i~-~VivP~~agV~SA~G~~~ad~~~~~~~~~~~~  519 (732)
+T 5L9W_B          465 DFVLFAFGGAGPTHMAGLKGDIP-KAVVFPAAPVFCAMGSSIMDIVHMYEQSRRMV  519 (732)
+T ss_dssp             GCEEEEESSSHHHHHHHHTTTCS-EEEECSCHHHHHHHHHHHCCEEEEEEEEEEEE
+T ss_pred             CcEEEEEcCcHHHHHHHhccCCC-ceEecCCchhccchhHHHcceeEEEeEeeeEE
+Confidence            46799999999999999999633 99999999999999999999998777665543
+
+
+No 2
+>5M45_H Acetone carboxylase alpha subunit (E.C.6.4.1.6); carboxylation, ligase; HET: AMP, AE4, MG, ACT; 1.87A {Xanthobacter autotrophicus Py2}
+Probab=98.56  E-value=9.9e-11  Score=127.45  Aligned_cols=56  Identities=16%  Similarity=0.057  Sum_probs=51.3  Template_Neff=7.000
+
+Q MGYP0013018764  236 SANIAVVGAPALILNKELDEILKA-SCDIPDTYEVANAFGAAVGRVTVSSEIVVSAP  291 (369)
+Q Consensus       236 ~~PiVgIGAPa~~~lp~va~~L~t-~~iiPe~a~VANAVGAv~G~V~~~~~v~I~~~  291 (369)
+                      +++++++||+++.|.+.+|+.||+ +++||+|++|+||+|++++++++.++.++...
+T Consensus       465 ~~~l~~~GGag~~~a~~~a~~lgi~~viiP~~~~v~sA~G~~~ad~~~~~~~s~~~~  521 (717)
+T 5M45_H          465 SFVCFSYGGAGPVHTYGYTEGLGFEDVIVPAWAAGFSAFGCAAADFEYRYDKSLDIN  521 (717)
+T ss_dssp             GCEEEEESSSHHHHHHHHSTTSCCSEEEEETTGGGHHHHHHHHSCEEEEEEEEEEEE
+T ss_pred             ceEEEEeechHHHHHHHHHHhcCCCcEEecCCccccchhHHHhCeeEEEEeceeeee
+Confidence            567899999999999999999999 99999999999999999999999887776543
+
+
+No 3
+>5L9W_b Acetophenone carboxylase delta subunit (E.C.6.4.1.8); Acetophenone carboxylase, ligase; HET: EPE, ADP; 2.9A {Aromatoleum aromaticum (strain EbN1)}
+Probab=98.18  E-value=4e-09  Score=114.34  Aligned_cols=57  Identities=21%  Similarity=0.139  Sum_probs=52.9  Template_Neff=7.700
+
+Q MGYP0013018764  236 SANIAVVGAPALILNKELDEILKA-SCDIPDTYEVANAFGAAVGRVTVSSEIVVSAPS  292 (369)
+Q Consensus       236 ~~PiVgIGAPa~~~lp~va~~L~t-~~iiPe~a~VANAVGAv~G~V~~~~~v~I~~~~  292 (369)
+                      +++|+++||+++.+.+.+|+.||+ ++++|++++|+||+|++++++++.++.++..+-
+T Consensus       428 ~~~lv~~GG~gp~~~~~la~~lgi~~vivP~~~~v~sA~G~~~ad~~~~~~~~~~~~l  485 (658)
+T 5L9W_b          428 DAALFAFGGNGPMFAAFVAERLGVQAAYAFNLGPVFSAFGSAISDVVHVYERGVDLRW  485 (658)
+T ss_dssp             TCEEEEESTTHHHHHHHHHHHHTCSCEEECTTGGGHHHHHHHTCCEEEEEECCCCCCC
+T ss_pred             CcEEEEEcCCHHHHHHHHHHHhCCCEEEcCCChhhccHHHHHhCcEEEEEEEEeEeec
+Confidence            678999999999999999999999 999999999999999999999999888776553
+
+
+No 4
+>3CET_A Conserved archaeal protein; Q6M145, MrR63, NESG, XRAY, Structural; HET: SO4, MSE; 1.8A {Methanococcus maripaludis S2}
+Probab=84.75  E-value=0.53  Score=48.11  Aligned_cols=41  Identities=12%  Similarity=0.061  Sum_probs=35.6  Template_Neff=6.300
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDE---ILKA-SCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~---~L~t-~~iiPe~a~VANAVGAv~G~  279 (369)
+                      |+|++|+++ .+.+.+|+   .++. +++.|+.+.++.|++.+.--
+T Consensus       278 ~lv~~Ggg~-~la~~~A~g~~~~~~~~~~~~~~~~~~pA~ava~l~  322 (334)
+T 3CET_A          278 KVVITGLGE-NILKDALADFEVISVAERYGKDVSLATPSFAVAELL  322 (334)
+T ss_dssp             EEEEESTTH-HHHHHHTTTSEEEEHHHHHCHHHHHSHHHHHHHHHH
+T ss_pred             eEEEECChH-HHHHHHhCCCcEEeHHHHhCccccccchHHHHHHHH
+Confidence            799999999 99999999   7777 78888999999999987643
+
+
+No 5
+>3CET_B Conserved archaeal protein; Q6M145, MrR63, NESG, XRAY, Structural; HET: SO4; 1.8A {Methanococcus maripaludis S2}
+Probab=84.75  E-value=0.53  Score=48.11  Aligned_cols=41  Identities=12%  Similarity=0.061  Sum_probs=35.6  Template_Neff=6.300
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDE---ILKA-SCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~---~L~t-~~iiPe~a~VANAVGAv~G~  279 (369)
+                      |+|++|+++ .+.+.+|+   .++. +++.|+.+.++.|++.+.--
+T Consensus       278 ~lv~~Ggg~-~la~~~A~g~~~~~~~~~~~~~~~~~~pA~ava~l~  322 (334)
+T 3CET_B          278 KVVITGLGE-NILKDALADFEVISVAERYGKDVSLATPSFAVAELL  322 (334)
+T ss_dssp             EEEEESTTH-HHHHHHTTTSEEEEHHHHHCHHHHTSHHHHHHHHHH
+T ss_pred             eEEEECChH-HHHHHHhCCCcEEeHHHHhCccccccchHHHHHHHH
+Confidence            799999999 99999999   7777 78888999999999987643
+
+
+No 6
+>6AWJ_A Type II pantothenate kinase (E.C.2.7.1.33); Staphylococcus aureus, SaPanK, ADP, pantothenate; HET: ADP, N7G; 2.5A {Staphylococcus aureus}
+Probab=68.91  E-value=3.6  Score=39.83  Aligned_cols=42  Identities=19%  Similarity=0.218  Sum_probs=33.0  Template_Neff=9.700
+
+Q MGYP0013018764  237 ANIAVVGAP-A--LILNKELDEIL---KASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       237 ~PiVgIGAP-a--~~~lp~va~~L---~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      .+|+.+|+. .  ..+...+.+.+   +.++++|++.+++.|+||++.
+T Consensus       218 ~~vv~~GG~~~~~~~l~~~l~~~~~~~~~~v~~~~~~~~~gAlGaal~  265 (266)
+T 6AWJ_A          218 ENIVYIGSSFHNNALLRKVVEDYTVLRGCKPYYVENGAFSGAIGALYL  265 (266)
+T ss_dssp             CEEEEESGGGTTCHHHHHHHHHHHHHTTCEEECCTTGGGHHHHHHHTC
+T ss_pred             CEEEEEcccccCCHHHHHHHHHHHHhcCCEEEEecCcccHHHHHHHHc
+Confidence            578889987 3  24555666666   778999999999999999863
+
+
+No 7
+>3QKB_A Uncharacterized protein; BETA/ALPHA-PROPELLER, STRUCTURAL GENOMICS, JOINT CENTER; 2.73A {Pediococcus pentosaceus}
+Probab=64.67  E-value=5  Score=34.27  Aligned_cols=52  Identities=12%  Similarity=0.057  Sum_probs=29.0  Template_Neff=7.200
+
+Q MGYP0013018764  313 KSFAETQAVSTLRRDITQAGAVDFEISNEWDVQNVWLDGRSFFVEAVLRSVAS  365 (369)
+Q Consensus       313 ~~~A~~~~~~~a~~~a~~aGa~~~~v~~~~d~~~~~~~g~~~f~E~~v~a~a~  365 (369)
+                      +.-+++.+.+.++++|++.||+-+ |.+..+.......+..-+++...+.||+
+T Consensus        56 l~~ar~~A~~~L~~~A~~lGAnAV-Igv~~~~~~~~~~~~~~~~~v~a~GTAV  107 (111)
+T 3QKB_A           56 FDQLFDEAKQKLKKKADLLEGDGI-IGLKYNTEVVEVNGAPKFLVVHGYGTVI  107 (111)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCSEE-EEEEEEEEEEEETTEEEEEEEEEEEEEE
+T ss_pred             HHHHHHHHHHHHHHHHHHcCCCEE-EEEEEEEeEEeecCcCcEEEEEEEEEEE
+Confidence            445567777777788888899864 4444333322222222355555555553
+
+
+No 8
+>3QKB_D Uncharacterized protein; BETA/ALPHA-PROPELLER, STRUCTURAL GENOMICS, JOINT CENTER; HET: MSE; 2.73A {Pediococcus pentosaceus}
+Probab=64.67  E-value=5  Score=34.27  Aligned_cols=52  Identities=12%  Similarity=0.057  Sum_probs=29.0  Template_Neff=7.200
+
+Q MGYP0013018764  313 KSFAETQAVSTLRRDITQAGAVDFEISNEWDVQNVWLDGRSFFVEAVLRSVAS  365 (369)
+Q Consensus       313 ~~~A~~~~~~~a~~~a~~aGa~~~~v~~~~d~~~~~~~g~~~f~E~~v~a~a~  365 (369)
+                      +.-+++.+.+.++++|++.||+-+ |.+..+.......+..-+++...+.||+
+T Consensus        56 l~~ar~~A~~~L~~~A~~lGAnAV-Igv~~~~~~~~~~~~~~~~~v~a~GTAV  107 (111)
+T 3QKB_D           56 FDQLFDEAKQKLKKKADLLEGDGI-IGLKYNTEVVEVNGAPKFLVVHGYGTVI  107 (111)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCSEE-EEEEEEEEEEEETTEEEEEEEEEEEEEE
+T ss_pred             HHHHHHHHHHHHHHHHHHcCCCEE-EEEEEEEeEEeecCcCcEEEEEEEEEEE
+Confidence            445567777777788888899864 4444333322222222355555555553
+
+
+No 9
+>1HUX_A ACTIVATOR OF (R)-2-HYDROXYGLUTARYL-COA DEHYDRATASE; actin fold, METAL BINDING PROTEIN; HET: ADP; 3.0A {Acidaminococcus fermentans} SCOP: c.55.1.5
+Probab=57.29  E-value=8.4  Score=36.04  Aligned_cols=44  Identities=20%  Similarity=0.213  Sum_probs=35.7  Template_Neff=11.700
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRVT  281 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~  281 (369)
+                      .|+.+||.+  +.+...+.+.++.++++|++.+-++|+|++.-.-.
+T Consensus       211 ~i~l~GG~~~~~~l~~~i~~~~~~~~~~~~~~~~~~a~Gaa~~~~~  256 (270)
+T 1HUX_A          211 DVVMTGGVAQNYGVRGALEEGLGVEIKTSPLAQYNGALGAALYAYK  256 (270)
+T ss_dssp             SEEEESGGGGCHHHHHHHHHHHCSCEECCGGGGGHHHHHHHHHHHH
+T ss_pred             cEEEeChhHHCHHHHHHHHHHhCCceeeCCChHHHHHHHHHHHHHH
+Confidence            578888887  55667778888888889999999999999985443
+
+
+No 10
+>3CET_A Conserved archaeal protein; Q6M145, MrR63, NESG, XRAY, Structural; HET: SO4, MSE; 1.8A {Methanococcus maripaludis S2}
+Probab=55.76  E-value=9.3  Score=39.43  Aligned_cols=30  Identities=10%  Similarity=-0.015  Sum_probs=18.6  Template_Neff=6.300
+
+Q MGYP0013018764  132 SFTPTDALHLLGLDQRFASE-PAQLGAALLA  161 (369)
+Q Consensus       132 glTPTD~lHv~G~~~~wd~e-AA~lga~~~A  161 (369)
+                      ..|+||++-++|..-.-|.+ +++.+.+-+|
+T Consensus       222 ~~T~tda~~rLgrml~~D~~~~a~~a~~~iA  252 (334)
+T 3CET_A          222 GTDKRSSLVRISKVLCSDLDQISEIDAENIA  252 (334)
+T ss_dssp             CCSHHHHHHHHHHTTTCCTTTSCHHHHHHHH
+T ss_pred             CCCHHHHHHHHHhhhcCCHHHCCHHHHHHHH
+Confidence            57888988888874333555 5554443333
+
+
+No 11
+>3CET_B Conserved archaeal protein; Q6M145, MrR63, NESG, XRAY, Structural; HET: SO4; 1.8A {Methanococcus maripaludis S2}
+Probab=55.76  E-value=9.3  Score=39.43  Aligned_cols=30  Identities=10%  Similarity=-0.015  Sum_probs=18.6  Template_Neff=6.300
+
+Q MGYP0013018764  132 SFTPTDALHLLGLDQRFASE-PAQLGAALLA  161 (369)
+Q Consensus       132 glTPTD~lHv~G~~~~wd~e-AA~lga~~~A  161 (369)
+                      ..|+||++-++|..-.-|.+ +++.+.+-+|
+T Consensus       222 ~~T~tda~~rLgrml~~D~~~~a~~a~~~iA  252 (334)
+T 3CET_B          222 GTDKRSSLVRISKVLCSDLDQISEIDAENIA  252 (334)
+T ss_dssp             CCSHHHHHHHHHHTTTCCTTTSCHHHHHHHH
+T ss_pred             CCCHHHHHHHHHhhhcCCHHHCCHHHHHHHH
+Confidence            57888988888874333555 5554443333
+
+
+No 12
+>5JIC_A TYPE II PANTOTHENATE KINASE (E.C.2.7.1.33); pantothenamide, inhibitor, antimicrobial, Transferase-Transferase Inhibitor; HET: N7E, ADP; 1.4A {Staphylococcus aureus (strain MW2)}
+Probab=48.65  E-value=14  Score=36.15  Aligned_cols=43  Identities=19%  Similarity=0.207  Sum_probs=32.9  Template_Neff=9.200
+
+Q MGYP0013018764  236 SANIAVVGAPAL---ILNKELDEIL---KASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       236 ~~PiVgIGAPa~---~~lp~va~~L---~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      ..+|+.+|+...   .+...+.+.+   +.++++|++++++.|+|++..
+T Consensus       217 ~~~Vvl~GGv~~~~~~l~~~l~~~~~~~~~~~~~~~~~~~~gAiGaal~  265 (273)
+T 5JIC_A          217 TENIVYIGSSFHNNALLRKVVEDYTVLRGCKPYYVENGAFSGAIGALYL  265 (273)
+T ss_dssp             CCEEEEESGGGTTCHHHHHHHHHHHHHTTCEEEECTTGGGHHHHHHHHH
+T ss_pred             CCEEEEEcccccCCHHHHHHHHHHHHhcCCEEEEecChhhHHHHHHHHH
+Confidence            367888998732   3444555666   678999999999999999865
+
+
+No 13
+>5E26_B Pantothenate kinase 2, mitochondrial (E.C.2.7.1.33); PANK2, Structural Genomics, Structural Genomics; HET: GOL, PAU, ADP; 2.14A {Homo sapiens}
+Probab=42.32  E-value=21  Score=37.08  Aligned_cols=43  Identities=19%  Similarity=0.112  Sum_probs=31.2  Template_Neff=8.100
+
+Q MGYP0013018764  237 ANIAVVGAPAL---ILNKELDEIL------KASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       237 ~PiVgIGAPa~---~~lp~va~~L------~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      .+||.+|+...   .+...+.+.+      +.++++|+|.+++.|+||++..
+T Consensus       312 ~~Ivf~Gg~~~~~~~~~~~l~~~~~~~~~~~~~~~f~~~~~~~gAlGa~l~~  363 (365)
+T 5E26_B          312 NQVVFVGNFLRINTIAMRLLAYALDYWSKGQLKALFSEHEGYFGAVGALLEL  363 (365)
+T ss_dssp             CEEEEESGGGTTCHHHHHHHHHHHHHTTTTCCEEEEETTTTCHHHHHHHHHH
+T ss_pred             CEEEEECcccccCHHHHHHHHHHHHHhhcCCcEEEEcCCcccHHHHHHHHHh
+Confidence            57888998843   2233345433      5589999999999999998764
+
+
+No 14
+>5KPR_A Pantothenate kinase 3 (E.C.2.7.1.33); PANK, Substrate, Complex, Transferase, Pantothenate; HET: PAU, ANP; 1.827A {Homo sapiens}
+Probab=39.54  E-value=25  Score=36.87  Aligned_cols=44  Identities=20%  Similarity=0.117  Sum_probs=32.8  Template_Neff=7.800
+
+Q MGYP0013018764  237 ANIAVVGAPAL---ILNKELDEIL------KASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       237 ~PiVgIGAPa~---~~lp~va~~L------~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .+|+.+|+...   .+...+.+.+      +.++++|+|.+.++|+||++...
+T Consensus       323 ~~Iv~~Gg~~~~~~~~~~~l~~~l~~~~~~~~~~~f~~~~~y~gAiGA~l~a~  375 (380)
+T 5KPR_A          323 NRVVFVGNFLRVNTLSMKLLAYALDYWSKGQLKALFLEHEGYFGAVGALLGLP  375 (380)
+T ss_dssp             CEEEEESGGGTTCHHHHHHHHHHHHHHTTTSCEEEEETTTTCHHHHHHHTTGG
+T ss_pred             CEEEEECCcccCCHHHHHHHHHHHHHHhcCCCEEEEcCCchhHHHHHHHHhcc
+Confidence            57888898632   2334565555      56899999999999999998654
+
+
+No 15
+>6B3V_A Pantothenate kinase 3 (E.C.2.7.1.33); PANK, Inhibitor, Complex, Transferase, Pantothenate; HET: 7DQ, ANP; 1.601A {Homo sapiens}
+Probab=39.54  E-value=25  Score=36.87  Aligned_cols=44  Identities=20%  Similarity=0.117  Sum_probs=32.8  Template_Neff=7.800
+
+Q MGYP0013018764  237 ANIAVVGAPAL---ILNKELDEIL------KASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       237 ~PiVgIGAPa~---~~lp~va~~L------~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .+|+.+|+...   .+...+.+.+      +.++++|+|.+.++|+||++...
+T Consensus       323 ~~Iv~~Gg~~~~~~~~~~~l~~~l~~~~~~~~~~~f~~~~~y~gAiGA~l~a~  375 (380)
+T 6B3V_A          323 NRVVFVGNFLRVNTLSMKLLAYALDYWSKGQLKALFLEHEGYFGAVGALLGLP  375 (380)
+T ss_dssp             CEEEEESGGGTTCHHHHHHHHHHHHHHTTTCCEEEEETTTTCHHHHHHHHTGG
+T ss_pred             CEEEEECCcccCCHHHHHHHHHHHHHHhcCCCEEEEcCCchhHHHHHHHHhcc
+Confidence            57888898632   2334565555      56899999999999999998654
+
+
+No 16
+>4APW_M ALP12; STRUCTURAL PROTEIN, ALP12, ACTIN-LIKE PROTEIN; 19.7A {CLOSTRIDIUM TETANI}
+Probab=38.07  E-value=27  Score=34.36  Aligned_cols=41  Identities=10%  Similarity=0.148  Sum_probs=34.7  Template_Neff=10.900
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILKASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      .|+.+||.+..+.+.+.+.++..+++|+++..+||.|++.-
+T Consensus       281 ~i~l~GGg~~~l~~~l~~~~~~~~~~~~~p~~~~a~G~~~~  321 (329)
+T 4APW_M          281 SLIFIGGTTQKLKEQISKTYPNNSIITNNSQWTTCEGLYKV  321 (329)
+T ss_dssp             EEEEESTTHHHHHHHHHHHSTTCEECCSSGGGHHHHHHHHH
+T ss_pred             EEEEECCcHHHHHHHHHHHCCCCcccCCCccchHHHHHHHH
+Confidence            58889999999777788888777778899999999999764
+
+
+No 17
+>6IZR_E Putative plasmid segregation protein ParM; ParM, filaments, cytoskeleton, PROTEIN FIBRIL; HET: MG, ADP; 4.7A {Clostridium botulinum Prevot_594}
+Probab=37.78  E-value=27  Score=34.64  Aligned_cols=41  Identities=29%  Similarity=0.350  Sum_probs=35.0  Template_Neff=10.900
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILKASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      .|+.+||.+..+.+.+.+.++..+.++++...+||.|++..
+T Consensus       305 ~i~l~GGga~~l~~~l~~~~~~~~~~~~~p~~a~a~G~~~~  345 (349)
+T 6IZR_E          305 SIMIAGGGGKVLYNHLKLIEPNMCQLIDNPEFANAIGYLEF  345 (349)
+T ss_dssp             EEEEEHHHHHHHTTTGGGSSTTTEEECSCSSTHHHHHHHHG
+T ss_pred             EEEEeCChHHHHHHHHHHHCCCcceecCChHHHHHHHHHHH
+Confidence            47889999999888888888777788999999999998753
+
+
+No 18
+>4EHU_A Activator of 2-hydroxyisocaproyl-CoA dehydratase; actin fold, ATPase, electron transfer; HET: ACT, ANP; 1.6A {Clostridium difficile}
+Probab=35.96  E-value=31  Score=33.30  Aligned_cols=47  Identities=21%  Similarity=0.306  Sum_probs=37.2  Template_Neff=10.400
+
+Q MGYP0013018764  236 SANIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGRVTV  282 (369)
+Q Consensus       236 ~~PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~  282 (369)
+                      ..+|+.+|+.+.  .+...+.+.|+.++.+|+++.-+.|+|++.-....
+T Consensus       207 ~~~ivl~GG~~~~~~l~~~l~~~l~~~v~~~~~~~~~~a~Gaa~~~~~~  255 (276)
+T 4EHU_A          207 QRNVVMVGGVARNSGIVRAMAREINTEIIVPDIPQLTGALGAALYAFDE  255 (276)
+T ss_dssp             CSSEEEESGGGGCHHHHHHHHHHHTSCEECCSSGGGHHHHHHHHHHHHH
+T ss_pred             CCcEEEECHHHHCHHHHHHHHHHhCCceeCCCChhhHHHHHHHHHHHHH
+Confidence            457888998765  35666788888888999999999999999865543
+
+
+No 19
+>4EHU_B Activator of 2-hydroxyisocaproyl-CoA dehydratase; actin fold, ATPase, electron transfer; HET: ANP, ACT; 1.6A {Clostridium difficile}
+Probab=35.96  E-value=31  Score=33.30  Aligned_cols=47  Identities=21%  Similarity=0.306  Sum_probs=37.2  Template_Neff=10.400
+
+Q MGYP0013018764  236 SANIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGRVTV  282 (369)
+Q Consensus       236 ~~PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~  282 (369)
+                      ..+|+.+|+.+.  .+...+.+.|+.++.+|+++.-+.|+|++.-....
+T Consensus       207 ~~~ivl~GG~~~~~~l~~~l~~~l~~~v~~~~~~~~~~a~Gaa~~~~~~  255 (276)
+T 4EHU_B          207 QRNVVMVGGVARNSGIVRAMAREINTEIIVPDIPQLTGALGAALYAFDE  255 (276)
+T ss_dssp             CSSEEEESGGGGCHHHHHHHHHHHTSCEECCSSGGGHHHHHHHHHHHHH
+T ss_pred             CCcEEEECHHHHCHHHHHHHHHHhCCceeCCCChhhHHHHHHHHHHHHH
+Confidence            457888998765  35666788888888999999999999999865543
+
+
+No 20
+>4CZF_A ROD SHAPE-DETERMINING PROTEIN MREB; STRUCTURAL PROTEIN, BACTERIAL ACTIN, BACTERIAL; HET: ADP; 1.64A {CAULOBACTER VIBRIOIDES}
+Probab=35.46  E-value=32  Score=33.92  Aligned_cols=46  Identities=20%  Similarity=0.218  Sum_probs=36.7  Template_Neff=11.300
+
+Q MGYP0013018764  238 NIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVGRVTVS  283 (369)
+Q Consensus       238 PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~~  283 (369)
+                      .|+.+||.+..  +...+.+.++.++.++++...++|.||+.-.-...
+T Consensus       282 ~I~l~GG~s~~~~l~~~l~~~~~~~v~~~~~~~~a~a~Ga~~~a~~~~  329 (348)
+T 4CZF_A          282 GIMLTGGGALLRGLDAEIRDHTGLPVTVADDPLSCVALGCGKVLEHPK  329 (348)
+T ss_dssp             CEEEESGGGGSBTHHHHHHHHHCSCEEECSSTTTHHHHHHHHHHHCHH
+T ss_pred             cEEEeChhhhhccHHHHHHHHHCCCCeeCCCHHHHHHHHHHHHHhCch
+Confidence            57888888854  34678888888888999999999999987765543
+
+
+No 21
+>4CZG_A ROD SHAPE-DETERMINING PROTEIN MREB; STRUCTURAL PROTEIN, BACTERIAL ACTIN, BACTERIAL; HET: ADP, QH3; 1.5A {CAULOBACTER VIBRIOIDES}
+Probab=35.46  E-value=32  Score=33.92  Aligned_cols=46  Identities=20%  Similarity=0.218  Sum_probs=35.9  Template_Neff=11.300
+
+Q MGYP0013018764  238 NIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVGRVTVS  283 (369)
+Q Consensus       238 PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~~  283 (369)
+                      .|+.+||.+..  +...+.+.++.++.++++...++|.||+.-.-...
+T Consensus       282 ~I~l~GG~s~~~~l~~~l~~~~~~~v~~~~~~~~a~a~Ga~~~a~~~~  329 (348)
+T 4CZG_A          282 GIMLTGGGALLRGLDAEIRDHTGLPVTVADDPLSCVALGCGKVLEHPK  329 (348)
+T ss_dssp             CEEEESGGGGSBTHHHHHHHHHCSCEEECSSGGGHHHHHHHHHHHC--
+T ss_pred             cEEEeChhhhhccHHHHHHHHHCCCCeeCCCHHHHHHHHHHHHHhCch
+Confidence            57888888854  34678888888888999999999999987765543
+
+
+No 22
+>2LNB_A Z-DNA-binding protein 1; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {Homo sapiens}
+Probab=34.27  E-value=34  Score=27.39  Aligned_cols=42  Identities=19%  Similarity=0.351  Sum_probs=26.5  Template_Neff=7.300
+
+Q MGYP0013018764   89 AEEKILSALVASEAPVEYSNLIE---TS--IERTATKRLISQELIDI  130 (369)
+Q Consensus        89 ~e~~il~~l~~~~~p~~~~~~~~---~~--~~~~~~~rL~~~G~I~r  130 (369)
+                      .+.+|++.|...+.+++..++.+   .+  --...+.+|+++|+|.+
+T Consensus        20 ~~~~IL~~L~~~~~~~t~~eLa~~lgiskstv~r~L~~L~~~Glv~r   66 (80)
+T 2LNB_A           20 LEQRILQVLTEAGSPVKLAQLVKECQAPKRELNQVLYRMKKELKVSL   66 (80)
+T ss_dssp             HHHHHHHHHHHHTSCEEHHHHHHHHTSCHHHHHHHHHHHHHTTSEEE
+T ss_pred             HHHHHHHHHHHcCCCcCHHHHHHHhCCCHHHHHHHHHHHHHcCCEEe
+Confidence            45667777754345665555443   22  12245899999999998
+
+
+No 23
+>2ZGY_B Plasmid segregation protein parM; PARM, Plasmid, Plasmid partition, Structural; HET: GDP; 1.9A {Escherichia coli} SCOP: c.55.1.1
+Probab=33.20  E-value=36  Score=33.24  Aligned_cols=40  Identities=10%  Similarity=0.120  Sum_probs=34.1  Template_Neff=11.000
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILK---ASCDIPDTYEVANAFGAAV  277 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~---t~~iiPe~a~VANAVGAv~  277 (369)
+                      .|+.+||.+..+.+.+.+.++   ..+++|+++.-+||.|+..
+T Consensus       275 ~iil~GGga~~~~~~l~~~~~~~~~~~~~~~~p~~~~~~G~~~  317 (320)
+T 2ZGY_B          275 HVMVIGGGAELICDAVKKHTQIRDERFFKTNNSQYDLVNGMYL  317 (320)
+T ss_dssp             EEEEESTTHHHHHHHHHHTSCCCGGGEECCSCGGGHHHHHHHH
+T ss_pred             EEEEEccchHHHHHHHHHHcCCCccceEecCCHHHHHHHHHHH
+Confidence            488899999988888888887   5788899999999999864
+
+
+No 24
+>2ZGZ_A Plasmid segregation protein parM; PARM, Plasmid, Plasmid partition, Structural; HET: GNP; 2.25A {Escherichia coli} SCOP: c.55.1.1
+Probab=33.20  E-value=36  Score=33.24  Aligned_cols=40  Identities=10%  Similarity=0.120  Sum_probs=34.1  Template_Neff=11.000
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILK---ASCDIPDTYEVANAFGAAV  277 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~---t~~iiPe~a~VANAVGAv~  277 (369)
+                      .|+.+||.+..+.+.+.+.++   ..+++|+++.-+||.|+..
+T Consensus       275 ~iil~GGga~~~~~~l~~~~~~~~~~~~~~~~p~~~~~~G~~~  317 (320)
+T 2ZGZ_A          275 HVMVIGGGAELICDAVKKHTQIRDERFFKTNNSQYDLVNGMYL  317 (320)
+T ss_dssp             EEEEESTTHHHHHHHHHHTSCCCGGGEECCSCGGGHHHHHHHH
+T ss_pred             EEEEEccchHHHHHHHHHHcCCCccceEecCCHHHHHHHHHHH
+Confidence            488899999988888888887   5788899999999999864
+
+
+No 25
+>4A6J_G PLASMID SEGREGATION PROTEIN PARM; TRANSPORT PROTEIN; HET: ANP, MG; 7.2A {ESCHERICHIA COLI}
+Probab=33.20  E-value=36  Score=33.24  Aligned_cols=40  Identities=10%  Similarity=0.120  Sum_probs=34.1  Template_Neff=11.000
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILK---ASCDIPDTYEVANAFGAAV  277 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~---t~~iiPe~a~VANAVGAv~  277 (369)
+                      .|+.+||.+..+.+.+.+.++   ..+++|+++.-+||.|+..
+T Consensus       275 ~iil~GGga~~~~~~l~~~~~~~~~~~~~~~~p~~~~~~G~~~  317 (320)
+T 4A6J_G          275 HVMVIGGGAELICDAVKKHTQIRDERFFKTNNSQYDLVNGMYL  317 (320)
+T ss_dssp             EEEEESTTHHHHHHHHHHHHTCCGGGEECCSCGGGHHHHHHHH
+T ss_pred             EEEEEccchHHHHHHHHHHcCCCccceEecCCHHHHHHHHHHH
+Confidence            488899999988888888887   5788899999999999864
+
+
+No 26
+>6IXW_A pCBH ParM; Actin ParM, STRUCTURAL PROTEIN; HET: ADP; 3.253A {Clostridium botulinum Prevot_594}
+Probab=31.08  E-value=42  Score=33.43  Aligned_cols=41  Identities=29%  Similarity=0.390  Sum_probs=34.8  Template_Neff=10.900
+
+Q MGYP0013018764  237 ANIAVVGAPALILNKELDEILKASCDIPDTYEVANAFGAAV  277 (369)
+Q Consensus       237 ~PiVgIGAPa~~~lp~va~~L~t~~iiPe~a~VANAVGAv~  277 (369)
+                      -.|+.+||.+..+.+.+.+.++..+.++++..-+||.|++.
+T Consensus       306 ~~i~l~GGga~~~~~~i~~~~~~~~~~~~dp~~a~a~G~~~  346 (352)
+T 6IXW_A          306 NSIMIAGGGGKVLYNHLKLIEPNMCQLIDNPEFANAIGYLE  346 (352)
+T ss_dssp             EEEEEEHHHHHHHHHHHGGGSTTTEEECSSSTTHHHHHHHH
+T ss_pred             cEEEEECchHHHHHHHHHHHCCCceeecCCHHHHHHHHHHH
+Confidence            35888999999988888888876778889999999999865
+
+
+No 27
+>1JCE_A rod shape-determining protein MREB; rod-shape determining, MreB, Mbl, actin; 2.1A {Thermotoga maritima} SCOP: c.55.1.1
+Probab=30.74  E-value=43  Score=32.90  Aligned_cols=43  Identities=23%  Similarity=0.145  Sum_probs=35.0  Template_Neff=11.400
+
+Q MGYP0013018764  237 ANIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       237 ~PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      -.|+.+||.+..  +...+.+.++.++..+.+...++|.||+.-.
+T Consensus       279 ~~I~l~GG~s~~~~~~~~l~~~~~~~v~~~~~~~~a~a~Ga~~~~  323 (344)
+T 1JCE_A          279 RGIFLTGGGSLLRGLDTLLQKETGISVIRSEEPLTAVAKGAGMVL  323 (344)
+T ss_dssp             HCEEEESGGGCSBTHHHHHHHHHSSCEEECSSTTTHHHHHHHHGG
+T ss_pred             ccEEEeCchhhhhhHHHHHHHHHCCCceeCCCHHHHHHHHHHHHH
+Confidence            358888888855  5578888888888889999999999997753
+
+
+No 28
+>1JCF_A rod shape-determining protein MREB; MreB, rod-shape determining, Mbl, actin; 2.1A {Thermotoga maritima} SCOP: c.55.1.1
+Probab=30.74  E-value=43  Score=32.90  Aligned_cols=43  Identities=23%  Similarity=0.145  Sum_probs=35.0  Template_Neff=11.400
+
+Q MGYP0013018764  237 ANIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       237 ~PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      -.|+.+||.+..  +...+.+.++.++..+.+...++|.||+.-.
+T Consensus       279 ~~I~l~GG~s~~~~~~~~l~~~~~~~v~~~~~~~~a~a~Ga~~~~  323 (344)
+T 1JCF_A          279 RGIFLTGGGSLLRGLDTLLQKETGISVIRSEEPLTAVAKGAGMVL  323 (344)
+T ss_dssp             HCEEEESGGGGSBTHHHHHHHHHSSCEEECSSTTTHHHHHHHHGG
+T ss_pred             ccEEEeCchhhhhhHHHHHHHHHCCCceeCCCHHHHHHHHHHHHH
+Confidence            358888888855  5578888888888889999999999997753
+
+
+No 29
+>5HTV_A Putative xylulose kinase; putative sugar kinases, Arabidopsis thaliana; HET: ANP; 1.78A {Arabidopsis thaliana}
+Probab=29.96  E-value=45  Score=35.16  Aligned_cols=40  Identities=18%  Similarity=0.135  Sum_probs=32.0  Template_Neff=9.500
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      +|+..||.+  ..|..-+|+.||.++.+|+..+  .|+||++--
+T Consensus       388 ~i~~~GG~a~~~~~~q~~Adv~~~~v~~~~~~~--aa~GaA~~a  429 (439)
+T 5HTV_A          388 EVLTAGGGAKNDKWIKIRQRVLGLPVKKAVHTE--ASYGASLLA  429 (439)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTSCEEECSCCC--HHHHHHHHH
+T ss_pred             eEEEECccccCHHHHHHHHHHHCCCEEecCCCc--HHHHHHHHH
+Confidence            577888766  6888889999999998888777  358988753
+
+
+No 30
+>5HTX_A Putative xylulose kinase; putative sugar kinases, Arabidopsis thaliana; HET: ADP; 1.492A {Arabidopsis thaliana}
+Probab=29.96  E-value=45  Score=35.16  Aligned_cols=40  Identities=18%  Similarity=0.135  Sum_probs=32.0  Template_Neff=9.500
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      +|+..||.+  ..|..-+|+.||.++.+|+..+  .|+||++--
+T Consensus       388 ~i~~~GG~a~~~~~~q~~Adv~~~~v~~~~~~~--aa~GaA~~a  429 (439)
+T 5HTX_A          388 EVLTAGGGAKNDKWIKIRQRVLGLPVKKAVHTE--ASYGASLLA  429 (439)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTSCEEECSCCC--HHHHHHHHH
+T ss_pred             eEEEECccccCHHHHHHHHHHHCCCEEecCCCc--HHHHHHHHH
+Confidence            577888766  6888889999999998888777  358988753
+
+
+No 31
+>5OOW_B Chaperone protein DnaK; Hsp70, nucleotide binding domain, NBD; HET: ACP; 2.9A {Escherichia coli (strain K12)}
+Probab=29.51  E-value=46  Score=29.63  Aligned_cols=41  Identities=24%  Similarity=0.308  Sum_probs=31.5  Template_Neff=11.700
+
+Q MGYP0013018764  238 NIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       238 PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      .|+.+||.+..  +...+.+.++..+..+.+...++|.|++..
+T Consensus       157 ~i~l~GG~~~~~~l~~~l~~~~~~~~~~~~~~~~ava~Ga~~~  199 (207)
+T 5OOW_B          157 DVILVGGQTRMPMVQKKVAEFFGKEPRKDVNPDEAVAIGAAVQ  199 (207)
+T ss_pred             EEEEeCchhhCHHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHH
+Confidence            36777877765  556777788777777888889999999864
+
+
+No 32
+>5EC0_A Alp7A; Actins, Actin-like proteins, bacterial cytoskeleton; HET: GOL, ADP; 2.2A {Bacillus subtilis}
+Probab=29.09  E-value=47  Score=33.86  Aligned_cols=43  Identities=12%  Similarity=0.183  Sum_probs=33.6  Template_Neff=10.400
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEI----LKAS-----CDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~----L~t~-----~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .|+.+||.+..+.+.+.+.    ++..     +.+++++..+||.|++.--.
+T Consensus       323 ~vil~GGgs~~~~~~l~~~l~~~~~~~~~~~~~~~~~~p~~a~a~G~~~~a~  374 (388)
+T 5EC0_A          323 KYLYFGGVGEVLEESISVVTEERYGRDISESNHIVAEDARLLNLYGLEVLSR  374 (388)
+T ss_dssp             EEEEEHHHHHHTHHHHHHHHHHHHCHHHHHHHEEECTTTTTHHHHHHHHHHH
+T ss_pred             EEEEeCCcHHhhHHHHHHHHHHHhCCCCCCCceEecCCHHHHHHHHHHHHHH
+Confidence            5788999999877667776    6664     47888999999999977533
+
+
+No 33
+>2L4M_A Uncharacterized protein; Zbeta, Z-DNA binding protein, bent; NMR {Homo sapiens}
+Probab=28.51  E-value=49  Score=25.72  Aligned_cols=42  Identities=21%  Similarity=0.281  Sum_probs=25.8  Template_Neff=7.100
+
+Q MGYP0013018764   89 AEEKILSALVASEAPV---EYSNLIETSI---ERTATKRLISQELIDIS  131 (369)
+Q Consensus        89 ~e~~il~~l~~~~~p~---~~~~~~~~~~---~~~~~~rL~~~G~I~r~  131 (369)
+                      .+.+++..|... ++.   ++++.++...   -...+.+||++|+|.+.
+T Consensus        12 ~~~~IL~~L~~~-~~~t~~eIa~~lgi~~~~~V~~~L~~Le~~GlV~~~   59 (69)
+T 2L4M_A           12 REEDIYRFLKDN-GPQRALVIAQALGMRTAKDVNRDLYRMKSRHLLDMD   59 (69)
+T ss_dssp             HHHHHHHHHHHH-CSEEHHHHHHHHTCSSHHHHHHHHHHHHTTTSEEEC
+T ss_pred             HHHHHHHHHHHH-CCCCHHHHHHHhCCCChHHHHHHHHHHHHCCCEEec
+Confidence            356677766443 333   4444443322   22468999999999985
+
+
+No 34
+>2D1H_A 109aa long hypothetical transcriptional regulator; HELIX-TURN-HELIX, INTERMOLECULAR AND INTRAMOLECULAR S-S; 2.05A {Sulfolobus tokodaii} SCOP: a.4.5.50
+Probab=27.68  E-value=52  Score=27.11  Aligned_cols=17  Identities=24%  Similarity=0.311  Sum_probs=13.8  Template_Neff=9.500
+
+Q MGYP0013018764  116 RTATKRLISQELIDISS  132 (369)
+Q Consensus       116 ~~~~~rL~~~G~I~r~g  132 (369)
+                      ...+++|++.|+|.+.+
+T Consensus        54 ~~~l~~L~~~g~I~~~~   70 (109)
+T 2D1H_A           54 ENSLKKLIELGLVVRTK   70 (109)
+T ss_dssp             HHHHHHHHHTTSEEEEE
+T ss_pred             HHHHHHHHHCCCEEEEe
+Confidence            35689999999998765
+
+
+No 35
+>2D1H_B 109aa long hypothetical transcriptional regulator; HELIX-TURN-HELIX, INTERMOLECULAR AND INTRAMOLECULAR S-S; HET: MSE; 2.05A {Sulfolobus tokodaii} SCOP: a.4.5.50
+Probab=27.68  E-value=52  Score=27.11  Aligned_cols=17  Identities=24%  Similarity=0.311  Sum_probs=13.8  Template_Neff=9.500
+
+Q MGYP0013018764  116 RTATKRLISQELIDISS  132 (369)
+Q Consensus       116 ~~~~~rL~~~G~I~r~g  132 (369)
+                      ...+++|++.|+|.+.+
+T Consensus        54 ~~~l~~L~~~g~I~~~~   70 (109)
+T 2D1H_B           54 ENSLKKLIELGLVVRTK   70 (109)
+T ss_dssp             HHHHHHHHHTTSEEEEE
+T ss_pred             HHHHHHHHHCCCEEEEe
+Confidence            35689999999998765
+
+
+No 36
+>3GBT_A Gluconate kinase (E.C.2.7.1.12); LBA0354, Gluconate kinase, Lactobacillus acidophilus; HET: MSE; 2.4A {Lactobacillus acidophilus}
+Probab=27.64  E-value=52  Score=35.47  Aligned_cols=42  Identities=10%  Similarity=0.023  Sum_probs=32.7  Template_Neff=9.300
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .|+..||.+  ..|..-+|+.||.++.+|+..+ +.|+||++.--
+T Consensus       396 ~i~~~GG~s~s~~~~q~~Adv~~~pv~~~~~~e-~~a~GAA~~A~  439 (504)
+T 3GBT_A          396 AINATGGFLKSDFVRQLCANIFNVPIVTMKEQQ-SGTLAAMFLAR  439 (504)
+T ss_dssp             EEEEESGGGCSHHHHHHHHHHHTSCEEEESCSC-HHHHHHHHHHH
+T ss_pred             EEEEeChhhhCHHHHHHHHHHHCCcEEEcCCCc-hHHHHHHHHHH
+Confidence            467777766  6788889999999998887755 77788886543
+
+
+No 37
+>3LL3_A Gluconate kinase (E.C.2.7.1.12); xylulose kinase, 11120e1, NYSGX, ATP; HET: MSE, XUL, ATP, DXP, ADP; 2.002A {Lactobacillus acidophilus}
+Probab=27.64  E-value=52  Score=35.47  Aligned_cols=42  Identities=10%  Similarity=0.023  Sum_probs=32.7  Template_Neff=9.300
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .|+..||.+  ..|..-+|+.||.++.+|+..+ +.|+||++.--
+T Consensus       396 ~i~~~GG~s~s~~~~q~~Adv~~~pv~~~~~~e-~~a~GAA~~A~  439 (504)
+T 3LL3_A          396 AINATGGFLKSDFVRQLCANIFNVPIVTMKEQQ-SGTLAAMFLAR  439 (504)
+T ss_dssp             EEEEESGGGCSHHHHHHHHHHHTSCEEEESCSC-HHHHHHHHHHH
+T ss_pred             EEEEeChhhhCHHHHHHHHHHHCCcEEEcCCCc-hHHHHHHHHHH
+Confidence            467777766  6788889999999998887755 77788886543
+
+
+No 38
+>3H1Q_B Ethanolamine utilization protein EutJ; Carboxydothermus hydrogenoformans, ethanolamine utilization protein; HET: ATP; 2.8A {Carboxydothermus hydrogenoformans Z-2901}
+Probab=27.55  E-value=52  Score=31.20  Aligned_cols=40  Identities=23%  Similarity=0.416  Sum_probs=32.5  Template_Neff=11.100
+
+Q MGYP0013018764  238 NIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAV  277 (369)
+Q Consensus       238 PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~  277 (369)
+                      .|+.+|+.+..  +...+.+.|+.++.+|++.+.++|+|++.
+T Consensus       229 ~i~l~Gg~~~~~~l~~~l~~~l~~~v~~~~~~~~~~a~G~al  270 (272)
+T 3H1Q_B          229 PVYVVGGTAYLTGFSEEFSRFLGKEVQVPIHPLLVTPLGIAL  270 (272)
+T ss_dssp             CEEEESGGGGSTTHHHHHHHHHSSCCBCCSSGGGHHHHHHHT
+T ss_pred             CEEEEcchHhccchHHHHHHHHCCCcccCCCHHHHHHHHHhe
+Confidence            57888887754  66677788888888889999999999875
+
+
+No 39
+>1VR4_D hypothetical protein APC22750; Structural Genomics, Pentamer, Hypothetical Protein; 2.09A {Bacillus cereus} SCOP: d.230.5.1
+Probab=27.15  E-value=54  Score=27.40  Aligned_cols=68  Identities=13%  Similarity=0.024  Sum_probs=38.8  Template_Neff=8.000
+
+Q MGYP0013018764  264 PDTYEVANAFGAAVGRVTVSSEIVVSAPSRGKYLV-HDATPKIFYDLEAAKSFAETQAVSTLRRDITQAGAVDF  336 (369)
+Q Consensus       264 Pe~a~VANAVGAv~G~V~~~~~v~I~~~~~g~y~v-~~~~~~~F~~le~A~~~A~~~~~~~a~~~a~~aGa~~~  336 (369)
+                      ++...+..-+|.+.+........  ...-...+.- .+.   .-.++++..+.+++.+.+..+++|.+.||.-+
+T Consensus         9 ~~g~~I~~~~G~V~g~~v~~~~~--~~~~~~~~~~~~g~---~~~~~~~~~~~~r~~al~~L~~~A~~~GanaI   77 (103)
+T 1VR4_D            9 IQGKEIIEYIDIVNGEAIMGANI--VRDLFASVRDVVGG---RAGSYESKLKEARDIAMDEMKELAKQKGANAI   77 (103)
+T ss_dssp             CTTCCCCEEEEEEEEEEECCCEE--ETTEECCSSCSTTC---CCBCHHHHHHHHHHHHHHHHHHHHHHTTCSEE
+T ss_pred             CCCceEEEEEeEEEEEEEeccch--hHhHHHheecccCC---CccchhHHHHHHHHHHHHHHHHHHHHhCCCEE
+Confidence            34677777777777764433211  0000001111 111   13456666777778888888888999999864
+
+
+No 40
+>1VR4_E hypothetical protein APC22750; Structural Genomics, Pentamer, Hypothetical Protein; 2.09A {Bacillus cereus} SCOP: d.230.5.1
+Probab=27.15  E-value=54  Score=27.40  Aligned_cols=68  Identities=13%  Similarity=0.024  Sum_probs=37.7  Template_Neff=8.000
+
+Q MGYP0013018764  264 PDTYEVANAFGAAVGRVTVSSEIVVSAPSRGKYLV-HDATPKIFYDLEAAKSFAETQAVSTLRRDITQAGAVDF  336 (369)
+Q Consensus       264 Pe~a~VANAVGAv~G~V~~~~~v~I~~~~~g~y~v-~~~~~~~F~~le~A~~~A~~~~~~~a~~~a~~aGa~~~  336 (369)
+                      ++...+..-+|.+.+........  ...-...+.- .+.   .-.++++..+.+++.+.+..+++|.+.||.-+
+T Consensus         9 ~~g~~I~~~~G~V~g~~v~~~~~--~~~~~~~~~~~~g~---~~~~~~~~~~~~r~~al~~L~~~A~~~GanaI   77 (103)
+T 1VR4_E            9 IQGKEIIEYIDIVNGEAIMGANI--VRDLFASVRDVVGG---RAGSYESKLKEARDIAMDEMKELAKQKGANAI   77 (103)
+T ss_dssp             CTTCCCSEEEEEEEEEEECCC------------CCEEET---TTTSSSCTTHHHHHHHHHHHHHHHHHTTCSEE
+T ss_pred             CCCceEEEEEeEEEEEEEeccch--hHhHHHheecccCC---CccchhHHHHHHHHHHHHHHHHHHHHhCCCEE
+Confidence            34677777777777764433211  0000001111 111   13456666777778888888888999999864
+
+
+No 41
+>3JS6_A Uncharacterized ParM protein; partition, segregation, filament, UNKNOWN FUNCTION; 1.95A {Staphylococcus aureus}
+Probab=26.98  E-value=55  Score=32.78  Aligned_cols=41  Identities=22%  Similarity=0.159  Sum_probs=34.9  Template_Neff=10.700
+
+Q MGYP0013018764  238 NIAVVGAPALILNKELDEILKASCDIPDTYEVANAFGAAVG  278 (369)
+Q Consensus       238 PiVgIGAPa~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G  278 (369)
+                      .|+.+||.+..+.+.+.+.++..+.+|+++.-+||.|++.-
+T Consensus       293 ~i~l~GGgs~~~~~~l~~~~~~~~~~~~~p~~~~a~G~~~~  333 (355)
+T 3JS6_A          293 RIIVTGGGANIHFDSLSHYYSDVFEKADDSQFSNVRGYEKL  333 (355)
+T ss_dssp             EEEEESTTHHHHHHHHHHHSSSCEECCSSGGGHHHHHHHHH
+T ss_pred             EEEEECchhHHHHHHHHHHccccccccCCchHHHHHHHHHH
+Confidence            58889999999877788888777778999999999998764
+
+
+No 42
+>3HZ6_A Xylulokinase (E.C.2.7.1.17); xylulose, xylulokinase, 11200b1, structural genomic; HET: ADP, XUL, GOL; 1.65A {Chromobacterium violaceum}
+Probab=25.75  E-value=59  Score=35.12  Aligned_cols=42  Identities=19%  Similarity=0.087  Sum_probs=32.5  Template_Neff=9.300
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      .|+..||.+.  .|..-+|+.||.++.+++..+-+.|+||++--
+T Consensus       405 ~i~v~GG~s~s~~~~q~~Advl~~~v~~~~~~~~~~a~GaA~la  448 (511)
+T 3HZ6_A          405 LLKVVGGGARSEAWLRMIADNLNVSLLVKPDAHLHPLRGLAALA  448 (511)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTCEEEECCCGGGHHHHHHHHHH
+T ss_pred             eEEEeCchhhCHHHHHHHHHHhCCeEEECCCCCcchHHHHHHHH
+Confidence            4666776655  78889999999999888776667888877653
+
+
+No 43
+>3KZB_A Xylulokinase (E.C.2.7.1.17); xylulokinase, Chromobacterium violaceum, ADP, SGX; HET: ADP; 2.705A {Chromobacterium violaceum}
+Probab=25.75  E-value=59  Score=35.12  Aligned_cols=42  Identities=19%  Similarity=0.087  Sum_probs=32.5  Template_Neff=9.300
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      .|+..||.+.  .|..-+|+.||.++.+++..+-+.|+||++--
+T Consensus       405 ~i~v~GG~s~s~~~~q~~Advl~~~v~~~~~~~~~~a~GaA~la  448 (511)
+T 3KZB_A          405 LLKVVGGGARSEAWLRMIADNLNVSLLVKPDAHLHPLRGLAALA  448 (511)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTCEEEECCCTTTHHHHHHHHHH
+T ss_pred             eEEEeCchhhCHHHHHHHHHHhCCeEEECCCCCcchHHHHHHHH
+Confidence            4666776655  78889999999999888776667888877653
+
+
+No 44
+>2JYA_A Uncharacterized protein Atu1810; protein with unknown function ATU1810; NMR {Agrobacterium tumefaciens str.}
+Probab=25.68  E-value=60  Score=27.91  Aligned_cols=20  Identities=20%  Similarity=0.343  Sum_probs=16.8  Template_Neff=5.800
+
+Q MGYP0013018764  304 KIFYDLEAAKSFAETQAVST  323 (369)
+Q Consensus       304 ~~F~~le~A~~~A~~~~~~~  323 (369)
+                      -.|.++|+|++||++.....
+T Consensus        56 l~F~s~E~Ai~ya~~~G~~y   75 (106)
+T 2JYA_A           56 LTFETQEQAEAYAQRKGIEY   75 (106)
+T ss_dssp             EEESSHHHHHHHHHHHTCEE
+T ss_pred             eEeCCHHHHHHHHHHcCCeE
+Confidence            35999999999999987654
+
+
+No 45
+>2LJU_A Putative oxidoreductase; oxidoreductase, Structural Genomics, Seattle Structural; NMR {Ehrlichia chaffeensis}
+Probab=25.44  E-value=61  Score=27.97  Aligned_cols=22  Identities=18%  Similarity=0.126  Sum_probs=17.8  Template_Neff=5.800
+
+Q MGYP0013018764  304 KIFYDLEAAKSFAETQAVSTLR  325 (369)
+Q Consensus       304 ~~F~~le~A~~~A~~~~~~~a~  325 (369)
+                      -.|.++|+|++||+++.-..-.
+T Consensus        64 l~F~s~E~Ai~fae~~G~~y~V   85 (108)
+T 2LJU_A           64 LSFTTRELAIAYAVAHKIDYTV   85 (108)
+T ss_dssp             EEESSHHHHHHHHHHTTCEEEE
+T ss_pred             EeeCCHHHHHHHHHHCCCEEEE
+Confidence            3599999999999998766543
+
+
+No 46
+>3EYI_A Z-DNA-binding protein 1/Z-DNA complex; Alternative splicing, DNA-binding, Polymorphism, DNA; 1.45A {Homo sapiens}
+Probab=25.04  E-value=62  Score=25.35  Aligned_cols=42  Identities=21%  Similarity=0.281  Sum_probs=25.9  Template_Neff=7.200
+
+Q MGYP0013018764   89 AEEKILSALVASEAPV---EYSNLIETSI---ERTATKRLISQELIDIS  131 (369)
+Q Consensus        89 ~e~~il~~l~~~~~p~---~~~~~~~~~~---~~~~~~rL~~~G~I~r~  131 (369)
+                      .+.+++..|... ++.   ++++.++...   -...+.+||++|+|.+.
+T Consensus        11 ~~~~IL~~L~~~-~~~T~~eIA~~lgi~~~~~V~~~L~~Le~~GlV~~~   58 (72)
+T 3EYI_A           11 REEDIYRFLKDN-GPQRALVIAQALGMRTAKDVNRDLYRMKSRHLLDMD   58 (72)
+T ss_dssp             HHHHHHHHHHHH-CSEEHHHHHHHTTCCSGGGTHHHHHHHHHTTSEEEC
+T ss_pred             HHHHHHHHHHHH-CCCCHHHHHHHhCCCCHHHHHHHHHHHHHCCCEEec
+Confidence            456777777543 343   3444443222   23468999999999985
+
+
+No 47
+>3Q5F_A Transcriptional regulator slyA; MarR/SlyA protein family, winged helix-turn-helix; 2.96A {Salmonella enterica}
+Probab=24.57  E-value=65  Score=27.93  Aligned_cols=46  Identities=13%  Similarity=0.016  Sum_probs=25.7  Template_Neff=10.000
+
+Q MGYP0013018764   86 ASTAEEKILSALVASEAPVEYSNL---IETS--IERTATKRLISQELIDIS  131 (369)
+Q Consensus        86 ~~~~e~~il~~l~~~~~p~~~~~~---~~~~--~~~~~~~rL~~~G~I~r~  131 (369)
+                      ++..+-.++..+...++++...++   +..+  .....+++|+++|+|.+.
+T Consensus        32 l~~~~~~iL~~l~~~~~~~~~~~la~~l~i~~~~v~~~l~~L~~~g~v~~~   82 (147)
+T 3Q5F_A           32 LTQTHWVTLHNIHQLPPDQSQIQLAKAIGIEQPSLVRTLDQLEDKGLISRQ   82 (147)
+T ss_dssp             CCHHHHHHHHHHTTSCSSBCHHHHHHHHTCCHHHHHHHHHHHHTTTCEEEE
+T ss_pred             CCHHHHHHHHHHHhCCCCCCHHHHHHHhCCCHHHHHHHHHHHHHCCCeeee
+Confidence            344455566555433234433333   3222  223468999999999976
+
+
+No 48
+>2ITM_B Xylulose kinase (E.C.2.7.1.17); xylulokinase, xylulose, kinase, ATPase, FGGY; HET: SO4, NH4, XUL; 2.1A {Escherichia coli}
+Probab=23.81  E-value=68  Score=34.32  Aligned_cols=44  Identities=23%  Similarity=0.227  Sum_probs=33.7  Template_Neff=9.500
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGRVT  281 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~  281 (369)
+                      +|+..||.+.  .+..-+|+.+|..+.+++..+.+.|+||++.--.
+T Consensus       389 ~i~~~GG~a~~~~~~q~~Ad~~~~~v~~~~~~~~~~a~GAA~la~~  434 (484)
+T 2ITM_B          389 SVTLIGGGARSEYWRQMLADISGQQLDYRTGGDVGPALGAARLAQI  434 (484)
+T ss_dssp             CEEEESGGGCCHHHHHHHHHHHCCCEEEETTTTSCHHHHHHHHHHH
+T ss_pred             EEEEECCcccCHHHHHHHHHHHCCCcEecCCCCcHHHHHHHHHHHH
+Confidence            5777776654  7888899999999888877666788888876443
+
+
+No 49
+>2NLX_A Xylulose kinase (E.C.2.7.1.17); xylulokinase, FGGY kinase, ATPase, xylulose; 2.7A {Escherichia coli}
+Probab=23.81  E-value=68  Score=34.32  Aligned_cols=44  Identities=23%  Similarity=0.227  Sum_probs=33.7  Template_Neff=9.500
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGRVT  281 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~  281 (369)
+                      +|+..||.+.  .+..-+|+.+|..+.+++..+.+.|+||++.--.
+T Consensus       389 ~i~~~GG~a~~~~~~q~~Ad~~~~~v~~~~~~~~~~a~GAA~la~~  434 (484)
+T 2NLX_A          389 SVTLIGGGARSEYWRQMLADISGQQLDYRTGGDVGPALGAARLAQI  434 (484)
+T ss_dssp             EEEEESGGGCCHHHHHHHHHHHCCEEEEESCTTSCHHHHHHHHHHH
+T ss_pred             EEEEECCcccCHHHHHHHHHHHCCCcEecCCCCcHHHHHHHHHHHH
+Confidence            5777776654  7888899999999888877666788888876443
+
+
+No 50
+>2NLX_B Xylulose kinase (E.C.2.7.1.17); xylulokinase, FGGY kinase, ATPase, xylulose; 2.7A {Escherichia coli}
+Probab=23.81  E-value=68  Score=34.32  Aligned_cols=44  Identities=23%  Similarity=0.227  Sum_probs=33.7  Template_Neff=9.500
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGRVT  281 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~  281 (369)
+                      +|+..||.+.  .+..-+|+.+|..+.+++..+.+.|+||++.--.
+T Consensus       389 ~i~~~GG~a~~~~~~q~~Ad~~~~~v~~~~~~~~~~a~GAA~la~~  434 (484)
+T 2NLX_B          389 SVTLIGGGARSEYWRQMLADISGQQLDYRTGGDVGPALGAARLAQI  434 (484)
+T ss_dssp             CEEEESGGGCCHHHHHHHHHHHTCCEEEECCCCSCHHHHHHHHHHH
+T ss_pred             EEEEECCcccCHHHHHHHHHHHCCCcEecCCCCcHHHHHHHHHHHH
+Confidence            5777776654  7888899999999888877666788888876443
+
+
+No 51
+>1Y2I_B Hypothetical Protein S0862; Structural Genomics, Pentamer, Hypothetical Protein; HET: MSE; 2.3A {Shigella flexneri 2a str. 2457T} SCOP: d.230.5.1
+Probab=23.68  E-value=69  Score=28.45  Aligned_cols=68  Identities=13%  Similarity=0.055  Sum_probs=36.6  Template_Neff=7.100
+
+Q MGYP0013018764  264 PDTYEVANAFGAAVGRVTVSSEIVVSAPSRGKYL-VHDATPKIFYDLEAAKSFAETQAVSTLRRDITQAGAVDF  336 (369)
+Q Consensus       264 Pe~a~VANAVGAv~G~V~~~~~v~I~~~~~g~y~-v~~~~~~~F~~le~A~~~A~~~~~~~a~~~a~~aGa~~~  336 (369)
+                      ++...+..-+|.+.+.+......  ...-...++ +.+.+   -..+++-...++++|.+..+++|.+.||.-+
+T Consensus        33 i~g~~I~e~~G~V~g~~v~~~~~--~~~~~~~~~~~~G~~---~~~~~~~~~~~r~~Al~~L~~~A~~~GANaV  101 (133)
+T 1Y2I_B           33 LEGLTIVEYCGVVTGEAILGANI--FRDFFAGIRDIVGGR---SGAYEKELRKAREIAFEELGSQARALGADAV  101 (133)
+T ss_dssp             CTTEEEEEEEEEEEEEEEECHHH--CCCCCTTCCSEEETT---TCTHHHHHHHHHHHHHHHHHHHHHHTTCSEE
+T ss_pred             CCCceeEEEEeEEEEEEEEeccc--hHHHHHHhhcccCCC---CchhHHHHHHHHHHHHHHHHHHHHHhCCCEE
+Confidence            34667777777777766544311  000000111 11111   1234455566667777777888888899864
+
+
+No 52
+>5XTB_L NADH dehydrogenase [ubiquinone] flavoprotein 1; Respiratory, OXIDOREDUCTASE-ELECTRON TRANSPORT complex; HET: NDP, 8Q1, FMN, SF4; 3.4A {Homo sapiens}
+Probab=23.06  E-value=72  Score=28.02  Aligned_cols=20  Identities=40%  Similarity=0.310  Sum_probs=16.8  Template_Neff=5.600
+
+Q MGYP0013018764  304 KIFYDLEAAKSFAETQAVST  323 (369)
+Q Consensus       304 ~~F~~le~A~~~A~~~~~~~  323 (369)
+                      -.|.++|+|++||+++.-..
+T Consensus        69 l~F~s~E~Ai~fa~~~G~~Y   88 (118)
+T 5XTB_L           69 LTFSTKEDAVSFAEKNGWSY   88 (118)
+T ss_pred             EEeCCHHHHHHHHHHcCCeE
+Confidence            35999999999999987654
+
+
+No 53
+>5XTD_L NADH dehydrogenase [ubiquinone] flavoprotein 1; Homo sapiens, Oxidoreductase, Respiratory, OXIDOREDUCTASE-ELECTRON; HET: PLX, 8Q1, CDL, PEE, NDP, SF4, FMN; 3.7A {Homo sapiens}
+Probab=22.67  E-value=74  Score=27.96  Aligned_cols=20  Identities=40%  Similarity=0.310  Sum_probs=16.8  Template_Neff=5.500
+
+Q MGYP0013018764  304 KIFYDLEAAKSFAETQAVST  323 (369)
+Q Consensus       304 ~~F~~le~A~~~A~~~~~~~  323 (369)
+                      -.|.++|+|++||+++.-..
+T Consensus        69 l~F~s~E~Ai~fa~~~g~~Y   88 (118)
+T 5XTD_L           69 LTFSTKEDAVSFAEKNGWSY   88 (118)
+T ss_pred             EEeCCHHHHHHHHHHcCCeE
+Confidence            35999999999999987654
+
+
+No 54
+>3I8B_A Xylulose kinase; Xylulose kinase, Bifidobacterium adolescentis, strain; 2.0A {Bifidobacterium adolescentis ATCC 15703}
+Probab=21.82  E-value=79  Score=34.42  Aligned_cols=42  Identities=29%  Similarity=0.262  Sum_probs=33.2  Template_Neff=8.800
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      .|+..||.+  ..|..-+|+.||.++.+|+..+ +.|+||++.--
+T Consensus       427 ~i~~~GG~a~s~~~~q~~Advl~~~V~~~~~~e-~~a~GAAllA~  470 (515)
+T 3I8B_A          427 RILLIGGGAKSEAIRTLAPSILGMDVTRPATDE-YVAIGAARQAA  470 (515)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTSCEEEECCCC-HHHHHHHHHHH
+T ss_pred             eEEEEChhHhCHHHHHHHHHHHCCceEeCCCCc-hHHHHHHHHHH
+Confidence            577778765  4688889999999999888776 88888887644
+
+
+No 55
+>6UDE_B Glycerol kinase (E.C.2.7.1.30); SSGCID, Structural Genomics, Elizabethkingia anophelis; HET: ADP, GOL; 1.95A {Elizabethkingia anophelis NUHP1}
+Probab=21.12  E-value=84  Score=34.02  Aligned_cols=42  Identities=24%  Similarity=0.240  Sum_probs=31.6  Template_Neff=9.200
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      +|+..||.+  ..|..-+|+.||.++.+|+..+ +.|+||++.--
+T Consensus       413 ~i~~~GG~a~s~~~~q~~Advl~~~v~~~~~~e-~~a~GaA~lA~  456 (507)
+T 6UDE_B          413 ELRVDGGASASNLLMQIQSDLFGFKIIRPKTLE-TTALGAAYLAG  456 (507)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTSEEEEESCSC-HHHHHHHHHHH
+T ss_pred             eEEEeCchhhCHHHHHHHHHHHCCeEEecCCCc-hhHHHHHHHHH
+Confidence            577777664  4788889999999988887655 67788776543
+
+
+No 56
+>6UDE_D Glycerol kinase (E.C.2.7.1.30); SSGCID, Structural Genomics, Elizabethkingia anophelis; HET: ADP, GOL; 1.95A {Elizabethkingia anophelis NUHP1}
+Probab=21.12  E-value=84  Score=34.02  Aligned_cols=42  Identities=24%  Similarity=0.240  Sum_probs=31.6  Template_Neff=9.200
+
+Q MGYP0013018764  238 NIAVVGAPA--LILNKELDEILKASCDIPDTYEVANAFGAAVGRV  280 (369)
+Q Consensus       238 PiVgIGAPa--~~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V  280 (369)
+                      +|+..||.+  ..|..-+|+.||.++.+|+..+ +.|+||++.--
+T Consensus       413 ~i~~~GG~a~s~~~~q~~Advl~~~v~~~~~~e-~~a~GaA~lA~  456 (507)
+T 6UDE_D          413 ELRVDGGASASNLLMQIQSDLFGFKIIRPKTLE-TTALGAAYLAG  456 (507)
+T ss_dssp             EEEEESGGGGCHHHHHHHHHHHTSEEEEESCSC-HHHHHHHHHHH
+T ss_pred             eEEEeCchhhCHHHHHHHHHHHCCeEEecCCCc-hhHHHHHHHHH
+Confidence            577777664  4788889999999988887655 67788776543
+
+
+No 57
+>2YZT_A Putative uncharacterized protein TTHA1756; Uncharacterized conserved protein, STRUCTURAL GENOMICS; 1.8A {Thermus thermophilus}
+Probab=20.74  E-value=86  Score=23.32  Aligned_cols=43  Identities=14%  Similarity=0.177  Sum_probs=26.2  Template_Neff=9.200
+
+Q MGYP0013018764  284 SEIVVSAPSRGKYLVHDATPKIF---YDLEAAKSFAETQAVSTLRR  326 (369)
+Q Consensus       284 ~~v~I~~~~~g~y~v~~~~~~~F---~~le~A~~~A~~~~~~~a~~  326 (369)
+                      +.+.+....+|.|.++.++-..+   .++++|+..+++.....+..
+T Consensus         5 y~~~i~~~~~g~~~~~~pd~p~~~~g~t~~ea~~~~~eal~~~l~~   50 (67)
+T 2YZT_A            5 YRVVVERDEEGYFVAHVPELHAHTQAQSFEELLRRLQEAIAVSLEE   50 (67)
+T ss_dssp             CCCEEEECTTSCEEEEEGGGTEEEEESSHHHHHHHHHHHHHHHTTC
+T ss_pred             EEEEEEECCCCEEEEEEeCcceEEecCCHHHHHHHHHHHHHHHHHH
+Confidence            34455544567898886652232   36888888777665555443
+
+
+No 58
+>4CZM_B ROD SHAPE-DETERMINING PROTEIN MREB; STRUCTURAL PROTEIN, BACTERIAL ACTIN, BACTERIAL; HET: ANP; 2.2A {CAULOBACTER VIBRIOIDES}
+Probab=20.50  E-value=88  Score=30.85  Aligned_cols=45  Identities=20%  Similarity=0.222  Sum_probs=35.0  Template_Neff=11.300
+
+Q MGYP0013018764  238 NIAVVGAPALI--LNKELDEILKASCDIPDTYEVANAFGAAVGRVTV  282 (369)
+Q Consensus       238 PiVgIGAPa~~--~lp~va~~L~t~~iiPe~a~VANAVGAv~G~V~~  282 (369)
+                      .|+.+||.+..  +...+.+.++.++.++.+...++|.|++.-....
+T Consensus       282 ~v~l~GG~s~~~~~~~~l~~~~~~~v~~~~~~~~a~a~Ga~~~~~~~  328 (348)
+T 4CZM_B          282 GIMLTGGGALLRGLDAEIRDHTGLPVTVADDPLSCVALGCGKVLEHP  328 (348)
+T ss_dssp             CEEEESGGGGSTTHHHHHHHHHCSCEEECSSGGGHHHHHHHHHHHCS
+T ss_pred             cEEEeCchhhcchHHHHHHHHHCCCCeeCCCHHHHHHHHHHHHHhCc
+Confidence            57888888854  3366888888888888999999999998665543
+
+
+No 59
+>4BC2_A XYLULOSE KINASE (E.C.2.7.1.17); TRANSFERASE, GLUCURONATE XYLULOKINASE PATHWAY, FGGY; HET: ADP, EDO, XUL; 1.97A {HOMO SAPIENS}
+Probab=20.38  E-value=89  Score=34.16  Aligned_cols=41  Identities=20%  Similarity=0.280  Sum_probs=31.8  Template_Neff=9.100
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      +|+..||.+.  .|..-+|+.||.++.+|+..+ +.|+||++.-
+T Consensus       437 ~i~~~GG~a~s~~~~qi~Advl~~~v~~~~~~e-~~a~GAA~lA  479 (538)
+T 4BC2_A          437 KILATGGASHNREILQVLADVFDAPVYVIDTAN-SACVGSAYRA  479 (538)
+T ss_dssp             CEEEEEGGGGCHHHHHHHHHHHTSCEEECCCTT-HHHHHHHHHH
+T ss_pred             EEEEEchhhcCHHHHHHHHHHHCCCEEEecCCC-chHHHHHHHH
+Confidence            5777777655  688889999999988887665 7888888743
+
+
+No 60
+>4BC3_B XYLULOSE KINASE (E.C.2.7.1.17); TRANSFERASE, GLUCURONATE XYLULOKINASE PATHWAY; HET: EDO, MSE; 1.68A {HOMO SAPIENS}
+Probab=20.38  E-value=89  Score=34.16  Aligned_cols=41  Identities=20%  Similarity=0.280  Sum_probs=31.8  Template_Neff=9.100
+
+Q MGYP0013018764  238 NIAVVGAPAL--ILNKELDEILKASCDIPDTYEVANAFGAAVGR  279 (369)
+Q Consensus       238 PiVgIGAPa~--~~lp~va~~L~t~~iiPe~a~VANAVGAv~G~  279 (369)
+                      +|+..||.+.  .|..-+|+.||.++.+|+..+ +.|+||++.-
+T Consensus       437 ~i~~~GG~a~s~~~~qi~Advl~~~v~~~~~~e-~~a~GAA~lA  479 (538)
+T 4BC3_B          437 KILATGGASHNREILQVLADVFDAPVYVIDTAN-SACVGSAYRA  479 (538)
+T ss_dssp             CEEEEEGGGGCHHHHHHHHHHHTSCEEECCCTT-HHHHHHHHHH
+T ss_pred             EEEEEchhhcCHHHHHHHHHHHCCCEEEecCCC-chHHHHHHHH
+Confidence            5777777655  688889999999988887665 7888888743
+
+

@@ -1,0 +1,215 @@
+Query         MGYP000278747826 FL=1 CR=1
+Match_columns 460
+No_of_seqs    184 out of 193
+Neff          5.05639
+Searched_HMMs 80799
+Date          Wed Dec 20 15:06:25 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmpn2pgpp3e/query.a3m -o /tmp/tmpn2pgpp3e/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5LII_P Major capsid protein; p  99.3 2.1E-15 2.6E-20  161.7   0.0  192  171-410    91-284 (463)
+  2 6J3Q_U the major capsid protei  98.8 3.7E-12 4.6E-17  129.6   0.0  239  185-456    74-346 (348)
+  3 5LII_P Major capsid protein; p  13.7 1.6E+02   0.002   33.6   0.0   43   14-58     44-86  (463)
+  4 2NUD_C Avirulence B protein, R  11.0 2.2E+02  0.0028   21.2   0.0    9  193-201    22-30  (35)
+  5 3FXT_A Nucleoside diphosphate-   9.8 2.6E+02  0.0033   26.2   0.0   16  433-448    84-99  (113)
+  6 3EAB_I Spastin, cDNA, FLJ94734   7.3 3.9E+02  0.0049   20.8   0.0    9  436-444    10-18  (50)
+  7 3EAB_L Spastin, cDNA, FLJ94734   7.3 3.9E+02  0.0049   20.8   0.0    9  436-444    10-18  (50)
+  8 2FTC_K MITOCHONDRIAL RIBOSOME,   6.9 4.2E+02  0.0052   24.2   0.0   12  109-120     3-14  (98)
+  9 5US8_A Adenosylhomocysteinase    6.6 4.4E+02  0.0055   30.1   0.0   51  340-391   260-311 (448)
+ 10 6E5Y_A Adenosylhomocysteinase    6.6 4.4E+02  0.0055   30.1   0.0   51  340-391   260-311 (448)
+
+No 1
+>5LII_P Major capsid protein; polyvalent staphylococcal bactoriophage, Myoviridae, tail; 3.8A {Staphylococcus phage 812}
+Probab=99.29  E-value=2.1e-15  Score=161.74  Aligned_cols=192  Identities=10%  Similarity=0.040  Sum_probs=155.1  Template_Neff=7.400
+
+Q MGYP0002787478  171 IGKAAAEGDRSREGGYEFPIEVENYTQIFRETVGPFSRNALKAGQRFDKTGVYTSAVKQASLRLTEAMEMSTFFGERAVR  250 (460)
+Q Consensus       171 IGna~~EGs~~p~~~~~~p~~~~NYTQIFRt~~~~~t~Ta~kt~~r~~~tg~~~~~~k~~~l~~~~~iErA~~fG~k~~~  250 (460)
+                      ++++.+||+.+++..... .+.+|++||++..+. +|++++.+..   ..|++..|+++++++|+++||++||+|++...
+T Consensus        91 ~~~~~~Eg~~~~~~~~~~-~~~tn~~qi~~~~~~-VS~t~~~v~~---~~d~~a~q~~~~~~~i~~~iE~ali~G~~~~~  165 (463)
+T 5LII_P           91 HSRFVKEIGVAPVSDPNI-RQKTVSMKYVSDTKN-MSIASGLVNN---IADPSQILTEDAIAVVAKTIEWASFYGDASLT  165 (463)
+T ss_dssp             STTCCSSCCSCCCCCCEE-ECCCCCCCCCCCCCC-CCHHHHHSCC---SSCSHHHHHHHHHHHHHHHHHHHHHSCCCCCC
+T ss_pred             ccceeeecCCCCCCCCcc-eEeeeeEEEEEccEE-ecHHHHHHcc---CCCHHHHHHHHHHHHHHHHHHHHhhhcccccC
+Confidence            458999999999998877 999999999999998 9999887654   57899999999999999999999999997532
+
+
+Q MGYP0002787478  251 TVTNQNGKSVPQRFMGGVLWFLKEYEKASGGSFGYRPGGSAITSSSWATEEQKRVIAVNGTVTMAQLEMLVRRCFEDTAD  330 (460)
+Q Consensus       251 t~tg~nGks~P~R~TgGll~fI~~~~~~~~~~~~~~~~~s~~~~~~w~~~~~~~i~~~gG~~t~~~le~~l~~~F~~~a~  330 (460)
+                      +   +++  .+.+.++||..+|......     +                      +.+..+++++|+++++.|+++   
+T Consensus       166 ~---~~~--~~~~~fdGL~~~I~~~~~i-----d----------------------~~g~~lT~~~L~~~l~~i~~~---  210 (463)
+T 5LII_P          166 S---EVE--GEGLEFDGLAKLIDKNNVI-----N----------------------AKGNQLTEKHLNEAAVRIGKG---  210 (463)
+T ss_dssp             S---SSS--CCSSCCCSSSTTCSSCCCB-----C----------------------SSCCCCCSHHHHHHHHHHHHT---
+T ss_pred             C---CCC--CCcceechHHHHhhcCCEe-----c----------------------CCCCCCCHHHHHHHHHHHHhc---
+Confidence            0   111  2469999999999632211     1                      135789999999999999977   
+
+
+Q MGYP0002787478  331 SSFEKLLVCGSTLYSVFQSYFEMKSIKTTTL--KTKEESYGMTINMWESPWGTLYLKSHPLFQRSALRTSGFILDVGCLG  408 (460)
+Q Consensus       331 GS~EKl~fcG~~~l~~in~~a~~~~~~~~~l--~~~~~~yG~~v~~~~Tp~Gtl~l~~HPLf~~~~~~~~~~ilD~~~l~  408 (460)
+                      ++.++.++|++.+++.|++++... . ++..  ++....+|+.|..|+|+||.++|+.|++|+.+    .+  ||+++|.
+T Consensus       211 gG~p~~i~m~~~~k~~i~~~~~~~-~-r~~~~~~~~~~~~G~~V~~y~T~fG~i~li~~~~m~~~----~i--Ld~~~~~  282 (463)
+T 5LII_P          211 FGTATDAYMPIGVHADFVNSILGR-Q-MQLMQDNSGNVNTGYSVNGFYSSRGFIKLHGSTVMENE----LI--LDESLQP  282 (463)
+T ss_dssp             TCCCCBCCCCTTTTTTTTTTTSSC-C-CCCSSCCSSCCCCCCCCCCCBSSSBCCCCCCCCCCSSS----SC--TTSTTCC
+T ss_pred             CCCcCEEEecHHHHHHHHHHhhcc-e-eeeccCCCCceeeeeEEeEEEcCCceeEEeccccCCCC----cc--cchhHCC
+Confidence            667899999999999999776654 3 4422  13467899999999999999999999999842    22  8888887
+
+
+Q MGYP0002787478  409 WN  410 (460)
+Q Consensus       409 yR  410 (460)
+                      +.
+T Consensus       283 ~~  284 (463)
+T 5LII_P          283 LP  284 (463)
+T ss_dssp             CC
+T ss_pred             CC
+Confidence            64
+
+
+No 2
+>6J3Q_U the major capsid protein, the; cyanophage, Siphoviridae, capsid, VIRUS; 3.53A {Microcystis phage Mic1}
+Probab=98.84  E-value=3.7e-12  Score=129.56  Aligned_cols=239  Identities=10%  Similarity=0.061  Sum_probs=192.1  Template_Neff=9.400
+
+Q MGYP0002787478  185 GYEFPIEVENYTQIFRETVGPFSRNALKAGQRFDKTGVYTSAVKQASLRLTEAMEMSTFFGERAVRTVTNQNGKSVPQRF  264 (460)
+Q Consensus       185 ~~~~p~~~~NYTQIFRt~~~~~t~Ta~kt~~r~~~tg~~~~~~k~~~l~~~~~iErA~~fG~k~~~t~tg~nGks~P~R~  264 (460)
+                      ....++++++++||++..+. +++++.++..   +.++++.++++++++|++++|+.||.|..              .+.
+T Consensus        74 ~~~~~~~~~~~~~i~~~~~~-~s~~~~~~~~---~~d~~~~~~~~~~~~~~~~~e~~l~~G~~--------------~~~  135 (348)
+T 6J3Q_U           74 LPISAASVQSTFTLNLKEIE-ESKEQVTNEE---LRNLLEAQMRNAVEEIATTLNKKLYDGSG--------------AIA  135 (348)
+T ss_pred             ecccceeEEEEEEEcHHHHH-HhccCCChHH---HHHHHHHHHHHHHHHHHHHHHHhcccCCc--------------ccc
+Confidence            44668999999999998887 8876543333   57899999999999999999999998873              378
+
+
+Q MGYP0002787478  265 MGGVLWFLKEYEKASGGSFGYRPGGSAITSSSWATEEQKR----VIAV--NGTVTMAQLEMLVRRCFEDTADSSFEKLLV  338 (460)
+Q Consensus       265 TgGll~fI~~~~~~~~~~~~~~~~~s~~~~~~w~~~~~~~----i~~~--gG~~t~~~le~~l~~~F~~~a~GS~EKl~f  338 (460)
+                      ++||..++. ...+.    +++ +++++++++|++.....    +.++  +..|++++|+++++.|+..   ++.+++|+
+T Consensus       136 ~~Gl~~~~~-~~~~~----~~~-gi~~~~~~~w~~~~~~~~~~~~~~~~~~~~lt~~~l~~~~~~i~~~---~g~~~~i~  206 (348)
+T 6J3Q_U          136 DGGLIGLSI-AASGQ----DYA-GISSATYPLWNVSEVDAWDANATGTDKRQALKTDFMLELDRKIRYR---PGAYDLIL  206 (348)
+T ss_pred             cCCeeEEEE-cCCCc----ccc-CcccccccccccceeccccccCCCCCccccccHHHHHHHHHHHHhC---CCCCCEEE
+Confidence            999999984 32221    244 78888899998764321    0112  5789999999999999987   66789999
+
+
+Q MGYP0002787478  339 CGSTLYSVFQSYFEMKSIKTTT-LK-----TKEESYGMTINMWESPWGTLYLKSHPLFQR---------------SALRT  397 (460)
+Q Consensus       339 cG~~~l~~in~~a~~~~~~~~~-l~-----~~~~~yG~~v~~~~Tp~Gtl~l~~HPLf~~---------------~~~~~  397 (460)
+                      |++.++++|+++++.. . ++. .+     +....+|+.+.    +|+++||+.||+|+.               +...+
+T Consensus       207 ~~~~~~~~~~~~~~~~-~-~~~~~~~~~~~~~~~~~G~~~~----~f~gvpii~~~~~~~~~~~~~~~~~~~~g~~~~~~  280 (348)
+T 6J3Q_U          207 TTPKVVEQYKKVFEAN-R-SYQIMTFDGQRVPLIDLGFNVA----GYMGRPIIDDVFCSRTRTAAESAITTALGTAVDEG  280 (348)
+T ss_pred             eCHHHHHHHHHHHHhh-c-eEEeeecCCcccchhhcCCcee----EEcCeeEEeccccCcccchhhhhcccccCCcccCC
+Confidence            9999999999988865 3 442 22     22568999998    999999999999993               12368
+
+
+Q MGYP0002787478  398 SGFILDVGCLGWNDLQDSE-VTLLKNRQNNDEDGRKD------EFLGEGGLVVKAPENHMYLEGIT  456 (460)
+Q Consensus       398 ~~~ilD~~~l~yR~l~~rd-t~l~~n~Q~~~~Dg~kd------eyLTE~GLE~~~p~~ha~l~gvt  456 (460)
+                      +||+||++++++++++++. ++..+++.+.+++..+.      +++++++|+|+||+++++|++|+
+T Consensus       281 ~iy~ld~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~L~~~n~~~~g~l~~i~  346 (348)
+T 6J3Q_U          281 VMYFLKKDDLRFYSTPVVGAFSANGVYTLMRQLAQTSLYVDNFVVGCIPQLQLTTRKNVGVIKNIK  346 (348)
+T ss_pred             eEEEEEcccEEEEEcCCCCccccCCceeccchhcccCcchhhhheEEeeeeeecCcccceEEEecc
+Confidence            9999999999999999988 77776666777778787      99999999999999999999986
+
+
+No 3
+>5LII_P Major capsid protein; polyvalent staphylococcal bactoriophage, Myoviridae, tail; 3.8A {Staphylococcus phage 812}
+Probab=13.70  E-value=1.6e+02  Score=33.62  Aligned_cols=43  Identities=5%  Similarity=-0.159  Sum_probs=34.3  Template_Neff=7.400
+
+Q MGYP0002787478   14 YSEKAIRSIFWKYPQGKAILTYLLSLMDSEETDKPKFSWFEQRHA   58 (460)
+Q Consensus        14 ~~~~~~~~i~~~~Png~apltal~s~m~se~~ddp~f~w~~~~~~   58 (460)
+                      .++..-+.|+.+.|+ ..| ..|+++|++++...+.+.|+++...
+T Consensus        44 ~~edL~~~I~~~~~~-~t~-~pll~~i~~~~a~~~~~~w~~~~~~   86 (463)
+T 5LII_P           44 RREILDDQITMLTWT-NED-LIFYRDISRRPAQSTVVKYDQYLRH   86 (463)
+T ss_dssp             SCCCCCCCCCCCSCC-STT-CCHHHHSCEEECCSSSCCCCEEECC
+T ss_pred             chHHHHHHHHHHccc-CCc-cchHHhccceecCCceEEeEEEeec
+Confidence            334444579999999 565 5778999999999999999998764
+
+
+No 4
+>2NUD_C Avirulence B protein, RPM1-interacting protein; AvrB RIN4 high-affinity crystal structure; HET: ETF, TRS; 2.3A {Pseudomonas syringae pv. glycinea}
+Probab=11.04  E-value=2.2e+02  Score=21.25  Aligned_cols=9  Identities=44%  Similarity=1.003  Sum_probs=5.6  Template_Neff=5.400
+
+Q MGYP0002787478  193 ENYTQIFRE  201 (460)
+Q Consensus       193 ~NYTQIFRt  201 (460)
+                      .+|++||..
+T Consensus        22 ~~yT~~F~~   30 (35)
+T 2NUD_C           22 DGYTHIFNK   30 (35)
+T ss_dssp             CSSCEEEEC
+T ss_pred             CCCchHHHH
+Confidence            466777754
+
+
+No 5
+>3FXT_A Nucleoside diphosphate-linked moiety X motif; NUDIX, NUDT6, GFG, FGF2AS, Antisense; HET: GOL; 2.3A {Homo sapiens}
+Probab=9.77  E-value=2.6e+02  Score=26.25  Aligned_cols=16  Identities=13%  Similarity=0.019  Sum_probs=10.3  Template_Neff=5.800
+
+Q MGYP0002787478  433 DEFLGEGGLVVKAPEN  448 (460)
+Q Consensus       433 deyLTE~GLE~~~p~~  448 (460)
+                      ..+..+.|+++++.+.
+T Consensus        84 Ipia~~~GF~fHHa~~   99 (113)
+T 3FXT_A           84 IAPAASLGFCFHHAES   99 (113)
+T ss_dssp             HHHHHHTTCEEEEEEB
+T ss_pred             HHHHHHcCcEEEEccC
+Confidence            3566677777776543
+
+
+No 6
+>3EAB_I Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, ATP-binding; 2.5A {Homo sapiens}
+Probab=7.28  E-value=3.9e+02  Score=20.75  Aligned_cols=9  Identities=33%  Similarity=0.494  Sum_probs=3.5  Template_Neff=7.400
+
+Q MGYP0002787478  436 LGEGGLVVK  444 (460)
+Q Consensus       436 LTE~GLE~~  444 (460)
+                      .-|.||++.
+T Consensus        10 ~dE~Gle~~   18 (50)
+T 3EAB_I           10 ADEAGLDLN   18 (50)
+T ss_dssp             HHHHTCCC-
+T ss_pred             HHHHCChhh
+Confidence            344444443
+
+
+No 7
+>3EAB_L Spastin, cDNA, FLJ94734, Homo sapiens; Spastin, CHMP, MIT, ESCRT, Alternative; 2.5A {Homo sapiens}
+Probab=7.28  E-value=3.9e+02  Score=20.75  Aligned_cols=9  Identities=33%  Similarity=0.494  Sum_probs=2.6  Template_Neff=7.400
+
+Q MGYP0002787478  436 LGEGGLVVK  444 (460)
+Q Consensus       436 LTE~GLE~~  444 (460)
+                      .-|.||++.
+T Consensus        10 ~dE~Gle~~   18 (50)
+T 3EAB_L           10 ADEAGLDLN   18 (50)
+T ss_dssp             HHHTTC---
+T ss_pred             HHHHCChhh
+Confidence            344444443
+
+
+No 8
+>2FTC_K MITOCHONDRIAL RIBOSOME, LARGE SUBUNIT; MITOCHONDRIAL RIBOSOME, LARGE RIBOSOMAL SUBUNIT; 12.1A {Bos taurus}
+Probab=6.93  E-value=4.2e+02  Score=24.17  Aligned_cols=12  Identities=17%  Similarity=0.465  Sum_probs=10.2  Template_Neff=6.300
+
+Q MGYP0002787478  109 KFRVDDVVWIKR  120 (460)
+Q Consensus       109 ~Frv~d~v~v~~  120 (460)
+                      .|++||+|.|.-
+T Consensus         3 ~~~~GD~v~V~~   14 (98)
+T 2FTC_K            3 EFYVGSILRVTT   14 (98)
+T ss_pred             CCCCCCEEEEEE
+Confidence            689999999865
+
+
+No 9
+>5US8_A Adenosylhomocysteinase (E.C.3.3.1.1); Structural Genomics, Center for Structural; HET: ADN, EPE, PGE; 2.15A {Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)}
+Probab=6.63  E-value=4.4e+02  Score=30.08  Aligned_cols=51  Identities=8%  Similarity=-0.014  Sum_probs=30.0  Template_Neff=7.700
+
+Q MGYP0002787478  340 GSTLYSVFQSYFEMKSIKTTTLKTKEESYGMTI-NMWESPWGTLYLKSHPLFQ  391 (460)
+Q Consensus       340 G~~~l~~in~~a~~~~~~~~~l~~~~~~yG~~v-~~~~Tp~Gtl~l~~HPLf~  391 (460)
+                      ....++.++++....+.+++.. -.....|++. ..|++|-+.+-+..|..+-
+T Consensus       260 ~~~ll~~ln~~~g~~GiGr~~~-~e~r~~G~K~r~vyE~P~~~il~~Ah~~Le  311 (448)
+T 5US8_A          260 PVELLLEANRIGGRHGLGMSDQ-IENRIIEAKSRGIYEAPGLALLFIAYERLV  311 (448)
+T ss_dssp             HHHHHHHHHHHHHTTTTTCEEE-EEECTTSCEEEEEEECHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhcCCCccee-eeccccccccCeeeccHHHHHHHHHHHHHH
+Confidence            4566666776665442212211 1123456554 3488888888888888885
+
+
+No 10
+>6E5Y_A Adenosylhomocysteinase (E.C.3.3.1.1, 1.8.1.7); Structural Genomics, Center for Structural; HET: SO4, AMP; 1.5A {Bordetella pertussis}
+Probab=6.63  E-value=4.4e+02  Score=30.08  Aligned_cols=51  Identities=8%  Similarity=-0.014  Sum_probs=30.0  Template_Neff=7.700
+
+Q MGYP0002787478  340 GSTLYSVFQSYFEMKSIKTTTLKTKEESYGMTI-NMWESPWGTLYLKSHPLFQ  391 (460)
+Q Consensus       340 G~~~l~~in~~a~~~~~~~~~l~~~~~~yG~~v-~~~~Tp~Gtl~l~~HPLf~  391 (460)
+                      ....++.++++....+.+++.. -.....|++. ..|++|-+.+-+..|..+-
+T Consensus       260 ~~~ll~~ln~~~g~~GiGr~~~-~e~r~~G~K~r~vyE~P~~~il~~Ah~~Le  311 (448)
+T 6E5Y_A          260 PVELLLEANRIGGRHGLGMSDQ-IENRIIEAKSRGIYEAPGLALLFIAYERLV  311 (448)
+T ss_dssp             HHHHHHHHHHHHHTTTTTCEEE-EEECTTSCEEEEEEECHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHhcCCCccee-eeccccccccCeeeccHHHHHHHHHHHHHH
+Confidence            4566666776665442212211 1123456554 3488888888888888885
+
+

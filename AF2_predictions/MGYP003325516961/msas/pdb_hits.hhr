@@ -1,0 +1,533 @@
+Query         MGYP003325516961 FL=1 CR=1
+Match_columns 354
+No_of_seqs    153 out of 190
+Neff          5.20096
+Searched_HMMs 80799
+Date          Thu Dec 21 15:12:27 2023
+Command       /home/ubuntu/miniconda3/envs/alphafold/bin/hhsearch -i /tmp/tmp7nfkxfc3/query.a3m -o /tmp/tmp7nfkxfc3/output.hhr -maxseq 1000000 -d /blockstorage/sequence_DBs/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5LII_P Major capsid protein; p  99.9 1.6E-27   2E-32  244.6   0.0  294    8-348    23-325 (463)
+  2 6J3Q_U the major capsid protei  99.8 7.3E-23   9E-28  199.3   0.0  289   30-353    14-346 (348)
+  3 1P1L_A Periplasmic divalent ca  50.2      13 0.00016   31.9   0.0   39   29-67     62-100 (102)
+  4 1VHF_A periplasmic divalent ca  47.4      15 0.00019   32.2   0.0   43   29-71     63-105 (113)
+  5 4Y6I_B Divalent-cation toleran  45.8      17 0.00021   31.8   0.0   38   30-67     69-106 (108)
+  6 4NYP_A Divalent-cation toleran  43.6      19 0.00024   31.0   0.0   38   30-67     62-99  (102)
+  7 1NZA_A Divalent cation toleran  41.8      22 0.00027   30.5   0.0   39   29-67     63-101 (103)
+  8 1V6H_B Divalent Cation Toleran  41.8      22 0.00027   30.5   0.0   39   29-67     63-101 (103)
+  9 1NAQ_D Periplasmic divalent ca  41.7      22 0.00027   31.3   0.0   38   30-67     73-110 (112)
+ 10 5LII_P Major capsid protein; p  39.8      24  0.0003   38.4   0.0   57  297-353   401-459 (463)
+ 11 3AHP_B CutA1; CutA1, thermosta  37.7      28 0.00034   30.5   0.0   38   30-67     68-105 (108)
+ 12 3GSD_E Divalent-cation toleran  36.9      29 0.00036   31.2   0.0   38   30-67     83-120 (122)
+ 13 1UKU_A periplasmic divalent ca  34.8      33 0.00041   29.4   0.0   39   29-67     61-99  (102)
+ 14 1OSC_C similar to divalent cat  34.7      33 0.00041   31.0   0.0   40   29-68     84-123 (126)
+ 15 1OSC_F similar to divalent cat  34.7      33 0.00041   31.0   0.0   40   29-68     84-123 (126)
+ 16 6GDX_A Periplasmic divalent ca  34.6      33 0.00041   31.5   0.0   38   30-67     94-131 (133)
+ 17 2ZOM_B Protein CutA, chloropla  34.3      34 0.00042   30.3   0.0   39   30-68     72-110 (113)
+ 18 2ZOM_C Protein CutA, chloropla  34.3      34 0.00042   30.3   0.0   39   30-68     72-110 (113)
+ 19 6GDU_A Periplasmic divalent ca  34.0      35 0.00043   31.4   0.0   38   30-67     94-131 (133)
+ 20 1O5J_A periplasmic divalent ca  31.9      39 0.00049   29.9   0.0   38   30-67     74-111 (113)
+ 21 4IYQ_A Divalent ion tolerance   31.1      42 0.00052   30.6   0.0   38   30-67     87-124 (127)
+ 22 4E98_A CutA1 divalent ion tole  30.8      42 0.00053   31.0   0.0   38   30-67     98-135 (138)
+ 23 4E98_C CutA1 divalent ion tole  30.8      42 0.00053   31.0   0.0   38   30-67     98-135 (138)
+ 24 2NUH_A Periplasmic divalent ca  30.5      43 0.00053   29.8   0.0   42   29-70     66-107 (118)
+ 25 2ZFH_A CUTA; Human brain, Trim  30.5      43 0.00054   32.6   0.0   41   30-70    130-170 (179)
+ 26 2ZFH_C CUTA; Human brain, Trim  30.5      43 0.00054   32.6   0.0   41   30-70    130-170 (179)
+ 27 1KR4_A Protein of TM1056 from   29.6      46 0.00056   30.2   0.0   39   30-68     84-122 (125)
+ 28 1XK8_C Divalent cation toleran  27.4      53 0.00065   30.9   0.0   42   30-71     98-139 (147)
+ 29 1XK8_D Divalent cation toleran  27.4      53 0.00065   30.9   0.0   42   30-71     98-139 (147)
+ 30 3RKL_B STIV-A81; 4-helix bundl  26.1      58 0.00072   27.2   0.0   40  100-146     9-48  (87)
+
+No 1
+>5LII_P Major capsid protein; polyvalent staphylococcal bactoriophage, Myoviridae, tail; 3.8A {Staphylococcus phage 812}
+Probab=99.88  E-value=1.6e-27  Score=244.64  Aligned_cols=294  Identities=9%  Similarity=0.047  Sum_probs=225.8  Template_Neff=7.400
+
+Q MGYP0033255169    8 FSSYSVGYPYSASGAGVSAIGTREDAMNTLTMIDPDEA--MTLAVLAKTTTNGLRHEWFIDTLQATS--TAGAIQGDEWG   83 (354)
+Q Consensus         8 ~~~~~~~~~~~~~g~~~~avG~REDLsDvI~~IsP~eT--Pf~S~igK~kA~~t~HEWqtD~Laa~~--~na~iEGdD~~   83 (354)
+                      ..+|+|||+++|+++...+++++|+|.+.|.++.|+++  ||+++|++.++.+..|+|.++...++.  +.+..|++.++
+T Consensus        23 ~ka~~ag~~~~~~~~~~~a~l~~edL~~~I~~~~~~~t~~pll~~i~~~~a~~~~~~w~~~~~~~~~~~~~~~~Eg~~~~  102 (463)
+T 5LII_P           23 VKSFQTGYGITPDTQIDAGALRREILDDQITMLTWTNEDLIFYRDISRRPAQSTVVKYDQYLRHGNVGHSRFVKEIGVAP  102 (463)
+T ss_dssp             -----CCSCCCSCCCCSSSCCSCCCCCCCCCCCSCCSTTCCHHHHSCEEECCSSSCCCCEEECCCCCSSTTCCSSCCSCC
+T ss_pred             HHHHhhCCCCCccccccchhcchHHHHHHHHHHcccCCccchHHhccceecCCceEEeEEEeecCCCcccceeeecCCCC
+Confidence            45788999999999999999999999999999999999  999999999999999999999999875  47888888876
+
+
+Q MGYP0033255169   84 ASSPVNNVKTLKARTRLWNSVQWFRQDWSITTDELMLSQRGQIFGVSDELSYQTGKASQEVNRNIDARLWALGSATFGSS  163 (354)
+Q Consensus        84 a~a~~~~~~t~~~~~RlgNytQI~~K~~~VSgTqeav~~Ag~~aGr~~E~aYQ~aK~~kELkRDiE~~l~~~~~a~~g~~  163 (354)
+                      ...       . .+.++.|++||++..+.+|+.++.+..      ..|++++|+++++++|++++|+.||+|+....   
+T Consensus       103 ~~~-------~-~~~~~tn~~qi~~~~~~VS~t~~~v~~------~~d~~a~q~~~~~~~i~~~iE~ali~G~~~~~---  165 (463)
+T 5LII_P          103 VSD-------P-NIRQKTVSMKYVSDTKNMSIASGLVNN------IADPSQILTEDAIAVVAKTIEWASFYGDASLT---  165 (463)
+T ss_dssp             CCC-------C-EEECCCCCCCCCCCCCCCCHHHHHSCC------SSCSHHHHHHHHHHHHHHHHHHHHHSCCCCCC---
+T ss_pred             CCC-------C-cceEeeeeEEEEEccEEecHHHHHHcc------CCCHHHHHHHHHHHHHHHHHHHHhhhcccccC---
+Confidence            654       3 559999999999999999999887654      67999999999999999999999999996421   
+
+
+Q MGYP0033255169  164 LGTDSSAPTMATFRSFAHASGVSATVANTTFSTAQFYTLHENMWAAGAKPDTLFVSPGVKSDISRVLLGDTSYPTSQNGN  243 (354)
+Q Consensus       164 ~g~~~~a~~~~~~~~~~~~~g~~~t~a~tt~t~a~l~t~~q~~~~~Gg~p~~l~v~p~~K~~~S~~~~~~t~~~~~~~~~  243 (354)
+                      .+++.+.++|+||..++..++. ++..+..|++++|+++++.++..++.|+.++|++.++++|++.+....++....   
+T Consensus       166 ~~~~~~~~~fdGL~~~I~~~~~-id~~g~~lT~~~L~~~l~~i~~~gG~p~~i~m~~~~k~~i~~~~~~~~r~~~~~---  241 (463)
+T 5LII_P          166 SEVEGEGLEFDGLAKLIDKNNV-INAKGNQLTEKHLNEAAVRIGKGFGTATDAYMPIGVHADFVNSILGRQMQLMQD---  241 (463)
+T ss_dssp             SSSSCCSSCCCSSSTTCSSCCC-BCSSCCCCCSHHHHHHHHHHHHTTCCCCBCCCCTTTTTTTTTTTSSCCCCCSSC---
+T ss_pred             CCCCCCcceechHHHHhhcCCE-ecCCCCCCCHHHHHHHHHHHHhcCCCcCEEEecHHHHHHHHHHhhcceeeeccC---
+Confidence            0123345999999999965443 444568899999999999999877788999999999999997776544442110   
+
+
+Q MGYP0033255169  244 QGIPGVQSANVINGGEYGPVIDFIRTDFGRVAMVVDRWMPQQTVTANATAHSENAAYFLVEKAKLRVAWWRPIKPYQV-A  322 (354)
+Q Consensus       244 ~~~~~~~~~~v~~~~~~~~~vDvY~sDFG~v~vvpnR~m~~~~v~a~~t~~~~na~~F~lDp~~~~va~LRp~~~~~L-A  322 (354)
+                          +      .....+|..|..|.++||.++|+.|++|+.+.               +||+++|.+. ..|..+... .
+T Consensus       242 ----~------~~~~~~G~~V~~y~T~fG~i~li~~~~m~~~~---------------iLd~~~~~~~-~ap~~p~~~~~  295 (463)
+T 5LII_P          242 ----N------SGNVNTGYSVNGFYSSRGFIKLHGSTVMENEL---------------ILDESLQPLP-NAPQPAKVTAT  295 (463)
+T ss_dssp             ----C------SSCCCCCCCCCCCBSSSBCCCCCCCCCCSSSS---------------CTTSTTCCCC-CTTSSCCCCCC
+T ss_pred             ----C------CCceeeeeEEeEEEcCCceeEEeccccCCCCc---------------ccchhHCCCC-CCCCCCeeEEE
+Confidence                0      12567899999999999999999999999532               3899888775 344443311 1
+
+
+Q MGYP0033255169  323 -T---TGDNVKVYVLGACTTEVLHPTALGH  348 (354)
+Q Consensus       323 -K---TGDs~K~~ii~E~TLeV~ne~A~G~  348 (354)
+                       .   .+........+.|.+.+.....+|.
+T Consensus       296 ~~~~~~g~~~~~~~~~~~~Y~v~~~~~~g~  325 (463)
+T 5LII_P          296 VETKQKGAFENEEDRAGLSYKVVVNSDDAQ  325 (463)
+T ss_dssp             CBCCCCCSCSSCCCCCCCCCCCCCCCSTTE
+T ss_pred             eecCCCCceecccccceEEEEEEEECCCcc
+Confidence             1   1111112223456666665555543
+
+
+No 2
+>6J3Q_U the major capsid protein, the; cyanophage, Siphoviridae, capsid, VIRUS; 3.53A {Microcystis phage Mic1}
+Probab=99.77  E-value=7.3e-23  Score=199.33  Aligned_cols=289  Identities=13%  Similarity=0.109  Sum_probs=226.5  Template_Neff=9.400
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQATSTAGAIQGDEWGASSPVNNVKTL-KARTRLWNSVQWFR  108 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa~~~na~iEGdD~~a~a~~~~~~t~-~~~~RlgNytQI~~  108 (354)
+                      -|+|.+.|.    +++||+++|++.+..+..|+|.++.+.++.++..+++..++...++.++++. .+++++.++++|++
+T Consensus        14 ~~~l~d~i~----~~tpll~~l~~~~~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~   89 (348)
+T 6J3Q_U           14 SELLTQEIN----RSATFLGLLSKYPERKSNIQWGVGMGGTTATGVAITGSAPAASMDATLPAQLPISAASVQSTFTLNL   89 (348)
+T ss_pred             cHHHHHHHH----hhCcHHHHhccCccccceeeeecccccccceeeeccCCCcCCCCCceeeeeecccceeEEEEEEEcH
+Confidence            478889999    8999999999999999999999999988766777787777666666766555 57999999999999
+
+
+Q MGYP0033255169  109 QDWSITTDELMLSQRGQIFGVSDELSYQTGKASQEVNRNIDARLWALGSATFGSSLGTDSSAPTMATFRSFAHASGV---  185 (354)
+Q Consensus       109 K~~~VSgTqeav~~Ag~~aGr~~E~aYQ~aK~~kELkRDiE~~l~~~~~a~~g~~~g~~~~a~~~~~~~~~~~~~g~---  185 (354)
+                      ..+.++++++++..      +.|++++|++++.++|++++|+.||.|+.            .++++||..++.....   
+T Consensus        90 ~~~~~s~~~~~~~~------~~d~~~~~~~~~~~~~~~~~e~~l~~G~~------------~~~~~Gl~~~~~~~~~~~~  151 (348)
+T 6J3Q_U           90 KEIEESKEQVTNEE------LRNLLEAQMRNAVEEIATTLNKKLYDGSG------------AIADGGLIGLSIAASGQDY  151 (348)
+T ss_pred             HHHHHhccCCChHH------HHHHHHHHHHHHHHHHHHHHHHhcccCCc------------ccccCCeeEEEEcCCCccc
+Confidence            99999987654334      78999999999999999999999998774            3678888877632110   
+
+
+Q MGYP0033255169  186 -SAT-------------V-------A--NTTFSTAQFYTLHENMWAAGAKPDTLFVSPGVKSDISRVLLGDTSYPTSQNG  242 (354)
+Q Consensus       186 -~~t-------------~-------a--~tt~t~a~l~t~~q~~~~~Gg~p~~l~v~p~~K~~~S~~~~~~t~~~~~~~~  242 (354)
+                       +++             .       +  ...|++++|+++++.|+..++.|+.|+|++.++++|.++++...++..... 
+T Consensus       152 ~gi~~~~~~~w~~~~~~~~~~~~~~~~~~~~lt~~~l~~~~~~i~~~~g~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~-  230 (348)
+T 6J3Q_U          152 AGISSATYPLWNVSEVDAWDANATGTDKRQALKTDFMLELDRKIRYRPGAYDLILTTPKVVEQYKKVFEANRSYQIMTF-  230 (348)
+T ss_pred             cCcccccccccccceeccccccCCCCCccccccHHHHHHHHHHHHhCCCCCCEEEeCHHHHHHHHHHHHhhceEEeeec-
+Confidence             111             0       1  467999999999999998776799999999999999998876554421110 
+
+
+Q MGYP0033255169  243 NQGIPGVQSANVINGGEYGPVIDFIRTDFGRVAMVVDRWMPQQT-----VTAN-ATAHSENAAYFLVEKAKLRVAWWRPI  316 (354)
+Q Consensus       243 ~~~~~~~~~~~v~~~~~~~~~vDvY~sDFG~v~vvpnR~m~~~~-----v~a~-~t~~~~na~~F~lDp~~~~va~LRp~  316 (354)
+                           ++  .+ .....+|+.+.    .|+++||+.+++|+...     ++++ +++.+..++||+||++++.+++++++
+T Consensus       231 -----~~--~~-~~~~~~G~~~~----~f~gvpii~~~~~~~~~~~~~~~~~~~~g~~~~~~~iy~ld~~~~~~~~l~~~  298 (348)
+T 6J3Q_U          231 -----DG--QR-VPLIDLGFNVA----GYMGRPIIDDVFCSRTRTAAESAITTALGTAVDEGVMYFLKKDDLRFYSTPVV  298 (348)
+T ss_pred             -----CC--cc-cchhhcCCcee----EEcCeeEEeccccCcccchhhhhcccccCCcccCCeEEEEEcccEEEEEcCCC
+Confidence                 00  00 01457898888    99999999999999410     1111 12234468999999999999999998
+
+
+Q MGYP0033255169  317 K-PYQV----ATTGDNVKV------YVLGACTTEVLHPTALGHAAGII  353 (354)
+Q Consensus       317 ~-~~~L----AKTGDs~K~------~ii~E~TLeV~ne~A~G~~Ad~~  353 (354)
+                      . ++.+    +.+++..+.      ++.++++|+|.+|+++|+|++|+
+T Consensus       299 ~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~L~~~n~~~~g~l~~i~  346 (348)
+T 6J3Q_U          299 GAFSANGVYTLMRQLAQTSLYVDNFVVGCIPQLQLTTRKNVGVIKNIK  346 (348)
+T ss_pred             CccccCCceeccchhcccCcchhhhheEEeeeeeecCcccceEEEecc
+Confidence            8 7665    566667777      89999999999999999999986
+
+
+No 3
+>1P1L_A Periplasmic divalent cation tolerance protein; T835, NYSGXRC, PSI, Protein Structure; 2.0A {Archaeoglobus fulgidus} SCOP: d.58.5.2
+Probab=50.21  E-value=13  Score=31.87  Aligned_cols=39  Identities=5%  Similarity=0.085  Sum_probs=31.1  Template_Neff=7.400
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      ..+.+.+.|...-|.+.|.+..++-...+....+|..+.
+T Consensus        62 ~~~~v~~~i~~~HpYe~P~i~~~~i~~~~~~y~~Wl~~~  100 (102)
+T 1P1L_A           62 KFAEVRDEVKAMHSYTTPCICAIPIERGLKEFLDWIDET  100 (102)
+T ss_dssp             GHHHHHHHHHHHCSSSSCCEEEEECCCCCHHHHHHHHHH
+T ss_pred             hHHHHHHHHHHhCCCCCCEEEEEEchhcCHHHHHHHHHh
+Confidence            466788888888888999999888877777788887654
+
+
+No 4
+>1VHF_A periplasmic divalent cation tolerance protein; structural genomics, unknown function; 1.54A {Thermotoga maritima} SCOP: d.58.5.2
+Probab=47.43  E-value=15  Score=32.23  Aligned_cols=43  Identities=12%  Similarity=0.214  Sum_probs=33.2  Template_Neff=7.000
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQAT   71 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa~   71 (354)
+                      ..+.+.+.|..+=|.+.|.+-.++-........+|..+...+.
+T Consensus        63 ~~~~i~~~I~~~HpYe~P~I~~~~i~~~~~~y~~W~~~~~~~~  105 (113)
+T 1VHF_A           63 KEKELYEELRKLHPYETPAIFTLKVENVLTEYMNWLRESVLEG  105 (113)
+T ss_dssp             GHHHHHHHHHHHCSSSSCCEEEEECSCCCHHHHHHHHHHC---
+T ss_pred             HHHHHHHHHHHHCCCCCCEEEEEehhhcCHHHHHHHHHhcccC
+Confidence            4677888888888889999998887777788899988777654
+
+
+No 5
+>4Y6I_B Divalent-cation tolerance protein CutA; CutA1, METAL BINDING PROTEIN; 1.7A {Escherichia coli K-12}
+Probab=45.78  E-value=17  Score=31.85  Aligned_cols=38  Identities=18%  Similarity=0.261  Sum_probs=28.4  Template_Neff=6.700
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|..+-|.+.|.+-.++-........+|..+.
+T Consensus        69 ~~~i~~~i~~~HpYe~P~I~~~~v~~~~~~Y~~Wl~~~  106 (108)
+T 4Y6I_B           69 QQALLEALKSHHPYQTPELLVLPVTHGDTDYLSWLNAS  106 (108)
+T ss_dssp             HHHHHHHHHHHSSSSSCCEEEEECCEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHhCCCCCCEEEEEecccCCHHHHHHHHHh
+Confidence            56677777777778888888887766677778887654
+
+
+No 6
+>4NYP_A Divalent-cation tolerance protein CutA; Cuta, Trimer, Divalent Cation Tolerance; HET: CSD, SO4; 2.0A {Pyrococcus horikoshii}
+Probab=43.62  E-value=19  Score=30.95  Aligned_cols=38  Identities=13%  Similarity=0.289  Sum_probs=28.8  Template_Neff=7.200
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.|.+.|...-|.+.|.+-.++-........+|....
+T Consensus        62 ~~~i~~~i~~~H~Ye~P~i~~~~v~~~~~~y~~Wi~~~   99 (102)
+T 4NYP_A           62 WEELKERIKELHPYDVPAIIRIDVDDVNEDYLKWLIEE   99 (102)
+T ss_dssp             HHHHHHHHHHHCSSSSCCCEEEECSEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEEhhhcCHHHHHHHHHh
+Confidence            56677777777777888888887777777778887654
+
+
+No 7
+>1NZA_A Divalent cation tolerance protein; CutA, Cellular tolerance, Monomer, structural; 1.7A {Thermus thermophilus} SCOP: d.58.5.2
+Probab=41.85  E-value=22  Score=30.52  Aligned_cols=39  Identities=10%  Similarity=0.197  Sum_probs=29.3  Template_Neff=7.600
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-...+....+|..+.
+T Consensus        63 ~~~~i~~~i~~~HpYe~P~i~~~~i~~~~~~y~~W~~~~  101 (103)
+T 1NZA_A           63 AFPKLKERVKALHPYTVPEIVALPIAEGNREYLDWLREN  101 (103)
+T ss_dssp             THHHHHHHHHHHSSSSSCCEEEEECCCCCHHHHHHHHHT
+T ss_pred             hHHHHHHHHHHHCCCCCCEEEEEeccccCHHHHHHHHHh
+Confidence            356677778877788889888888777777778886543
+
+
+No 8
+>1V6H_B Divalent Cation Tolerance Protein CutA1; CutA, Copper Tolerance, Trimer, STRUCTURAL; 1.9A {Thermus thermophilus} SCOP: d.58.5.2
+Probab=41.85  E-value=22  Score=30.52  Aligned_cols=39  Identities=10%  Similarity=0.197  Sum_probs=29.3  Template_Neff=7.600
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-...+....+|..+.
+T Consensus        63 ~~~~i~~~i~~~HpYe~P~i~~~~i~~~~~~y~~W~~~~  101 (103)
+T 1V6H_B           63 AFPKLKERVKALHPYTVPEIVALPIAEGNREYLDWLREN  101 (103)
+T ss_dssp             THHHHHHHHHHHCCSSSCCCEEEECCEECHHHHHHHHHT
+T ss_pred             hHHHHHHHHHHHCCCCCCEEEEEeccccCHHHHHHHHHh
+Confidence            356677778877788889888888777777778886543
+
+
+No 9
+>1NAQ_D Periplasmic divalent cation tolerance protein; CUTA, copper resistance, Structural Proteomics; HET: HG, MBO; 1.7A {Escherichia coli} SCOP: d.58.5.2
+Probab=41.73  E-value=22  Score=31.28  Aligned_cols=38  Identities=18%  Similarity=0.252  Sum_probs=27.9  Template_Neff=7.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|..+-|.+.|.+-.++-........+|..+.
+T Consensus        73 ~~~i~~~I~~~HpYe~P~i~~~~v~~~~~~y~~Wi~~~  110 (112)
+T 1NAQ_D           73 QQALLECLKSHHPYQTPELLVLPVTHGDTDYLSWLNAS  110 (112)
+T ss_dssp             HHHHHHHHHHHSTTSCCCCEEEECSEECHHHHHHHHHT
+T ss_pred             HHHHHHHHHHhCCCCCCEEEEEecccCCHHHHHHHHHh
+Confidence            55677777777777888888887666667778886654
+
+
+No 10
+>5LII_P Major capsid protein; polyvalent staphylococcal bactoriophage, Myoviridae, tail; 3.8A {Staphylococcus phage 812}
+Probab=39.77  E-value=24  Score=38.37  Aligned_cols=57  Identities=12%  Similarity=0.135  Sum_probs=41.6  Template_Neff=7.400
+
+Q MGYP0033255169  297 NAAYFL--VEKAKLRVAWWRPIKPYQVATTGDNVKVYVLGACTTEVLHPTALGHAAGII  353 (354)
+Q Consensus       297 na~~F~--lDp~~~~va~LRp~~~~~LAKTGDs~K~~ii~E~TLeV~ne~A~G~~Ad~~  353 (354)
+                      +..+|+  ++++.+.+..|-|+.-.+++.........+.||+.|.+.+|+.+.+|.+|.
+T Consensus       401 t~~~~~~~~~~~~~~~~~llp~~k~pl~~~~~~~~~~v~~y~~l~~~~P~~~~~i~nv~  459 (463)
+T 5LII_P          401 TADVFVGEMSPQVVHLFELLPMMKLPLAQINASITFAVLWYGALALRAPKKWARIKNVR  459 (463)
+T ss_dssp             CCCEEEECCSTTTEEEEESSCSCCCCCCCSSSCCCCCCCCCCCEEESCTTSEEEEBCCC
+T ss_pred             ceEEEEecCChheeeHHHhhhccCCCHHhcChhHHHHHHHhHHHHHHCcceEEEEEeec
+Confidence            456776  445666777777765335544444556788999999999999999999985
+
+
+No 11
+>3AHP_B CutA1; CutA1, thermostable protein, ELECTRON TRANSPORT; 2.7A {Shewanella}
+Probab=37.65  E-value=28  Score=30.53  Aligned_cols=38  Identities=13%  Similarity=0.146  Sum_probs=27.7  Template_Neff=6.800
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|...-|.+.|.+-.++-.......++|..+.
+T Consensus        68 ~~~i~~~i~~~HpYe~P~I~~~~~~~~~~~Y~~Wv~~~  105 (108)
+T 3AHP_B           68 YPAIEQLVITMHPYEVPEFIATPIIGGFGPYLQWIKDN  105 (108)
+T ss_dssp             HHHHHHHHHHHSSSSSCCEEEEEECEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEeccccCHHHHHHHHHc
+Confidence            45677777777777888888877666667778887654
+
+
+No 12
+>3GSD_E Divalent-cation tolerance protein cutA; CutA, idp00456, divalent-cation tolerance protein; HET: NA, EPE, EDO, PEG; 2.05A {Yersinia pestis CO92}
+Probab=36.86  E-value=29  Score=31.20  Aligned_cols=38  Identities=13%  Similarity=0.208  Sum_probs=28.0  Template_Neff=6.500
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|...-|.+.|.+-.++-........+|..+.
+T Consensus        83 ~~~i~~~I~~~HpYe~P~I~~~~i~~~~~~Y~~Wi~~~  120 (122)
+T 3GSD_E           83 QQALLTYIKQHHPYQTPELLVLPVRDGDKDYLSWLNAS  120 (122)
+T ss_dssp             HHHHHHHHHHTCSSSSCCCEEEECCEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEecccCCHHHHHHHHhh
+Confidence            45677777777777888888887776677778887654
+
+
+No 13
+>1UKU_A periplasmic divalent cation tolerance protein; CUTA, COPPER TOLERANCE, structural genomics; 1.45A {Pyrococcus horikoshii} SCOP: d.58.5.2
+Probab=34.80  E-value=33  Score=29.37  Aligned_cols=39  Identities=13%  Similarity=0.271  Sum_probs=29.0  Template_Neff=7.600
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-........+|....
+T Consensus        61 ~~~~i~~~i~~~HpYe~P~i~~~~v~~~~~~y~~W~~~~   99 (102)
+T 1UKU_A           61 LWEELKERIKELHPYDVPAIIRIDVDDVNEDYLKWLIEE   99 (102)
+T ss_dssp             GHHHHHHHHHHHCSSSSCCCEEEECSCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHCCCCCCEEEEEEhhhcCHHHHHHHHHh
+Confidence            355677777777778889888887777777778886654
+
+
+No 14
+>1OSC_C similar to divalent cation tolerant; CUTA, copper resistance, Structural Proteomics; 2.15A {Rattus norvegicus} SCOP: d.58.5.2
+Probab=34.67  E-value=33  Score=30.98  Aligned_cols=40  Identities=13%  Similarity=0.127  Sum_probs=28.1  Template_Neff=6.600
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTL   68 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~L   68 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-........+|..+..
+T Consensus        84 ~~~~i~~~I~~~HpYevPeIi~~~i~~~~~~Y~~Wi~~~~  123 (126)
+T 1OSC_C           84 LVPALTEFVRSVHPYEVAEVIALPVEQGNPPYLHWVHQVT  123 (126)
+T ss_dssp             GHHHHHHHHHHHCSSSSCCEEEEEECEECHHHHHHHHHTT
+T ss_pred             hHHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHhc
+Confidence            3556677777777778888887776666677788876544
+
+
+No 15
+>1OSC_F similar to divalent cation tolerant; CUTA, copper resistance, Structural Proteomics; 2.15A {Rattus norvegicus} SCOP: d.58.5.2
+Probab=34.67  E-value=33  Score=30.98  Aligned_cols=40  Identities=13%  Similarity=0.127  Sum_probs=27.3  Template_Neff=6.600
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTL   68 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~L   68 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-........+|..+..
+T Consensus        84 ~~~~i~~~I~~~HpYevPeIi~~~i~~~~~~Y~~Wi~~~~  123 (126)
+T 1OSC_F           84 LVPALTEFVRSVHPYEVAEVIALPVEQGNPPYLHWVHQVT  123 (126)
+T ss_dssp             GHHHHHHHHHHHCCC-CCCEEEEEECEECHHHHHHHHHTT
+T ss_pred             hHHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHhc
+Confidence            3556677777777778888887776666677788876544
+
+
+No 16
+>6GDX_A Periplasmic divalent cation tolerance protein; alleged copper binding protein, PII; HET: BTB; 1.17A {Synechococcus elongatus (strain PCC 7942)}
+Probab=34.59  E-value=33  Score=31.48  Aligned_cols=38  Identities=13%  Similarity=0.154  Sum_probs=26.1  Template_Neff=6.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.|.+.|...=|.+.|.+-.++-........+|..+.
+T Consensus        94 ~~~l~~~I~~~HpYevPeIi~~~i~~~~~~Y~~Wl~~~  131 (133)
+T 6GDX_A           94 LDALQQWLQSQHPYALPECLVLTPIASSVAYRDWLRSS  131 (133)
+T ss_dssp             HHHHHHHHHHHCSSSSCCCEEECCSEEEHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEcccccCHHHHHHHHHh
+Confidence            45667777767777778777777666666677776543
+
+
+No 17
+>2ZOM_B Protein CutA, chloroplast, putative, expressed; Trimeric structure, Protein stability, unknown; HET: GOL, SO4; 3.02A {Oryza sativa subsp. japonica}
+Probab=34.33  E-value=34  Score=30.29  Aligned_cols=39  Identities=10%  Similarity=0.085  Sum_probs=29.2  Template_Neff=6.700
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTL   68 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~L   68 (354)
+                      .+.+.+.|...-|.+.|.+-.++-........+|..+..
+T Consensus        72 ~~~i~~~i~~~HpYe~P~I~~~~v~~~~~~Y~~Wi~~~~  110 (113)
+T 2ZOM_B           72 LDALTEHVKANHEYDVPEVIALPIKGGNLKYLEWLKNST  110 (113)
+T ss_dssp             HHHHHHHHHHTCSSSSCCCEEEECCCBCHHHHHHHHTTS
+T ss_pred             HHHHHHHHHHhCCCCCCEEEEEeccccCHHHHHHHHHhc
+Confidence            566777777777778888888877777777788876554
+
+
+No 18
+>2ZOM_C Protein CutA, chloroplast, putative, expressed; Trimeric structure, Protein stability, unknown; HET: GOL, SO4; 3.02A {Oryza sativa subsp. japonica}
+Probab=34.33  E-value=34  Score=30.29  Aligned_cols=39  Identities=10%  Similarity=0.085  Sum_probs=29.2  Template_Neff=6.700
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTL   68 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~L   68 (354)
+                      .+.+.+.|...-|.+.|.+-.++-........+|..+..
+T Consensus        72 ~~~i~~~i~~~HpYe~P~I~~~~v~~~~~~Y~~Wi~~~~  110 (113)
+T 2ZOM_C           72 LDALTEHVKANHEYDVPEVIALPIKGGNLKYLEWLKNST  110 (113)
+T ss_dssp             HHHHHHHHHHTCSSSSCCEEEEEECCBCHHHHHHHHHHS
+T ss_pred             HHHHHHHHHHhCCCCCCEEEEEeccccCHHHHHHHHHhc
+Confidence            566777777777778888888877777777788876554
+
+
+No 19
+>6GDU_A Periplasmic divalent cation tolerance protein; alleged copper binding protein, PII; 1.75A {Synechococcus elongatus (strain PCC 7942)}
+Probab=34.03  E-value=35  Score=31.38  Aligned_cols=38  Identities=13%  Similarity=0.154  Sum_probs=26.1  Template_Neff=6.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.|.+.|...=|.+.|.+-.++-........+|..+.
+T Consensus        94 ~~~i~~~I~~~HpYevPeIi~~~v~~~~~~Y~~Wl~~~  131 (133)
+T 6GDU_A           94 LDALQQWLQSQHPYALPECLVLTPIASSVAYRDWLRSS  131 (133)
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEehhhcCHHHHHHHHHh
+Confidence            45666777766677778777777666666677776543
+
+
+No 20
+>1O5J_A periplasmic divalent cation tolerance protein; TM1056, PERIPLASMIC DIVALENT CATION TOLERANCE; 1.95A {Thermotoga maritima} SCOP: d.58.5.2
+Probab=31.93  E-value=39  Score=29.94  Aligned_cols=38  Identities=13%  Similarity=0.249  Sum_probs=29.0  Template_Neff=6.600
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|..+-|.+.|.+..++-........+|..+.
+T Consensus        74 ~~~I~~~I~~~HpYe~P~I~~i~i~~~~~~Y~~Wi~~~  111 (113)
+T 1O5J_A           74 EKELYEELRKLHPYETPAIFTLKVENVLTEYMNWLRES  111 (113)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEECCCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEechhcCHHHHHHHHhh
+Confidence            56677777777788889988888777777778887653
+
+
+No 21
+>4IYQ_A Divalent ion tolerance protein CutA1; SSGCID, Ehrlichia chaffeensis, divalent ion; 2.55A {Ehrlichia chaffeensis}
+Probab=31.05  E-value=42  Score=30.56  Aligned_cols=38  Identities=21%  Similarity=0.351  Sum_probs=27.6  Template_Neff=6.200
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.+.+.|...-|.+.|.+-.++-........+|..+.
+T Consensus        87 ~~~i~~~I~~~HpYe~PeIi~~~v~~~~~~Y~~Wi~~~  124 (127)
+T 4IYQ_A           87 VQHATNKIQAIHPYDTPAIITIDPTNANDKFIQWVNDC  124 (127)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEECCSEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEECccccCHHHHHHHHHh
+Confidence            55677777777777888888887766667777886654
+
+
+No 22
+>4E98_A CutA1 divalent ion tolerance protein; SSGCID, Structural Genomics, Seattle Structural; 2.0A {Cryptosporidium parvum}
+Probab=30.76  E-value=42  Score=31.02  Aligned_cols=38  Identities=16%  Similarity=0.062  Sum_probs=27.9  Template_Neff=6.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.|.+.|..+-|.+.|.+-.++-........+|..+.
+T Consensus        98 ~~~i~~~I~~~HpYevPeIi~~~i~~~~~~Yl~Wl~~~  135 (138)
+T 4E98_A           98 FTTLKEKVTEIHSYELPEIIATKVVYGNENYINWVNQT  135 (138)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEECCEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEEccccCHHHHHHHHhh
+Confidence            56677777777777888888887666667778887654
+
+
+No 23
+>4E98_C CutA1 divalent ion tolerance protein; SSGCID, Structural Genomics, Seattle Structural; 2.0A {Cryptosporidium parvum}
+Probab=30.76  E-value=42  Score=31.02  Aligned_cols=38  Identities=16%  Similarity=0.062  Sum_probs=27.9  Template_Neff=6.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDT   67 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~   67 (354)
+                      .+.|.+.|..+-|.+.|.+-.++-........+|..+.
+T Consensus        98 ~~~i~~~I~~~HpYevPeIi~~~i~~~~~~Yl~Wl~~~  135 (138)
+T 4E98_C           98 FTTLKEKVTEIHSYELPEIIATKVVYGNENYINWVNQT  135 (138)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEEEEEECHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEEccccCHHHHHHHHhh
+Confidence            56677777777777888888887666667778887654
+
+
+No 24
+>2NUH_A Periplasmic divalent cation tolerance protein; CutA, UNKNOWN FUNCTION; HET: IMD; 1.39A {Xylella fastidiosa}
+Probab=30.52  E-value=43  Score=29.80  Aligned_cols=42  Identities=10%  Similarity=0.115  Sum_probs=32.8  Template_Neff=6.900
+
+Q MGYP0033255169   29 TREDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQA   70 (354)
+Q Consensus        29 ~REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa   70 (354)
+                      ..+.+.+.|...-|.+.|.+-.++-........+|..+....
+T Consensus        66 ~~~~i~~~I~~~HpYe~P~I~~~~v~~~~~~y~~Wl~~~~~~  107 (118)
+T 2NUH_A           66 HVNAAITRLCALHPYRLPEAIAVQVSVGLPEYLTWINTEIDE  107 (118)
+T ss_pred             HHHHHHHHHHHHCCCCCCEEEEEEccccCHHHHHHHHHhcCC
+Confidence            356677788877788899999888877778888998766544
+
+
+No 25
+>2ZFH_A CUTA; Human brain, Trimeric structure, Structural; 2.05A {Homo sapiens} SCOP: d.58.5.2
+Probab=30.48  E-value=43  Score=32.55  Aligned_cols=41  Identities=12%  Similarity=0.148  Sum_probs=28.2  Template_Neff=5.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQA   70 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa   70 (354)
+                      .+.+.+.|..+-|.+.|.+-.++-........+|..+....
+T Consensus       130 ~~~I~~~I~e~HpYevPeIi~ipi~~~n~~Yl~Wl~~~t~~  170 (179)
+T 2ZFH_A          130 VPALTDFVRSVHPYEVAEVIALPVEQGNFPYLQWVRQVTES  170 (179)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEEECEECHHHHHHHHHTTC-
+T ss_pred             HHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHHccc
+Confidence            45667777766677778777777666667778887766544
+
+
+No 26
+>2ZFH_C CUTA; Human brain, Trimeric structure, Structural; 2.05A {Homo sapiens} SCOP: d.58.5.2
+Probab=30.48  E-value=43  Score=32.55  Aligned_cols=41  Identities=12%  Similarity=0.148  Sum_probs=27.7  Template_Neff=5.000
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQA   70 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa   70 (354)
+                      .+.+.+.|..+-|.+.|.+-.++-........+|..+....
+T Consensus       130 ~~~I~~~I~e~HpYevPeIi~ipi~~~n~~Yl~Wl~~~t~~  170 (179)
+T 2ZFH_C          130 VPALTDFVRSVHPYEVAEVIALPVEQGNFPYLQWVRQVTES  170 (179)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEEECEECHHHHHHHHHHC--
+T ss_pred             HHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHHccc
+Confidence            45667777766677778777777666667778887766544
+
+
+No 27
+>1KR4_A Protein of TM1056 from Thermotoga; cutA, structural genomics, PSI, Protein; 1.4A {Thermotoga maritima} SCOP: d.58.5.2
+Probab=29.65  E-value=46  Score=30.23  Aligned_cols=39  Identities=13%  Similarity=0.253  Sum_probs=29.0  Template_Neff=6.200
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTL   68 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~L   68 (354)
+                      .+.|.+.|...=|.+.|.+-.++-........+|..+..
+T Consensus        84 ~~~i~~~I~~~HpYevPeIi~~~i~~~~~~Y~~Wl~~~~  122 (125)
+T 1KR4_A           84 EKELYEELRKLHPYETPAIFTLKVENILTEYMNWLRESV  122 (125)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEECCCCEEHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHCCCCCCEEEEEehhhcCHHHHHHHHHhc
+Confidence            456777777777778888888877766777788877654
+
+
+No 28
+>1XK8_C Divalent cation tolerant protein CUTA; human, Homo sapiens, divalent cation; 2.7A {Homo sapiens} SCOP: d.58.5.2
+Probab=27.43  E-value=53  Score=30.89  Aligned_cols=42  Identities=12%  Similarity=0.144  Sum_probs=30.4  Template_Neff=5.500
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQAT   71 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa~   71 (354)
+                      .+.+.+.|..+=|.+.|.+-.++-........+|..+.....
+T Consensus        98 ~~~i~~~I~e~HpYevPeIi~~pi~~~~~~Yl~Wl~~~~~~~  139 (147)
+T 1XK8_C           98 VPALTDFVRSVHPYEVAEVIALPVEQGNFPYLQWVRQVTESV  139 (147)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEECCEECHHHHHHHHHTTC--
+T ss_pred             HHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHhcccc
+Confidence            566777777777778888888877667777888887766543
+
+
+No 29
+>1XK8_D Divalent cation tolerant protein CUTA; human, Homo sapiens, divalent cation; 2.7A {Homo sapiens} SCOP: d.58.5.2
+Probab=27.43  E-value=53  Score=30.89  Aligned_cols=42  Identities=12%  Similarity=0.144  Sum_probs=30.9  Template_Neff=5.500
+
+Q MGYP0033255169   30 REDAMNTLTMIDPDEAMTLAVLAKTTTNGLRHEWFIDTLQAT   71 (354)
+Q Consensus        30 REDLsDvI~~IsP~eTPf~S~igK~kA~~t~HEWqtD~Laa~   71 (354)
+                      .+.+.+.|..+=|.+.|.+-.++-........+|..+.....
+T Consensus        98 ~~~i~~~I~e~HpYevPeIi~~pi~~~~~~Yl~Wl~~~~~~~  139 (147)
+T 1XK8_D           98 VPALTDFVRSVHPYEVAEVIALPVEQGNFPYLQWVRQVTESV  139 (147)
+T ss_dssp             HHHHHHHHHHHCSSSSCCEEEEECCEECHHHHHHHHHTTCC-
+T ss_pred             HHHHHHHHHHHCCCCCcEEEEEehhhcCHHHHHHHHHhcccc
+Confidence            566777777777778888888877667777888887766543
+
+
+No 30
+>3RKL_B STIV-A81; 4-helix bundle, Hyperthermophilic viral protein; HET: MSE; 1.7A {Sulfolobus Turreted Icosahedral Virus}
+Probab=26.12  E-value=58  Score=27.20  Aligned_cols=40  Identities=13%  Similarity=0.247  Sum_probs=22.9  Template_Neff=1.000
+
+Q MGYP0033255169  100 LWNSVQWFRQDWSITTDELMLSQRGQIFGVSDELSYQTGKASQEVNR  146 (354)
+Q Consensus       100 lgNytQI~~K~~~VSgTqeav~~Ag~~aGr~~E~aYQ~aK~~kELkR  146 (354)
+                      ..|.+++--+++..+.-++.+..       ..++.||+.|.+..+..
+T Consensus         9 kdntieyghkefvlsnlqedikn-------laeivyqlaklieklsq   48 (87)
+T 3RKL_B            9 KDNTIEYGHKEFVLSNLQEDIKN-------LAEIVYQLAKLIEKLSQ   48 (87)
+T ss_dssp             ETTEEEETTEEEECSSHHHHHHH-------HHHHHHHHHHHHHHHTT
+T ss_pred             eCCeeeecchhhhhhhhHHHHHH-------HHHHHHHHHHHHHHHHh
+Confidence            34445555556667766654433       23566777776665544
+
+
