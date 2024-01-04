@@ -31,7 +31,9 @@
 /operon_df_filtered.csv
 /response_regulator_domains.txt
 /soaplist1
-/structures
+/structures/*.pdb
+structures/representations/
+structures/confident
 /wolf_output
 /wolflist1
 /non_RiPP-like_antiSMASH_clusters/*
