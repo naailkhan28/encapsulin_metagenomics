@@ -32,8 +32,10 @@
 /response_regulator_domains.txt
 /soaplist1
 /structures/*.pdb
+structures/pae
 structures/representations/
 structures/confident
+structures/CAZY/*.pdb
 /wolf_output
 /wolflist1
 /non_RiPP-like_antiSMASH_clusters/*
@@ -57,3 +59,4 @@ ranking_debug.json
 unrelaxed_model_*.pdb
 relaxed_model_*.pdb
 TMalign
+/tmp
