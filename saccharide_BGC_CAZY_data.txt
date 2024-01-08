@@ -1,0 +1,91 @@
+MGYP001178754852
+MGYP001196446441 - CMP-NeuAc:N-acetylgalactosaminide α-2,6-sialyltransferase II (ST6GalNAc II;Sia7b;SThM) Family 29 TM-Score 0.74 (Homo sapiens) A0A024R8M1Q9UJ37
+MGYP001316708597 - hyaluronan synthase (PBCVCZ2_118R;Cz-2_118R) Family 2 TM-Score 0.79 (Paramecium bursaria Chlorella virus CZ-2) M1H2Q1
+MGYP001422618815 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.74 (Arabidopsis thaliana) P49040
+
+MGYP001238560740
+MGYP001418685844 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.78 (Arabidopsis thaliana) P49040
+MGYP003123774632 - NY2A_B736L Family 4 TM-Score 0.74 (Paramecium bursaria Chlorella virus NY2A) nan
+
+MGYP001412933479
+MGYP001324906288 - UDP-GalNAc: polypeptide α-N-acetylgalactosaminyltransferase (PGANT9A; PGANT9B; CG30463) Family 27 TM-Score 0.75 (Drosophila melanogaster) Q8MRC9
+MGYP001383139300 - UDP-GalNAc: polypeptide N-acetylgalactosaminyltransferase 10 (GalNT10;ppGalNAcT10;pp-GalNAc-T10) Family 27 TM-Score 0.73 (Homo sapiens) Q4G0E1Q86SR1Q86SR1
+MGYP003121125337 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.77 (Arabidopsis thaliana) P49040
+MGYP003121125678 - bimodular LPS [galactan I] α-1,3-galactopyranosyltransferase / β-1,3-galactofuranosyltransferase (WbbM;RfbC) Family 8 TM-Score 0.75 (Klebsiella pneumoniae 01:K20 / 889/50) Q48484
+MGYP003121125678 - bimodular LPS [galactan I] α-1,3-galactopyranosyltransferase / β-1,3-galactofuranosyltransferase (WbbM;RfbC) Family 111 TM-Score 0.75 (Klebsiella pneumoniae 01:K20 / 889/50) Q48484Q79E50
+MGYP003121125766 - glycogen synthase 1 (GlgA) Family 5 TM-Score 0.74 (Agrobacterium tumefaciens A348) P0A3F3P39670
+
+MGYP001581572508
+MGYP001561091420 - UDP-GalNAc: polypeptide N-acetylgalactosaminyltransferase 10 (GalNT10;ppGalNAcT10;pp-GalNAc-T10) Family 27 TM-Score 0.82 (Homo sapiens) Q4G0E1Q86SR1Q86SR1
+MGYP001557959829 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.79 (Arabidopsis thaliana) P49040
+
+MGYP001595624303
+MGYP001558243036 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.84 (Arabidopsis thaliana) P49040
+MGYP001558586866 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.84 (Arabidopsis thaliana) P49040
+MGYP001563014911 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.84 (Arabidopsis thaliana) P49040
+MGYP001568944321 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.89 (Arabidopsis thaliana) P49040
+MGYP001569263360 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.82 (Arabidopsis thaliana) P49040
+MGYP001588450346 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.83 (Arabidopsis thaliana) P49040
+MGYP001563980993 - α-glucan phosphorylase (PHS2;AtPHS2;At3g46970) Family 35 TM-Score 0.8 (Arabidopsis thaliana) nan
+MGYP001569984048 - UDP-GlcNAc: L-malate α-N?acetylglucosaminyltransferase (BshA;USA300HOU_1396) Family 4 TM-Score 0.88 (Staphylococcus aureus subsp. aureus USA300_TCH1516) A0A068A5A2A8Z438T1Y9F7
+MGYP001571534905 - GDP-Man: dolichyl-phosphate β-mannosyltransferase / dolichylphosphate mannose synthase (PfDPMS; PF0058) Family 2 TM-Score 0.82 (Pyrococcus furiosus DSM 3638) nan
+MGYP001572126581 - GDP-Man: dolichyl-phosphate β-mannosyltransferase / dolichylphosphate mannose synthase (PfDPMS; PF0058) Family 2 TM-Score 0.88 (Pyrococcus furiosus DSM 3638) nan
+MGYP001578263727 - GDP-L-Fuc: protein O-fucosyltransferase 2 (POFUT2; C21orf80; FUT13; KIAA0958) Family 68 TM-Score 0.72 (Homo sapiens) A8K3W7B4DH78B4DNV6Q9Y2G5S6FMI4S6FW71
+MGYP001588652737 - sucrose synthase (Ss2;SuSyNe;NE1214) Family 4 TM-Score 0.8 (Nitrosomonas europaea ATCC 19718) Q820M5
+
+MGYP003110546203
+MGYP003110545466 - UDP-Galf; galactan b-(1,5)- / b-(1,6)-galactofuranosyltransferase (GlfT2;GlfT;Rv3808c) Family 2 TM-Score 0.88 (Mycobacterium tuberculosis H37Rv) O53585
+MGYP003110545618 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.76 (Escherichia coli K4) Q8L0V4
+MGYP003110545618 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.76 (Escherichia coli K4) Q8L0V4
+
+MGYP003111233400
+MGYP003111233659 - UDP-GalNAc: polypeptide α-N-acetylgalactosaminyltransferase (PGANT9A; PGANT9B; CG30463) Family 27 TM-Score 0.75 (Drosophila melanogaster) Q8MRC9
+MGYP003111233796 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.76 (Arabidopsis thaliana) P49040
+MGYP003110814064 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.84 (Escherichia coli K4) Q8L0V4
+MGYP003110814064 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.84 (Escherichia coli K4) Q8L0V4
+MGYP003110814157 - cellulose synthase (CESA7) Family 2 TM-Score 0.76 (Gossypium hirsutum) L7NUA2
+
+MGYP003111298200
+MGYP001379529187 - hyaluronan synthase (PBCVCZ2_118R;Cz-2_118R) Family 2 TM-Score 0.8 (Paramecium bursaria Chlorella virus CZ-2) M1H2Q1
+
+MGYP003131024615
+MGYP003108819511 - KPHS_49390 Family 35 TM-Score 0.83 (Klebsiella pneumoniae subsp. pneumoniae HS11286) nan
+
+MGYP003131556693
+MGYP003131556077 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.81 (Arabidopsis thaliana) P49040
+MGYP003131556091 - NY2A_B736L Family 4 TM-Score 0.76 (Paramecium bursaria Chlorella virus NY2A) nan
+
+MGYP003134444350
+MGYP003134444702 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.73 (Arabidopsis thaliana) P49040
+MGYP003134444684 - cellulose synthase (CESA7) Family 2 TM-Score 0.76 (Gossypium hirsutum) L7NUA2
+MGYP003134444826 - ADP-Glc-dependent α-maltose-1-phosphate synthase (GlgA;MSMEG_5080) Family 4 TM-Score 0.83 (Mycolicibacterium smegmatis MC2 155) A0R2E2
+MGYP003134444929 - UDP-GalNAc: polypeptide N-acetylgalactosaminyltransferase 12 (ppGalNAcT12; Galnt12) Family 27 TM-Score 0.82 (Homo sapiens) Q58A70Q68VJ1Q8IXK2Q8IXK2
+
+MGYP003331015935
+MGYP003331015461 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.81 (Escherichia coli K4) Q8L0V4
+MGYP003331015461 - chondroitin polymerase (KfoC; K4CP) Family 2 TM-Score 0.81 (Escherichia coli K4) Q8L0V4
+
+MGYP003332394819
+MGYP003331016224 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.81 (Arabidopsis thaliana) P49040
+
+MGYP003341041167
+MGYP003332756897 - CDIF27147_00738 (TcdA) Family 44 TM-Score 0.74 (Clostridioides difficile R20291) nan
+MGYP003333785714 - cytotoxin L / UDP-Glc: Ras/Rho [GTP-binding protein] glucosyltransferase (TcdL) Family 44 TM-Score 0.74 (Paeniclostridium sordellii 6018) Q46342
+MGYP003332756948 - UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 7 (GALNT7;GALNAC-T7;GalNAcT7) Family 27 TM-Score 0.78 (Homo sapiens) B3KQU3B4DIB4Q4W5F7Q86SF2Q86SF2
+MGYP003333519427 - [inverting] GDP-α-D-lincosamide: ergothioneine β-D-lincosaminyltransferase (SLINC_0253) Family Unclassified TM-Score 0.82 (Streptomyces lincolnensis NRRL 2936) nan
+MGYP003334185446 - UDP-GalNAc:polypeptide α-N-acetylgalactosaminyltransferase T3 (Galnt3; TgGalNAc-T3) Family 27 TM-Score 0.71 (Taeniopygia guttata) nan
+
+MGYP003626144734
+MGYP003626144850 - sucrose synthase 1 (Sus1;AtSus1;At5g20830) Family 4 TM-Score 0.76 (Arabidopsis thaliana) P49040
+
+MGYP003636931262
+MGYP003624946996 - cellulose synthase (CESA7) Family 2 TM-Score 0.74 (Gossypium hirsutum) L7NUA2
+MGYP003624946991 - UDP-GlcNAc: protein [Serine] α-N-acetylglucosaminyltransferase (GtfA;OGT;SP1758) Family 4 TM-Score 0.76 (Streptococcus pneumoniae TIGR4) A0A0H2URG7Q97P84
+
+MGYP003638549746
+MGYP003631920257 - UDP-GalNAc: polypeptide α-N-acetylgalactosaminyltransferase (PGANT9A; PGANT9B; CG30463) Family 27 TM-Score 0.76 (Drosophila melanogaster) Q8MRC9
+MGYP003388175338 - glycogen phosphorylase (muscle) (PigM) Family 35 TM-Score 0.73 (Homo sapiens) A0A0M4FEM1B2RB32B4DRQ4B4DRW6P11217
+
+MGYP003662771788
+MGYP003624593695 - cellulose synthase (CESA7) Family 2 TM-Score 0.76 (Gossypium hirsutum) L7NUA2
+
